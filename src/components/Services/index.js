@@ -32,7 +32,7 @@ const Services = () => {
           </div>
         </div>
 
-        <div class='flex grid h-full grid-cols-12 gap-10 pb-10 mt-8 sm:mt-16'>
+        <div class='flex grid h-full grid-cols-12 gap-[1.5rem] sm:gap-10 pb-10 mt-8 sm:mt-16'>
           <div class='relative flex flex-col items-start justify-end h-full col-span-12 overflow-hidden rounded-xl group md:col-span-6 xl:col-span-4'>
             <a
               href='#_'
