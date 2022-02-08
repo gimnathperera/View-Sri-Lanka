@@ -1,3 +1,5 @@
+import logo from 'src/assets/img/logo.jpg';
+
 const Footer = () => {
   return (
     <>
@@ -10,15 +12,11 @@ const Footer = () => {
                   href='javascript:void(0)'
                   class='inline-block max-w-[160px] mb-6'
                 >
-                  <img
-                    src='https://cdn.tailgrids.com/1.0/assets/images/logo/logo.svg'
-                    alt='logo'
-                    class='max-w-full'
-                  />
+                  <img src={logo} alt='logo' class='max-w-full' />
                 </a>
                 <p class='text-base text-body-color mb-7'>
-                  Sed ut perspiciatis undmnis is iste natus error sit amet
-                  voluptatem totam rem aperiam.
+                  To showcase the worlds splendor to a global audience by
+                  offering a differentiated travel experience.
                 </p>
                 <p class='flex items-center text-sm text-dark font-medium'>
                   <span class='text-primary mr-3'>
@@ -343,7 +341,9 @@ const Footer = () => {
                     </svg>
                   </a>
                 </div>
-                <p class='text-base text-body-color'>&copy; 2025 TailGrids</p>
+                <p class='text-base text-body-color'>
+                  &copy; 2022 Views Lanka Tours
+                </p>
               </div>
             </div>
           </div>

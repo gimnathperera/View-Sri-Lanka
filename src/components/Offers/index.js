@@ -1,36 +1,32 @@
+import Bentota1 from 'src/assets/img/home/Bentota1.jpg';
+import daytour20 from 'src/assets/img/home/daytour20.jpg';
+import daytour22 from 'src/assets/img/home/yala12.jpg';
+import whale from 'src/assets/img/home/whale.png';
+import sigiriya7 from 'src/assets/img/home/sigiriya7.jpg';
+import hikkaduwa1 from 'src/assets/img/home/hikkaduwa1.jpg';
+
 const Offers = () => {
   return (
-    <section class='flex items-center justify-center py-20 bg-white min-w-screen'>
-      <div class='container'>
+    <section class='flex items-center justify-center py-20  min-w-screen '>
+      <div class='container p-4 backdrop-blur-2xl'>
         <div class='flex flex-wrap'>
           <div class='w-full px-4'>
             <div class='text-center mx-auto mb-12 lg:mb-20 max-w-[510px]'>
-              <span class='font-semibold text-lg text-primary mb-2 block'>
+              <span class='font-semibold text-lg text-primary mb-2 block text-[#E5E7EB]'>
                 EXCURSIONS
               </span>
-              <h2
-                class='
-            font-bold
-            text-3xl
-            sm:text-4xl
-            md:text-[40px]
-            text-dark
-            mb-4
-            '
-              >
-                What We Offer
+              <h2 class='font-bold lg:justify-center sm:text-4xl md:text-[40px] text-dark mb-4  lg:text-5xl'>
+                What we offer
               </h2>
-              <p class='text-base text-body-color'>
-                We Offer The Following Excursions
-              </p>
+              <div class='block w-full h-0.5 max-w-lg mt-6 bg-purple-100 rounded-full'></div>
             </div>
           </div>
         </div>
         <div class='grid gap-10 md:grid-cols-3'>
-          <div class='flex flex-col m-4 overflow-hidden rounded shadow-md hover:shadow-lg'>
+          <div class='flex flex-col m-4 overflow-hidden rounded hover:shadow-white shadow-md hover:shadow-lg backdrop-blur-2xl cursor-pointer hover:backdrop-blur-3xl'>
             <img
-              class='object-cover w-full h-56 sm:h-48'
-              src='https://images.unsplash.com/photo-1519139270028-ab664cf42264?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80'
+              class='object-cover w-full h-56 sm:h-48 hover:scale-110 transition duration-300 ease-in-out'
+              src={daytour20}
               alt='...'
               style={{ clipPath: 'polygon(0 0, 100% 0%, 100% 100%, 0 80%)' }}
             />
@@ -45,7 +41,8 @@ const Offers = () => {
                   Ride the rapids letting adrenalin take over as you paddle down
                   the Kelani River in Kithulagala with respites in between to
                   take in the beauty and the calm of nature before hitting the
-                  next rapid.
+                  next rapid.in Kithulagala with respites in between to take in
+                  the beauty.
                 </p>
               </div>
             </div>
@@ -66,10 +63,10 @@ const Offers = () => {
             </div>
           </div>
 
-          <div class='flex flex-col m-4 overflow-hidden rounded shadow-md hover:shadow-lg'>
+          <div class='flex flex-col m-4 overflow-hidden rounded hover:shadow-[#f5d0fe] shadow-md hover:shadow-lg backdrop-blur-2xl cursor-pointer'>
             <img
-              class='object-cover w-full h-56 sm:h-48'
-              src='https://images.unsplash.com/photo-1519139270028-ab664cf42264?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80'
+              class='object-cover w-full h-56 sm:h-48 hover:scale-110 transition duration-300 ease-in-out'
+              src={daytour22}
               alt='...'
               style={{ clipPath: 'polygon(0 0, 100% 0%, 100% 100%, 0 80%)' }}
             />
@@ -84,7 +81,7 @@ const Offers = () => {
                   Whether it be Yala, Wilpattu, Udawalawe, Minneriya or any
                   other national park, the wild life you will see will leave you
                   awestruck. Safaris can be arranged to suit your liking from
-                  half day safaris to camping in the wild.
+                  half day safaris to camping in the wild. to suit your.
                 </p>
               </div>
             </div>
@@ -105,11 +102,11 @@ const Offers = () => {
             </div>
           </div>
 
-          <div class='flex flex-col m-4 overflow-hidden rounded shadow-md hover:shadow-lg'>
+          <div class='flex flex-col m-4 overflow-hidden rounded  hover:shadow-[#fda4af] shadow-md hover:shadow-lg backdrop-blur-2xl cursor-pointer'>
             <img
-              class='object-cover w-full h-56 sm:h-48'
-              src='https://images.unsplash.com/photo-1519139270028-ab664cf42264?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80'
-              alt='...'
+              class='object-cover w-full h-56 sm:h-48 hover:scale-110 transition duration-300 ease-in-out'
+              src={whale}
+              alt='offer_img'
               style={{ clipPath: 'polygon(0 0, 100% 0%, 100% 100%, 0 80%)' }}
             />
 
@@ -144,10 +141,10 @@ const Offers = () => {
             </div>
           </div>
 
-          <div class='flex flex-col m-4 overflow-hidden rounded shadow-md hover:shadow-lg'>
+          <div class='flex flex-col m-4 overflow-hidden rounded hover:shadow-[#2dd4bf] shadow-md hover:shadow-lg backdrop-blur-2xl cursor-pointer'>
             <img
-              class='object-cover w-full h-56 sm:h-48'
-              src='https://images.unsplash.com/photo-1519139270028-ab664cf42264?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80'
+              class='object-cover w-full h-56 sm:h-48 hover:scale-110 transition duration-300 ease-in-out'
+              src={Bentota1}
               alt='...'
               style={{ clipPath: 'polygon(0 0, 100% 0%, 100% 100%, 0 80%)' }}
             />
@@ -183,10 +180,10 @@ const Offers = () => {
             </div>
           </div>
 
-          <div class='flex flex-col m-4 overflow-hidden rounded shadow-md hover:shadow-lg'>
+          <div class='flex flex-col m-4 overflow-hidden rounded hover:shadow-[#38bdf8] shadow-md hover:shadow-lg backdrop-blur-2xl cursor-pointer'>
             <img
-              class='object-cover w-full h-56 sm:h-48'
-              src='https://images.unsplash.com/photo-1519139270028-ab664cf42264?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80'
+              class='object-cover w-full h-56 sm:h-48 hover:scale-110 transition duration-300 ease-in-out'
+              src={sigiriya7}
               alt='...'
               style={{ clipPath: 'polygon(0 0, 100% 0%, 100% 100%, 0 80%)' }}
             />
@@ -222,10 +219,10 @@ const Offers = () => {
             </div>
           </div>
 
-          <div class='flex flex-col m-4 overflow-hidden rounded shadow-md hover:shadow-lg'>
+          <div class='flex flex-col m-4 overflow-hidden rounded hover:shadow-[#fde047] shadow-md hover:shadow-lg backdrop-blur-2xl cursor-pointer'>
             <img
-              class='object-cover w-full h-56 sm:h-48'
-              src='https://images.unsplash.com/photo-1519139270028-ab664cf42264?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80'
+              class='object-cover w-full h-56 sm:h-48 hover:scale-110 transition duration-300 ease-in-out'
+              src={hikkaduwa1}
               alt='...'
               style={{ clipPath: 'polygon(0 0, 100% 0%, 100% 100%, 0 80%)' }}
             />

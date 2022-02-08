@@ -1,23 +1,26 @@
 import { Carousel } from 'react-responsive-carousel';
+import hero7 from 'src/assets/img/home/hero7.jpg';
+import hero2 from 'src/assets/img/home/hero2.jpg';
+import hero4 from 'src/assets/img/home/hero4.jpg';
 
 const heroList = [
   {
     header: 'We Travel Beyond',
     subHeader: 'The Extra Ordinary!',
     description: 'Treated like a VIP member, enjoy all the previllages.',
-    image: 'https://cdn.devdojo.com/images/november2020/hero-image.jpeg',
+    image: hero7,
   },
   {
     header: 'Premium luxary Travel Service',
     subHeader: 'With Personal Touch',
     description: 'Individual attention to your every need.',
-    image: 'https://cdn.devdojo.com/images/november2020/hero-image.jpeg',
+    image: hero2,
   },
   {
     header: 'Premium Features',
     subHeader: 'You Feel Like a VIP on the go',
     description: 'Enjoy the luxury lifestyle while travelling.',
-    image: 'https://cdn.devdojo.com/images/november2020/hero-image.jpeg',
+    image: hero4,
   },
 ];
 
@@ -65,7 +68,7 @@ const HeroComponent = ({ data }) => {
           </div>
         </div>
         <div class='w-full md:w-1/2'>
-          <div class='w-full h-auto overflow-hidden rounded-md shadow-xl sm:rounded-xl'>
+          <div class='w-full h-auto overflow-hidden rounded-md shadow-xl sm:rounded-xl hover:shadow-[#38bdf8] shadow-md hover:shadow-lg'>
             <img src={image} alt='hero_image' />
           </div>
         </div>
@@ -85,7 +88,6 @@ const Hero = () => {
         showThumbs={false}
         showArrows={false}
         axis={'vertical'}
-        
       >
         {heroList &&
           heroList?.map((hero, index) => (

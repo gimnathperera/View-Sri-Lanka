@@ -3,8 +3,8 @@ import React from 'react';
 const VideoSection = () => {
   return (
     <section class='flex items-center justify-center py-20 bg-white min-w-screen'>
-      <div class='flex flex-col items-center justify-center p-10 mx-auto lg:flex-row lg:max-w-6xl lg:p-0'>
-        <div class='container relative z-20 flex flex-col w-full px-5 pb-1 pr-12 mb-16 text-2xl text-gray-700 lg:w-1/2 sm:px-0 md:px-10 sm:items-center lg:items-start lg:mb-0'>
+      <div class='flex flex-col items-center justify-center mx-auto lg:flex-row lg:max-w-6xl lg:p-0'>
+        <div class='container relative z-20 flex flex-col w-full px-5 pb-1 pr-12 mb-16 text-2xl text-gray-700 lg:w-1/2 sm:px-0 md:px-8 sm:items-center lg:items-start lg:mb-0'>
           <h1 class='relative z-20 text-5xl font-extrabold leading-none text-purple-500 xl:text-6xl sm:text-center lg:text-left'>
             Experience Our
             <br class='md:hidden lg:block' />{' '}

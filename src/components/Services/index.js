@@ -1,13 +1,25 @@
+import daytour from 'src/assets/img/home/daytour6.jpg';
+import taxi from 'src/assets/img/home/taxie.png';
+import travel from 'src/assets/img/home/travel.png';
+import img_3 from 'src/assets/img/home/img_3.jpg';
+
 const Services = () => {
   return (
     <section class='bg-white'>
       <div class='w-full px-5 py-6 mx-auto space-y-5 sm:py-8 md:py-12 sm:space-y-8 md:space-y-16 max-w-7xl'>
         <div class='flex flex-col items-center sm:px-5 md:flex-row'>
-          <div class='w-full md:w-1/2'>
-            <a href='#_' class='block'>
+          <div class='w-full md:w-1/2 overflow-hidden rounded-lg'>
+            <a
+              href='#_'
+              class='block rounded-lg hover:shadow-[#4ade80] shadow-md hover:shadow-lg'
+              style={{
+                backgroundImage: `url(${daytour})`,
+              }}
+            >
               <img
-                class='object-cover w-full h-full rounded-lg max-h-64 sm:max-h-96'
-                src='https://cdn.devdojo.com/images/may2021/cupcakes.jpg'
+                class='object-cover w-full h-full rounded-lg max-h-64 sm:max-h-96 transition duration-300 ease-in-out hover:scale-110'
+                src={daytour}
+                alt='img'
               />
             </a>
           </div>
@@ -32,20 +44,19 @@ const Services = () => {
           </div>
         </div>
 
-        <div class='flex grid h-full grid-cols-12 gap-[1.5rem] sm:gap-10 pb-10 mt-8 sm:mt-16'>
+        <div class='flex grid h-full grid-cols-12 gap-[1.5rem] sm:gap-10 pb-10 mt-8 sm:mt-16 cursor-pointer'>
           <div class='relative flex flex-col items-start justify-end h-full col-span-12 overflow-hidden rounded-xl group md:col-span-6 xl:col-span-4'>
             <a
               href='#_'
               class='block w-full transition duration-300 ease-in-out transform bg-center bg-cover h-96 hover:scale-110'
               style={{
-                backgroundImage:
-                  'url(https://cdn.devdojo.com/images/may2021/quench-satisfying.jpg)',
+                backgroundImage: `url(${taxi})`,
               }}
             ></a>
-            <div class='relative z-20 w-full h-auto py-8 text-white bg-purple-500 border-t-0 border-yellow-200 px-7'>
+            <div class='relative z-20 w-full h-auto py-8 text-white bg-[#1A9CD7] border-t-0 border-yellow-200 px-7'>
               <a
                 href='#_'
-                class='inline-block text-xs font-semibold absolute top-0 -mt-3.5 rounded-full px-4 py-2 uppercase text-purple-500 bg-white'
+                class='inline-block text-xs font-semibold absolute top-0 -mt-3.5 rounded-full px-4 py-2 uppercase text-[#1A9CD7] bg-white'
               >
                 Resources
               </a>
@@ -57,19 +68,18 @@ const Services = () => {
               </p>
             </div>
           </div>
-          <div class='relative flex flex-col items-start justify-end h-full col-span-12 overflow-hidden rounded-xl group sm:col-span-12 xl:col-span-4'>
+          <div class='relative flex flex-col items-start justify-end h-full col-span-12 overflow-hidden rounded-xl group sm:col-span-12 xl:col-span-4 cursor-pointer'>
             <a
               href='#_'
               class='block w-full transition duration-300 ease-in-out transform bg-center bg-cover h-96 hover:scale-110'
               style={{
-                backgroundImage:
-                  'url(https://cdn.devdojo.com/images/may2021/orange.jpg)',
+                backgroundImage: `url(${travel})`,
               }}
             ></a>
-            <div class='relative z-20 flex flex-col items-start justify-center w-full h-auto py-8 text-white bg-yellow-400 border-t-0 border-yellow-200 sm:h-full xl:h-auto px-7'>
+            <div class='relative z-20 flex flex-col items-start justify-center w-full h-auto py-8 text-white bg-[#D52089] border-t-0 border-yellow-200 sm:h-full xl:h-auto px-7'>
               <a
                 href='#_'
-                class='inline-block text-xs font-semibold absolute sm:mb-5 xl:mb-0 sm:relative xl:absolute top-0 -mt-3.5 rounded-full px-4 py-2 uppercase text-yellow-400 bg-white'
+                class='inline-block text-xs font-semibold absolute sm:mb-5 xl:mb-0 sm:relative xl:absolute top-0 -mt-3.5 rounded-full px-4 py-2 uppercase text-[#D52089] bg-white'
               >
                 Entertainment
               </a>
@@ -81,21 +91,20 @@ const Services = () => {
               </p>
             </div>
           </div>
-          <div class='relative flex flex-col items-start justify-end h-full col-span-12 overflow-hidden rounded-xl group sm:col-span-12 xl:col-span-4'>
+          <div class='relative flex flex-col items-start justify-end h-full col-span-12 overflow-hidden rounded-xl group sm:col-span-12 xl:col-span-4 cursor-pointer'>
             <a
               href='#_'
               class='block w-full transition duration-300 ease-in-out transform bg-center bg-cover h-96 hover:scale-110'
               style={{
-                backgroundImage:
-                  'url(https://cdn.devdojo.com/images/may2021/orange.jpg)',
+                backgroundImage: `url(${img_3})`,
               }}
             ></a>
-            <div class='relative z-20 flex flex-col items-start justify-center w-full h-auto py-8 text-white bg-yellow-400 border-t-0 border-yellow-200 sm:h-full xl:h-auto px-7'>
+            <div class='relative z-20 flex flex-col items-start justify-center w-full h-auto py-8 text-white bg-[#32AD51] border-t-0 border-yellow-200 sm:h-full xl:h-auto px-7'>
               <a
                 href='#_'
-                class='inline-block text-xs font-semibold absolute sm:mb-5 xl:mb-0 sm:relative xl:absolute top-0 -mt-3.5 rounded-full px-4 py-2 uppercase text-yellow-400 bg-white'
+                class='inline-block text-xs font-semibold absolute sm:mb-5 xl:mb-0 sm:relative xl:absolute top-0 -mt-3.5 rounded-full px-4 py-2 uppercase text-[#32AD51] bg-white'
               >
-                Entertainment
+                Spacial Packages
               </a>
               <h2 class='mb-5 text-5xl font-bold'>
                 <a href='#_'>Special Tour Packages</a>

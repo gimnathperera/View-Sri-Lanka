@@ -5,7 +5,7 @@ const Header = () => {
     <div class='navbar shadow-lg bg-white text-black-content'>
       <div class='flex-1 px-2 mx-2'>
         <div class='bg-indigo-300'>
-          {/* <img class='object-cover w-48' src={logo} /> */}
+          <img class='object-cover w-48' src={logo} />
         </div>
       </div>
       <div class='flex-none hidden px-2 mx-2 lg:flex'>

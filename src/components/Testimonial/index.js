@@ -30,14 +30,14 @@ const Testimonial = () => {
                   />
                 </div>
                 <div class='flex flex-col items-start justify-center'>
-                  <h4 class='font-bold text-gray-800'>John Doe</h4>
-                  <p class='text-gray-600'>CEO of Something</p>
+                  <h4 class='font-bold text-gray-800'>Els Veenstra</h4>
+                  <p class='text-gray-600'>Belgium </p>
                 </div>
               </div>
               <blockquote class='mt-8 text-lg text-gray-500'>
-                "This is a no-brainer if you want to take your business to the
-                next level. If you are looking for the ultimate toolset, this is
-                it!"
+                "Sri Lanka doing a range of activities, we thoroughly enjoyed
+                our first visit to this beautiful country and am very pleased
+                with the service Views Lanka Tours provided!"
               </blockquote>
             </div>
             <div class='flex flex-col items-start justify-start w-full h-auto px-0 mx-0 mb-12 border-l border-r border-transparent lg:w-1/3 lg:mb-0 lg:px-8 lg:mx-8 lg:border-gray-200'>
@@ -49,13 +49,14 @@ const Testimonial = () => {
                   />
                 </div>
                 <div class='flex flex-col items-start justify-center'>
-                  <h4 class='font-bold text-gray-800'>Jane Doe</h4>
-                  <p class='text-gray-600'>CTO of Business</p>
+                  <h4 class='font-bold text-gray-800'>Pip Hardaker & Buz</h4>
+                  <p class='text-gray-600'>United Kingdom</p>
                 </div>
               </div>
               <blockquote class='mt-8 text-lg text-gray-500'>
-                "Thanks for creating this service. My life is so much easier.
-                Thanks for making such a great product."
+                "Views Lanka Tours arranged a custom 30 day tour in the interior
+                of Sri Lanka. It was perfect! Our guide, Sampath, was excellent
+                and very funny. Sri Lanka is beautiful and safe!"
               </blockquote>
             </div>
             <div class='flex flex-col items-start justify-start w-full h-auto lg:w-1/3'>
@@ -67,13 +68,15 @@ const Testimonial = () => {
                   />
                 </div>
                 <div class='flex flex-col items-start justify-center'>
-                  <h4 class='font-bold text-gray-800'>John Smith</h4>
-                  <p class='text-gray-600'>Creator of Stuff</p>
+                  <h4 class='font-bold text-gray-800'>Clair Augustin</h4>
+                  <p class='text-gray-600'>Traveler</p>
                 </div>
               </div>
               <blockquote class='mt-8 text-lg text-gray-500'>
-                "Packed with awesome content and exactly what I was looking for.
-                I would highly recommend this to anyone."
+                "Views Lanka were outstandingly hospitable for our 14 day tour
+                of Sri Lanka. Our guide Kosala could not have looked after us
+                better. He was there with every query we had, gave suggestions
+                and such a lovely guide!"
               </blockquote>
             </div>
           </div>
