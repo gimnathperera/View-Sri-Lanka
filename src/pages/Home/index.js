@@ -11,7 +11,7 @@ const Home = () => {
       <Services />
       <Testimonial />
       <VideoSection />
-      <Offers />  
+      <Offers />
     </div>
   );
 };

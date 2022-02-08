@@ -10,7 +10,7 @@ const Header = () => {
       </div>
       <div class='flex-none hidden px-2 mx-2 lg:flex'>
         <div class='flex items-stretch'>
-          <a class='btn btn-ghost btn-sm rounded-btn'>
+          <a class='btn btn-ghost btn-sm rounded-btn' href='/'>
             <svg
               xmlns='http://www.w3.org/2000/svg'
               width='20'
@@ -37,7 +37,7 @@ const Header = () => {
             </svg>
             Destinations
           </a>
-          <a class='btn btn-ghost btn-sm rounded-btn'>
+          <a class='btn btn-ghost btn-sm rounded-btn' href='/faq'>
             <svg
               xmlns='http://www.w3.org/2000/svg'
               width='20'
@@ -79,7 +79,7 @@ const Header = () => {
             </svg>
             Blog
           </a>
-          <a class='btn btn-ghost btn-sm rounded-btn'>
+          <a class='btn btn-ghost btn-sm rounded-btn' href='contact-us'>
             <svg
               xmlns='http://www.w3.org/2000/svg'
               width='2420'
