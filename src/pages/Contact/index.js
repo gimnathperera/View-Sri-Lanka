@@ -1,6 +1,17 @@
-import ContactHero from 'src/components/ContactHero';
+import Hero from 'src/components/common/Hero';
 import Form from 'src/pages/Contact/Form';
+
 import bgImage from 'src/assets/img/contact/tel1.jpg';
+import laptop from 'src/assets/img/contact/tel2.jpg';
+
+const heroList = [
+  {
+    header: 'Frequently',
+    subHeader: 'Asked Questions!',
+    description: 'Got a question? We’ve got answers.',
+    image: laptop,
+  },
+];
 
 export const ContactUs = () => {
   return (
@@ -10,7 +21,7 @@ export const ContactUs = () => {
         backgroundImage: `url(${bgImage})`,
       }}
     >
-      <ContactHero />
+      <Hero heroList={heroList} />
       <Form />
     </div>
   );

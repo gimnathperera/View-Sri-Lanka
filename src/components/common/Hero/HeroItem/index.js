@@ -1,15 +1,3 @@
-import { Carousel } from 'react-responsive-carousel';
-import laptop from 'src/assets/img/contact/tel2.jpg';
-
-const heroList = [
-  {
-    header: 'Frequently',
-    subHeader: 'Asked Questions!',
-    description: 'Got a question? We’ve got answers.',
-    image: laptop,
-  },
-];
-
 const HeroComponent = ({ data }) => {
   const { header, subHeader, description, image } = data;
   return (
@@ -63,25 +51,4 @@ const HeroComponent = ({ data }) => {
   );
 };
 
-const ContactHero = () => {
-  return (
-    <section class='px-2 py-32 md:px-0'>
-      <Carousel
-        autoPlay
-        infiniteLoop
-        showStatus={false}
-        showIndicators={false}
-        showThumbs={false}
-        showArrows={false}
-        axis={'vertical'}
-      >
-        {heroList &&
-          heroList?.map((hero, index) => (
-            <HeroComponent data={hero} key={index} />
-          ))}
-      </Carousel>
-    </section>
-  );
-};
-
-export default ContactHero;
+export default HeroComponent;
