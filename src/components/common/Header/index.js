@@ -49,7 +49,7 @@ const Header = () => {
             </svg>
             FAQ
           </a>
-          <a class='btn btn-ghost btn-sm rounded-btn'>
+          <a class='btn btn-ghost btn-sm rounded-btn' href='/about-us'>
             <svg
               xmlns='http://www.w3.org/2000/svg'
               width='20'

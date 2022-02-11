@@ -5,6 +5,7 @@ import Home from 'src/pages/Home';
 import Blog from 'src/pages/Blog';
 import Contact from 'src/pages/Contact';
 import FAQ from 'src/pages/FAQ';
+import About from 'src/pages/About';
 
 const RouteLayout = () => {
   const routes = useRoutes([
@@ -16,6 +17,7 @@ const RouteLayout = () => {
         { path: 'blog', element: <Blog /> },
         { path: 'contact-us', element: <Contact /> },
         { path: 'faq', element: <FAQ /> },
+        { path: 'about-us', element: <About /> },
       ],
     },
   ]);
