@@ -2,7 +2,7 @@ import logo from 'src/assets/img/logo.jpg';
 
 const Header = () => {
   return (
-    <div class='navbar shadow-lg bg-white text-black-content'>
+    <div class='navbar shadow-lg bg-white text-black-content sticky top-0 z-50'>
       <div class='flex-1 px-2 mx-2'>
         <div class='bg-indigo-300'>
           <img class='object-cover w-48' src={logo} />
@@ -11,74 +11,74 @@ const Header = () => {
       <div class='flex-none hidden px-2 mx-2 lg:flex'>
         <div class='flex items-stretch'>
           <a class='btn btn-ghost btn-sm rounded-btn' href='/'>
-            🏠 Home
+            Home
           </a>
           <div class='dropdown dropdown-hover'>
-            <a class='btn btn-ghost btn-sm rounded-btn'>🚀 Destinations 🔻</a>
+            <a class='btn btn-ghost btn-sm rounded-btn'> Destinations 🔻</a>
             <ul
               tabindex='0'
-              class='p-2 shadow menu dropdown-content bg-white rounded-box w-52'
+              class='p-2 shadow menu dropdown-content backdrop-blur-xl rounded-box w-52'
             >
               <li>
-                <a>All Destinations</a>
+                <a class='font-semibold'  href='/destinations'>All Destinations</a>
               </li>
               <li>
-                <a>Colombo</a>
+                <a class='font-semibold'>Colombo</a>
               </li>
               <li>
-                <a>Dambulla</a>
+                <a class='font-semibold'>Dambulla</a>
               </li>
               <li>
-                <a>Sigiriya</a>
+                <a class='font-semibold'>Sigiriya</a>
               </li>
               <li>
-                <a>Anuradhapura</a>
+                <a class='font-semibold'>Anuradhapura</a>
               </li>
               <li>
-                <a>Polonnaruwa</a>
+                <a class='font-semibold'>Polonnaruwa</a>
               </li>
               <li>
-                <a>Kandy</a>
+                <a class='font-semibold'>Kandy</a>
               </li>
               <li>
-                <a>Nuwara Eliya</a>
+                <a class='font-semibold'>Nuwara Eliya</a>
               </li>
               <li>
-                <a>Ella</a>
+                <a class='font-semibold'>Ella</a>
               </li>
               <li>
-                <a>Yala</a>
+                <a class='font-semibold'>Yala</a>
               </li>
               <li>
-                <a>Tangalle</a>
+                <a class='font-semibold'>Tangalle</a>
               </li>
               <li>
-                <a>Galle</a>
+                <a class='font-semibold'>Galle</a>
               </li>
               <li>
-                <a>Bentota</a>
+                <a class='font-semibold'>Bentota</a>
               </li>
               <li>
-                <a>Negambo</a>
+                <a class='font-semibold'>Negambo</a>
               </li>
               <li>
-                <a>Jaffna</a>
+                <a class='font-semibold'>Jaffna</a>
               </li>
               <li>
-                <a>Trincomalee</a>
+                <a class='font-semibold'>Trincomalee</a>
               </li>
             </ul>
           </div>
 
           <a class='btn btn-ghost btn-sm rounded-btn' href='/faq'>
-            ⁉️ FAQ
+            FAQ
           </a>
           <a class='btn btn-ghost btn-sm rounded-btn' href='/about-us'>
-            💻 About
+            About
           </a>
-          <a class='btn btn-ghost btn-sm rounded-btn'>❤️ Blog</a>
+          <a class='btn btn-ghost btn-sm rounded-btn'>Blog</a>
           <a class='btn btn-ghost btn-sm rounded-btn' href='contact-us'>
-            ☎️ Contact
+            📞 Contact
           </a>
         </div>
       </div>

@@ -6,6 +6,8 @@ import Blog from 'src/pages/Blog';
 import Contact from 'src/pages/Contact';
 import FAQ from 'src/pages/FAQ';
 import About from 'src/pages/About';
+import Destination from 'src/pages/Destination';
+import DetailedView from 'src/pages/Destination/DetailedView';
 
 const RouteLayout = () => {
   const routes = useRoutes([
@@ -18,6 +20,11 @@ const RouteLayout = () => {
         { path: 'contact-us', element: <Contact /> },
         { path: 'faq', element: <FAQ /> },
         { path: 'about-us', element: <About /> },
+        {
+          path: 'destinations',
+          element: <Destination />,
+        },
+        { path: '/destinations/:id', element: <DetailedView /> },
       ],
     },
   ]);
