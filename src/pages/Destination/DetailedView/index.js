@@ -8,7 +8,6 @@ import { places } from 'src/data/destinations';
 
 const DetailedView = () => {
   const [place, setPlace] = useState(null);
-  console.log('>>===>> >>===>> place', place);
   const { id } = useParams();
 
   useEffect(() => {
