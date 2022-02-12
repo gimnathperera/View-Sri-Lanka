@@ -19,7 +19,7 @@ const Content = ({ data }) => {
       <section class='py-10 bg-white'>
         <div class='container max-w-6xl mx-auto'>
           <h3 class='mt-1 text-2xl font-bold text-left text-gray-800 sm:mx-6 sm:text-3xl md:text-4xl lg:text-5xl sm:text-center sm:mx-0'>
-            Recommended Hotels in Colombo
+            Recommended Hotels in {data?.city}
           </h3>
           <p class='mt-2 text-lg text-center text-gray-600'>
             You can get a idea about some hotels.
