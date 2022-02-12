@@ -8,6 +8,7 @@ import FAQ from 'src/pages/FAQ';
 import About from 'src/pages/About';
 import Destination from 'src/pages/Destination';
 import DetailedView from 'src/pages/Destination/DetailedView';
+import Transport from 'src/pages/Transport';
 
 const RouteLayout = () => {
   const routes = useRoutes([
@@ -25,6 +26,7 @@ const RouteLayout = () => {
           element: <Destination />,
         },
         { path: '/destinations/:id', element: <DetailedView /> },
+        { path: '/transport', element: <Transport /> },
       ],
     },
   ]);

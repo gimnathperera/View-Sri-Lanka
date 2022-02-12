@@ -1,4 +1,5 @@
 import logo from 'src/assets/img/logo.jpg';
+import { places } from 'src/data/destinations';
 
 const Header = () => {
   return (
@@ -20,53 +21,20 @@ const Header = () => {
               class='p-2 shadow menu dropdown-content backdrop-blur-xl rounded-box w-52'
             >
               <li>
-                <a class='font-semibold'  href='/destinations'>All Destinations</a>
+                <a class='font-semibold hover:text-white' href='/destinations'>
+                  All Destinations
+                </a>
               </li>
-              <li>
-                <a class='font-semibold'>Colombo</a>
-              </li>
-              <li>
-                <a class='font-semibold'>Dambulla</a>
-              </li>
-              <li>
-                <a class='font-semibold'>Sigiriya</a>
-              </li>
-              <li>
-                <a class='font-semibold'>Anuradhapura</a>
-              </li>
-              <li>
-                <a class='font-semibold'>Polonnaruwa</a>
-              </li>
-              <li>
-                <a class='font-semibold'>Kandy</a>
-              </li>
-              <li>
-                <a class='font-semibold'>Nuwara Eliya</a>
-              </li>
-              <li>
-                <a class='font-semibold'>Ella</a>
-              </li>
-              <li>
-                <a class='font-semibold'>Yala</a>
-              </li>
-              <li>
-                <a class='font-semibold'>Tangalle</a>
-              </li>
-              <li>
-                <a class='font-semibold'>Galle</a>
-              </li>
-              <li>
-                <a class='font-semibold'>Bentota</a>
-              </li>
-              <li>
-                <a class='font-semibold'>Negambo</a>
-              </li>
-              <li>
-                <a class='font-semibold'>Jaffna</a>
-              </li>
-              <li>
-                <a class='font-semibold'>Trincomalee</a>
-              </li>
+              {places?.map(({ id, city }, index) => (
+                <li key={index}>
+                  <a
+                    class='font-semibold hover:text-white'
+                    href={`/destinations/${id}`}
+                  >
+                    {city}
+                  </a>
+                </li>
+              ))}
             </ul>
           </div>
 
@@ -82,7 +50,7 @@ const Header = () => {
           </a>
         </div>
       </div>
-      <div class='flex-none'>
+      {/* <div class='flex-none'>
         <button class='btn btn-square btn-ghost'>
           <svg
             xmlns='http://www.w3.org/2000/svg'
@@ -98,7 +66,7 @@ const Header = () => {
             ></path>
           </svg>
         </button>
-      </div>
+      </div> */}
     </div>
   );
 };

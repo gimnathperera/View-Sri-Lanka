@@ -1,8 +1,8 @@
 const BookingAction = () => {
   return (
-    <section class=' dark:bg-gray-900'>
-      <div class='container flex flex-col items-center px-4 py-12 mx-auto text-center '>
-        <h2 class='text-3xl font-semibold tracking-tight text-gray-700 sm:text-4xl dark:text-white'>
+    <section class='dark:bg-gray-900 p-8 '>
+      <div class='container flex flex-col items-center px-4 py-12 mx-auto text-center backdrop-blur-xl lg:w-1/4 sm:w-full rounded-xl'>
+        <h2 class='text-3xl font-semibold tracking-tight text-white sm:text-4xl dark:text-white'>
           Want To Travel With <br /> Us?
         </h2>
 

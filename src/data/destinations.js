@@ -1,5 +1,6 @@
 // Colombo
 import colombo from 'src/assets/img/destination/colombo/colombo.jpg';
+import colomboBg from 'src/assets/img/destination/colombo/bg.jpg';
 import colomboX from 'src/assets/img/destination/colombo/colomboX.jpg';
 import Maniumpathy from 'src/assets/img/destination/colombo/Maniumpathy.jpg';
 import MarinoBeachColombo from 'src/assets/img/destination/colombo/MarinoBeachColombo.jpg';
@@ -163,7 +164,7 @@ export const places = [
     image: colombo,
     rating: 4.5,
     heroImage: colomboX,
-    backgroundImage: colomboX,
+    backgroundImage: colomboBg,
     hotels: [
       {
         name: 'Maniumpathy',
