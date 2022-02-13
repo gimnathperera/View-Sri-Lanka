@@ -70,7 +70,7 @@ const Services = () => {
           </div>
           <div class='relative flex flex-col items-start justify-end h-full col-span-12 overflow-hidden rounded-xl group sm:col-span-12 xl:col-span-4 cursor-pointer'>
             <a
-              href='#_'
+              href='/tours'
               class='block w-full transition duration-300 ease-in-out transform bg-center bg-cover h-96 hover:scale-110'
               style={{
                 backgroundImage: `url(${travel})`,
@@ -78,13 +78,13 @@ const Services = () => {
             ></a>
             <div class='relative z-20 flex flex-col items-start justify-center w-full h-auto py-8 text-white bg-[#D52089] border-t-0 border-yellow-200 sm:h-full xl:h-auto px-7'>
               <a
-                href='#_'
+                href='/tours'
                 class='inline-block text-xs font-semibold absolute sm:mb-5 xl:mb-0 sm:relative xl:absolute top-0 -mt-3.5 rounded-full px-4 py-2 uppercase text-[#D52089] bg-white'
               >
                 Entertainment
               </a>
               <h2 class='mb-5 text-5xl font-bold'>
-                <a href='#_'>Travel With Guides</a>
+                <a href='/tours'>Travel With Guides</a>
               </h2>
               <p class='mb-2 text-lg font-normal opacity-100 text-yellow-50'>
                 Travel with experienced guides and comfortable vehicles

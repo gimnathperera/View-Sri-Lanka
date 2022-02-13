@@ -9,6 +9,7 @@ import About from 'src/pages/About';
 import Destination from 'src/pages/Destination';
 import DetailedView from 'src/pages/Destination/DetailedView';
 import Transport from 'src/pages/Transport';
+import TourPackage from 'src/pages/TourPackage';
 
 const RouteLayout = () => {
   const routes = useRoutes([
@@ -27,6 +28,7 @@ const RouteLayout = () => {
         },
         { path: '/destinations/:id', element: <DetailedView /> },
         { path: '/transport', element: <Transport /> },
+        { path: '/tours', element: <TourPackage /> },
       ],
     },
   ]);
