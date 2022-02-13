@@ -1,8 +1,20 @@
+import days3Card from 'src/assets/img/tour/days3/card.jpg';
+import days4Card from 'src/assets/img/tour/days4/daytour2.jpg';
+import days5Card from 'src/assets/img/tour/days5/daytour3.jpg';
+import days6Card from 'src/assets/img/tour/days6/daytour4.jpg';
+import days7Card from 'src/assets/img/tour/days7/daytour5.jpg';
+import days8Card from 'src/assets/img/tour/days8/daytour6.jpg';
+import days9Card from 'src/assets/img/tour/days9/daytour7.jpg';
+import days12Card from 'src/assets/img/tour/days12/daytour8.jpg';
+import days13Card from 'src/assets/img/tour/days13/daytour10.jpg';
+import days15Card from 'src/assets/img/tour/days15/daytour9.jpg';
+import daysLuxuryCard from 'src/assets/img/tour/daysLuxury/daytour11.jpg';
+
 export const tourPackages = [
   {
     id: 1,
     title: 'View Sri Lanka In 03 Days',
-    cardImage: '',
+    cardImage: days3Card,
     backgroundImage: '',
     heroImage: '',
     rating: 4.2,
@@ -61,7 +73,7 @@ export const tourPackages = [
   {
     id: 2,
     title: 'View Sri Lanka In 04 Days',
-    cardImage: '',
+    cardImage: days4Card,
     backgroundImage: '',
     heroImage: '',
     rating: 4.2,
@@ -148,7 +160,7 @@ export const tourPackages = [
   {
     id: 3,
     title: 'View Sri Lanka In 05 Days',
-    cardImage: '',
+    cardImage: days5Card,
     backgroundImage: '',
     heroImage: '',
     rating: 4.2,
@@ -258,7 +270,7 @@ export const tourPackages = [
   {
     id: 4,
     title: 'View Sri Lanka In 06 Days',
-    cardImage: '',
+    cardImage: days6Card,
     backgroundImage: '',
     heroImage: '',
     rating: 4.2,
@@ -383,7 +395,7 @@ export const tourPackages = [
   {
     id: 5,
     title: 'View Sri Lanka In 07 Days',
-    cardImage: '',
+    cardImage: days7Card,
     backgroundImage: '',
     heroImage: '',
     rating: 4.2,
@@ -529,7 +541,7 @@ export const tourPackages = [
   {
     id: 6,
     title: 'View Sri Lanka In 08 Days',
-    cardImage: '',
+    cardImage: days8Card,
     backgroundImage: '',
     heroImage: '',
     rating: 4.2,
@@ -665,7 +677,7 @@ export const tourPackages = [
   {
     id: 7,
     title: 'View Sri Lanka In 09 Days',
-    cardImage: '',
+    cardImage: days9Card,
     backgroundImage: '',
     heroImage: '',
     rating: 4.2,
@@ -850,7 +862,7 @@ export const tourPackages = [
   {
     id: 8,
     title: 'View Sri Lanka In 12 Days',
-    cardImage: '',
+    cardImage: days12Card,
     backgroundImage: '',
     heroImage: '',
     rating: 4.2,
@@ -1043,7 +1055,7 @@ export const tourPackages = [
   {
     id: 9,
     title: 'View Sri Lanka In 15 Days',
-    cardImage: '',
+    cardImage: days15Card,
     backgroundImage: '',
     heroImage: '',
     rating: 4.2,
@@ -1261,7 +1273,7 @@ export const tourPackages = [
   {
     id: 10,
     title: 'Sri Lanka Honeymoon Tour',
-    cardImage: '',
+    cardImage: days13Card,
     backgroundImage: '',
     heroImage: '',
     rating: 4.2,
@@ -1492,7 +1504,7 @@ export const tourPackages = [
   {
     id: 11,
     title: '15 Days Sri Lanka Luxury Tour',
-    cardImage: '',
+    cardImage: daysLuxuryCard,
     backgroundImage: '',
     heroImage: '',
     rating: 4.2,

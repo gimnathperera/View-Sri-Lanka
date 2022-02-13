@@ -1,8 +1,8 @@
 import Hero from 'src/components/common/Hero';
 import Content from 'src/pages/TourPackage/Content';
 
-import bgImage from 'src/assets/img/faq/bg.jpg';
-import qa from 'src/assets/img/home/qa.jpg';
+import bgImage from 'src/assets/img/tour/bg.jpg';
+import qa from 'src/assets/img/tour/hero.jpg';
 
 const heroList = [
   {

@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 
 const TourCard = ({ data }) => {
-  const { title, country, image, rating, id } = data;
+  const { title, country, cardImage, rating, id } = data;
 
   return (
     <div class='relative flex flex-col items-center justify-between col-span-4 space-y-4 overflow-hidden sm:rounded-xl rounded-xl'>
@@ -9,7 +9,7 @@ const TourCard = ({ data }) => {
         to={`/destinations/${id}`}
         class='relative block overflow-hidden bg-center bg-no-repeat bg-cover w-full  rounded-xl hover:scale-110 transition duration-300 ease-in-out'
         style={{
-          backgroundImage: `url(${image})`,
+          backgroundImage: `url(${cardImage})`,
         }}
       >
         <span class='absolute z-10 inline-flex items-center px-3 py-1 text-xs font-semibold text-white bg-black rounded-full  right-4 top-4'>
