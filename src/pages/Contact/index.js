@@ -1,4 +1,5 @@
 import Hero from 'src/components/common/Hero';
+import BookingAction from 'src/components/common/BookingAction';
 import Form from 'src/pages/Contact/Form';
 
 import bgImage from 'src/assets/img/contact/tel1.jpg';
@@ -23,6 +24,8 @@ export const ContactUs = () => {
     >
       <Hero heroList={heroList} />
       <Form />
+      <BookingAction />
+
     </div>
   );
 };

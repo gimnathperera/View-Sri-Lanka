@@ -2,7 +2,7 @@ const HeroComponent = ({ data }) => {
   const { header, subHeader, description, image } = data;
   return (
     <div class='container items-center max-w-6xl px-8 mx-auto xl:px-5'>
-      <div class='flex flex-wrap items-center sm:-mx-3 backdrop-blur-xl p-10'>
+      <div class='flex flex-wrap items-center sm:-mx-3 backdrop-blur-sm p-10'>
         <div class='w-full md:w-1/2 md:px-3'>
           <div class='w-full pb-6 space-y-6 sm:max-w-md lg:max-w-lg md:space-y-4 lg:space-y-8 xl:space-y-9 sm:pr-5 lg:pr-0 md:pb-0 text-left'>
             <h1 class='text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl md:text-4xl lg:text-5xl xl:text-6xl'>

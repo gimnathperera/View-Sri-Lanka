@@ -1,4 +1,5 @@
 import Hero from 'src/components/common/Hero';
+import BookingAction from 'src/components/common/BookingAction';
 import Quesions from 'src/pages/FAQ/Quesions';
 import bgImage from 'src/assets/img/faq/bg.jpg';
 
@@ -22,6 +23,7 @@ const FAQ = () => {
     >
       <Hero heroList={heroList} />
       <Quesions />
+      <BookingAction />
     </div>
   );
 };
