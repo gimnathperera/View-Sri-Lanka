@@ -7,9 +7,10 @@ import Contact from 'src/pages/Contact';
 import FAQ from 'src/pages/FAQ';
 import About from 'src/pages/About';
 import Destination from 'src/pages/Destination';
-import DetailedView from 'src/pages/Destination/DetailedView';
+import DestinationDetailedView from 'src/pages/Destination/DetailedView';
 import Transport from 'src/pages/Transport';
 import TourPackage from 'src/pages/TourPackage';
+import TourDetailedView from 'src/pages/TourPackage/DetailedView';
 
 const RouteLayout = () => {
   const routes = useRoutes([
@@ -26,9 +27,10 @@ const RouteLayout = () => {
           path: 'destinations',
           element: <Destination />,
         },
-        { path: '/destinations/:id', element: <DetailedView /> },
+        { path: '/destinations/:id', element: <DestinationDetailedView /> },
         { path: '/transport', element: <Transport /> },
         { path: '/tours', element: <TourPackage /> },
+        { path: '/tours/:id', element: <TourDetailedView /> },
       ],
     },
   ]);
