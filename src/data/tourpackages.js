@@ -36,50 +36,620 @@ import days4kandy4 from 'src/assets/img/tour/days4/day1/kandy4.jpg';
 import days4kandy5 from 'src/assets/img/tour/days4/day1/kandy5.jpg';
 import days4kandy6 from 'src/assets/img/tour/days4/day1/kandy6.jpg';
 
+import days4kandy10 from 'src/assets/img/tour/days4/day2/kandy10.jpg';
+import days4kandy11 from 'src/assets/img/tour/days4/day2/kandy11.jpg';
+import days4kandy12 from 'src/assets/img/tour/days4/day2/kandy12.jpg';
+import days4kandy4x from 'src/assets/img/tour/days4/day2/kandy4.jpg';
+import days4kandy8 from 'src/assets/img/tour/days4/day2/kandy8.jpg';
+import days4kandy6x from 'src/assets/img/tour/days4/day2/kandy9.jpg';
+
+import days4bentota1 from 'src/assets/img/tour/days4/day3/Bentota1.jpg';
+import days4bentota2 from 'src/assets/img/tour/days4/day3/Bentota2.jpg';
+import days4bentota3 from 'src/assets/img/tour/days4/day3/bentota3.jpg';
+import days4bentota4 from 'src/assets/img/tour/days4/day3/bentota4.jpg';
+import days4bentota5 from 'src/assets/img/tour/days4/day3/bentota5.jpg';
+import days4bentota6 from 'src/assets/img/tour/days4/day3/bentota6.jpg';
+
+import days4colombo1 from 'src/assets/img/tour/days4/day4/colombo1.jpg';
+import days4colombo2 from 'src/assets/img/tour/days4/day4/colombo2.jpg';
+import days4colombo3 from 'src/assets/img/tour/days4/day4/colombo3.jpg';
+import days4colombo4 from 'src/assets/img/tour/days4/day4/colombo4.jpg';
+import days4colombo5 from 'src/assets/img/tour/days4/day4/colombo5.jpg';
+import days4colomb6 from 'src/assets/img/tour/days4/day4/colombo6.jpg';
+
 // 05 Days
 import days5Card from 'src/assets/img/tour/days5/daytour3.jpg';
 import days5Bg from 'src/assets/img/tour/days5/bg.jpg';
 import days5Hero from 'src/assets/img/tour/days5/hero.jpg';
+
+import days5sigiriya10 from 'src/assets/img/tour/days5/day1/sigiriya10.jpg';
+import days5sigiriya5 from 'src/assets/img/tour/days5/day1/sigiriya5.jpg';
+import days5sigiriya6 from 'src/assets/img/tour/days5/day1/sigiriya6.jpg';
+import days5sigiriya7 from 'src/assets/img/tour/days5/day1/sigiriya7.jpg';
+import days5sigiriya8 from 'src/assets/img/tour/days5/day1/sigiriya8.jpg';
+import days5sigiriya9 from 'src/assets/img/tour/days5/day1/sigiriya9.jpg';
+
+import days5sigiriya1 from 'src/assets/img/tour/days5/day2/sigiriya1.jpg';
+import days5sigiriya11 from 'src/assets/img/tour/days5/day2/sigiriya11.jpg';
+import days5sigiriya12 from 'src/assets/img/tour/days5/day2/sigiriya12.jpg';
+import days5sigiriya2 from 'src/assets/img/tour/days5/day2/sigiriya2.jpg';
+import days5sigiriya4 from 'src/assets/img/tour/days5/day2/sigiriya4.jpg';
+import days5sigiriya9x from 'src/assets/img/tour/days5/day2/sigiriya9.jpg';
+
+import days5kandy1 from 'src/assets/img/tour/days5/day3/kandy1.jpg';
+import days5kandy2 from 'src/assets/img/tour/days5/day3/kandy2.jpg';
+import days5kandy3 from 'src/assets/img/tour/days5/day3/kandy3.jpg';
+import days5kandy4 from 'src/assets/img/tour/days5/day3/kandy4.jpg';
+import days5kandy5 from 'src/assets/img/tour/days5/day3/kandy5.jpg';
+import days5kandy6 from 'src/assets/img/tour/days5/day3/kandy6.jpg';
+
+import days5kandy10 from 'src/assets/img/tour/days5/day4/kandy10.jpg';
+import days5kandy11 from 'src/assets/img/tour/days5/day4/kandy11.jpg';
+import days5kandy12 from 'src/assets/img/tour/days5/day4/kandy12.jpg';
+import days5kandy4x from 'src/assets/img/tour/days5/day4/kandy4.jpg';
+import days5kandy8 from 'src/assets/img/tour/days5/day4/kandy8.jpg';
+import days5kandy9 from 'src/assets/img/tour/days5/day4/kandy9.jpg';
+
+import days5bentota1 from 'src/assets/img/tour/days5/day5/Bentota1.jpg';
+import days5bentota2 from 'src/assets/img/tour/days5/day5/Bentota2.jpg';
+import days5bentota3 from 'src/assets/img/tour/days5/day5/bentota3.jpg';
+import days5bentota4 from 'src/assets/img/tour/days5/day5/bentota4.jpg';
+import days5bentota5 from 'src/assets/img/tour/days5/day5/bentota5.jpg';
+import days5bentota6 from 'src/assets/img/tour/days5/day5/bentota6.jpg';
 
 // 06 Days
 import days6Card from 'src/assets/img/tour/days6/daytour4.jpg';
 import days6Bg from 'src/assets/img/tour/days6/bg.jpg';
 import days6Hero from 'src/assets/img/tour/days6/galle5.jpg';
 
+import days6kandy1 from 'src/assets/img/tour/days6/day1/kandy1.jpg';
+import days6kandy2 from 'src/assets/img/tour/days6/day1/kandy2.jpg';
+import days6kandy3 from 'src/assets/img/tour/days6/day1/kandy3.jpg';
+import days6kandy4 from 'src/assets/img/tour/days6/day1/kandy4.jpg';
+import days6kandy5 from 'src/assets/img/tour/days6/day1/kandy5.jpg';
+import days6kandy6 from 'src/assets/img/tour/days6/day1/kandy6.jpg';
+
+import days6nuwaraeliya14 from 'src/assets/img/tour/days6/day2/nuwara-eliya14.jpg';
+import days6nuwaraeliya15 from 'src/assets/img/tour/days6/day2/nuwara-eliya15.jpg';
+import days6nuwaraeliya3 from 'src/assets/img/tour/days6/day2/nuwara-eliya3.jpg';
+import days6nuwaraeliya4 from 'src/assets/img/tour/days6/day2/nuwara-eliya4.jpg';
+import days6nuwaraeliya5 from 'src/assets/img/tour/days6/day2/nuwara-eliya5.jpg';
+import days6nuwaraeliya6 from 'src/assets/img/tour/days6/day2/nuwara-eliya6.jpg';
+
+import days6nuwaraeliya10 from 'src/assets/img/tour/days6/day3/nuwara-eliya10.jpg';
+import days6nuwaraeliya11 from 'src/assets/img/tour/days6/day3/nuwara-eliya11.jpg';
+import days6nuwaraeliya17 from 'src/assets/img/tour/days6/day3/nuwara-eliya17.jpg';
+import days6nuwaraeliya2 from 'src/assets/img/tour/days6/day3/nuwara-eliya2.jpg';
+import days6nuwaraeliya7 from 'src/assets/img/tour/days6/day3/nuwara-eliya7.jpg';
+import days6nuwaraeliya8 from 'src/assets/img/tour/days6/day3/nuwara-eliya8.jpg';
+
+import days6galle1 from 'src/assets/img/tour/days6/day4/galle1.jpg';
+import days6galle3 from 'src/assets/img/tour/days6/day4/galle3.jpg';
+import days6yala1 from 'src/assets/img/tour/days6/day4/yala1.jpg';
+import days6yala2 from 'src/assets/img/tour/days6/day4/yala2.jpg';
+import days6yala3 from 'src/assets/img/tour/days6/day4/yala3.jpg';
+import days6yala4 from 'src/assets/img/tour/days6/day4/yala4.jpg';
+
+import days6bentota1 from 'src/assets/img/tour/days6/day5/Bentota1.jpg';
+import days6bentota2 from 'src/assets/img/tour/days6/day5/Bentota2.jpg';
+import days6bentota3 from 'src/assets/img/tour/days6/day5/bentota3.jpg';
+import days6bentota4 from 'src/assets/img/tour/days6/day5/bentota4.jpg';
+import days6bentota5 from 'src/assets/img/tour/days6/day5/bentota5.jpg';
+import days6bentota6 from 'src/assets/img/tour/days6/day5/bentota6.jpg';
+
+import days6colombo1 from 'src/assets/img/tour/days6/day6/colombo1.jpg';
+import days6colombo2 from 'src/assets/img/tour/days6/day6/colombo2.jpg';
+import days6colombo3 from 'src/assets/img/tour/days6/day6/colombo3.jpg';
+import days6colombo4 from 'src/assets/img/tour/days6/day6/colombo4.jpg';
+import days6colombo5 from 'src/assets/img/tour/days6/day6/colombo5.jpg';
+import days6colombo6 from 'src/assets/img/tour/days6/day6/colombo6.jpg';
+
 // 07 Days
 import days7Card from 'src/assets/img/tour/days7/daytour5.jpg';
 import days7Bg from 'src/assets/img/tour/days7/bg.jpg';
 import days7Hero from 'src/assets/img/tour/days7/hero.jpg';
+
+import days7sigiriya10 from 'src/assets/img/tour/days7/day1/sigiriya10.jpg';
+import days7sigiriya11 from 'src/assets/img/tour/days7/day1/sigiriya11.jpg';
+import days7sigiriya12 from 'src/assets/img/tour/days7/day1/sigiriya12.jpg';
+import days7sigiriya6 from 'src/assets/img/tour/days7/day1/sigiriya6.jpg';
+import days7sigiriya7 from 'src/assets/img/tour/days7/day1/sigiriya7.jpg';
+import days7sigiriya8 from 'src/assets/img/tour/days7/day1/sigiriya8.jpg';
+
+import days7sigiriya1 from 'src/assets/img/tour/days7/day2/sigiriya1.jpg';
+import days7sigiriya2 from 'src/assets/img/tour/days7/day2/sigiriya2.jpg';
+import days7sigiriya3 from 'src/assets/img/tour/days7/day2/sigiriya3.jpg';
+import days7sigiriya4 from 'src/assets/img/tour/days7/day2/sigiriya4.jpg';
+import days7sigiriya5 from 'src/assets/img/tour/days7/day2/sigiriya5.jpg';
+import days7sigiriya9 from 'src/assets/img/tour/days7/day2/sigiriya9.jpg';
+
+import days7kandy1 from 'src/assets/img/tour/days7/day3/kandy1.jpg';
+import days7kandy2 from 'src/assets/img/tour/days7/day3/kandy2.jpg';
+import days7kandy3 from 'src/assets/img/tour/days7/day3/kandy3.jpg';
+import days7kandy6 from 'src/assets/img/tour/days7/day3/kandy6.jpg';
+import days7kandy7 from 'src/assets/img/tour/days7/day3/kandy7.jpg';
+import days7kandynuwaraeliya1 from 'src/assets/img/tour/days7/day3/nuwara-eliya1.jpg';
+
+import days7kandy4 from 'src/assets/img/tour/days7/day4/kandy4.jpg';
+import days7kandy8 from 'src/assets/img/tour/days7/day4/kandy8.jpg';
+import days7kandy9 from 'src/assets/img/tour/days7/day4/kandy9.jpg';
+import days7kandynuwaraeliya2 from 'src/assets/img/tour/days7/day4/nuwara-eliya2.jpg';
+import days7kandynuwaraeliya5 from 'src/assets/img/tour/days7/day4/nuwara-eliya5.jpg';
+import days7kandynuwaraeliya6 from 'src/assets/img/tour/days7/day4/nuwara-eliya6.jpg';
+
+import days7nuwaraeliya10 from 'src/assets/img/tour/days7/day5/nuwara-eliya10.jpg';
+import days7nuwaraeliya14 from 'src/assets/img/tour/days7/day5/nuwara-eliya14.jpg';
+import days7nuwaraeliya2x from 'src/assets/img/tour/days7/day5/nuwara-eliya2.jpg';
+import days7udawalawa3 from 'src/assets/img/tour/days7/day5/udawalawa3.jpg';
+import days7udawalawa4 from 'src/assets/img/tour/days7/day5/udawalawa4.jpg';
+import days7udawalawa5 from 'src/assets/img/tour/days7/day5/udawalawa5.jpg';
+
+import days7galle1 from 'src/assets/img/tour/days7/day6/galle1.jpg';
+import days7galle2 from 'src/assets/img/tour/days7/day6/galle2.jpg';
+import days7galle3 from 'src/assets/img/tour/days7/day6/galle3.jpg';
+import days7galle5 from 'src/assets/img/tour/days7/day6/galle5.jpg';
+import days7galle6 from 'src/assets/img/tour/days7/day6/galle6.jpg';
+import days7galle8 from 'src/assets/img/tour/days7/day6/galle8.jpg';
+
+import days7bentota1 from 'src/assets/img/tour/days7/day7/Bentota1.jpg';
+import days7bentota2 from 'src/assets/img/tour/days7/day7/Bentota2.jpg';
+import days7bentota3 from 'src/assets/img/tour/days7/day7/bentota3.jpg';
+import days7bentota4 from 'src/assets/img/tour/days7/day7/bentota4.jpg';
+import days7bentota5 from 'src/assets/img/tour/days7/day7/bentota5.jpg';
+import days7bentota6 from 'src/assets/img/tour/days7/day7/bentota6.jpg';
 
 // 08 Days
 import days8Card from 'src/assets/img/tour/days8/daytour6.jpg';
 import days8Bg from 'src/assets/img/tour/days8/bg.jpg';
 import days8Hero from 'src/assets/img/tour/days8/hero.jpg';
 
+import days8colombo1 from 'src/assets/img/tour/days8/day1/colombo1.jpg';
+import days8colombo2 from 'src/assets/img/tour/days8/day1/colombo2.jpg';
+import days8kandy5 from 'src/assets/img/tour/days8/day1/kandy5.jpg';
+import days8kandy10 from 'src/assets/img/tour/days8/day1/kandy10.jpg';
+import days8sigiriya7 from 'src/assets/img/tour/days8/day1/sigiriya7.jpg';
+import days8kandy7 from 'src/assets/img/tour/days8/day1/kandy7.jpg';
+
+import days8kandy1 from 'src/assets/img/tour/days8/day2/kandy1.jpg';
+import days8kandy11 from 'src/assets/img/tour/days8/day2/kandy11.jpg';
+import days8kandy12 from 'src/assets/img/tour/days8/day2/kandy12.jpg';
+import days8kandy2 from 'src/assets/img/tour/days8/day2/kandy2.jpg';
+import days8kandy6 from 'src/assets/img/tour/days8/day2/kandy6.jpg';
+import days8kandy7x from 'src/assets/img/tour/days8/day2/kandy7.jpg';
+
+import days8nuwaraeliya1 from 'src/assets/img/tour/days8/day3/nuwara-eliya1.jpg';
+import days8nuwaraeliya2 from 'src/assets/img/tour/days8/day3/nuwara-eliya2.jpg';
+import days8nuwaraeliya3 from 'src/assets/img/tour/days8/day3/nuwara-eliya3.jpg';
+import days8nuwaraeliya4 from 'src/assets/img/tour/days8/day3/nuwara-eliya4.jpg';
+import days8nuwaraeliya5 from 'src/assets/img/tour/days8/day3/nuwara-eliya5.jpg';
+import days8nuwaraeliya6 from 'src/assets/img/tour/days8/day3/nuwara-eliya6.jpg';
+
+import days8nuwaraeliya10 from 'src/assets/img/tour/days8/day4/nuwara-eliya10.jpg';
+import days8nuwaraeliya12 from 'src/assets/img/tour/days8/day4/nuwara-eliya12.jpg';
+import days8nuwaraeliya13 from 'src/assets/img/tour/days8/day4/nuwara-eliya13.jpg';
+import days8nuwaraeliya14 from 'src/assets/img/tour/days8/day4/nuwara-eliya14.jpg';
+import days8nuwaraeliya7 from 'src/assets/img/tour/days8/day4/nuwara-eliya7.jpg';
+import days8nuwaraeliya9 from 'src/assets/img/tour/days8/day4/nuwara-eliya9.jpg';
+
+import days8ella10 from 'src/assets/img/tour/days8/day5/ella10.jpg';
+import days8ella11 from 'src/assets/img/tour/days8/day5/ella11.jpg';
+import days8ella6 from 'src/assets/img/tour/days8/day5/ella6.jpg';
+import days8ella7 from 'src/assets/img/tour/days8/day5/ella7.jpg';
+import days8ella8 from 'src/assets/img/tour/days8/day5/ella8.jpg';
+import days8ella9 from 'src/assets/img/tour/days8/day5/ella9.jpg';
+
+import days8galle3 from 'src/assets/img/tour/days8/day6/galle3.jpg';
+import days8udawalawa2 from 'src/assets/img/tour/days8/day6/udawalawa2.jpg';
+import days8udawalawa3 from 'src/assets/img/tour/days8/day6/udawalawa3.jpg';
+import days8udawalawa4 from 'src/assets/img/tour/days8/day6/udawalawa4.jpg';
+import days8udawalawa5 from 'src/assets/img/tour/days8/day6/udawalawa5.jpg';
+import days8udawalawa6 from 'src/assets/img/tour/days8/day6/udawalawa6.jpg';
+
+import days8galle1 from 'src/assets/img/tour/days8/day7/galle1.jpg';
+import days8galle4 from 'src/assets/img/tour/days8/day7/galle4.jpg';
+import days8galle5 from 'src/assets/img/tour/days8/day7/galle5.jpg';
+import days8galle6 from 'src/assets/img/tour/days8/day7/galle6.jpg';
+import days8galle7 from 'src/assets/img/tour/days8/day7/galle7.jpg';
+import days8galle8 from 'src/assets/img/tour/days8/day7/galle8.jpg';
+
+import days8colombo1x from 'src/assets/img/tour/days8/day8/colombo1.jpg';
+import days8colombo2x from 'src/assets/img/tour/days8/day8/colombo2.jpg';
+import days8colombo3 from 'src/assets/img/tour/days8/day8/colombo3.jpg';
+import days8colombo4 from 'src/assets/img/tour/days8/day8/colombo4.jpg';
+import days8colombo5 from 'src/assets/img/tour/days8/day8/colombo6.jpg';
+import days8colombo8 from 'src/assets/img/tour/days8/day8/colombo8.jpg';
+
 // 09 Days
 import days9Card from 'src/assets/img/tour/days9/daytour7.jpg';
 import days9Bg from 'src/assets/img/tour/days9/bg.jpg';
 import days9Hero from 'src/assets/img/tour/days9/hero.jpg';
+
+import days9wilpattu1 from 'src/assets/img/tour/days9/day1/wilpattu1.jpg';
+import days9wilpattu2 from 'src/assets/img/tour/days9/day1/wilpattu2.jpg';
+import days9wilpattu3 from 'src/assets/img/tour/days9/day1/wilpattu3.jpg';
+import days9wilpattu4 from 'src/assets/img/tour/days9/day1/wilpattu4.jpg';
+import days9wilpattu5 from 'src/assets/img/tour/days9/day1/wilpattu5.jpg';
+import days9wilpattu6 from 'src/assets/img/tour/days9/day1/wilpattu6.jpg';
+
+import days9Anuradhapura1 from 'src/assets/img/tour/days9/day2/Anuradhapura1.jpg';
+import days9Anuradhapura2 from 'src/assets/img/tour/days9/day2/Anuradhapura2.jpg';
+import days9Anuradhapura3 from 'src/assets/img/tour/days9/day2/Anuradhapura3.jpg';
+import days9Anuradhapura4 from 'src/assets/img/tour/days9/day2/Anuradhapura4.jpg';
+import days9Anuradhapura5 from 'src/assets/img/tour/days9/day2/Anuradhapura5.jpg';
+import days9Anuradhapura6 from 'src/assets/img/tour/days9/day2/Anuradhapura6.jpg';
+
+import days9Ritigala11 from 'src/assets/img/tour/days9/day3/Ritigala1.jpg';
+import days9Ritigala12 from 'src/assets/img/tour/days9/day3/Ritigala2.jpg';
+import days9Ritigala13 from 'src/assets/img/tour/days9/day3/Ritigala3.jpg';
+import days9sigiriya9 from 'src/assets/img/tour/days9/day3/sigiriya9.jpg';
+import days9udawalawa3 from 'src/assets/img/tour/days9/day3/udawalawa3.jpg';
+import days9udawalawa4 from 'src/assets/img/tour/days9/day3/udawalawa4.jpg';
+
+import days9sigiriya1 from 'src/assets/img/tour/days9/day4/sigiriya1.jpg';
+import days9sigiriya10 from 'src/assets/img/tour/days9/day4/sigiriya10.jpg';
+import days9sigiriya12 from 'src/assets/img/tour/days9/day4/sigiriya12.jpg';
+import days9sigiriya2 from 'src/assets/img/tour/days9/day4/sigiriya2.jpg';
+import days9sigiriya3 from 'src/assets/img/tour/days9/day4/sigiriya3.jpg';
+import days9sigiriya7 from 'src/assets/img/tour/days9/day4/sigiriya7.jpg';
+
+import days9kandy1 from 'src/assets/img/tour/days9/day5/kandy1.jpg';
+import days9kandy11 from 'src/assets/img/tour/days9/day5/kandy11.jpg';
+import days9kandy2 from 'src/assets/img/tour/days9/day5/kandy2.jpg';
+import days9kandy3 from 'src/assets/img/tour/days9/day5/kandy3.jpg';
+import days9kandy7 from 'src/assets/img/tour/days9/day5/kandy7.jpg';
+import days9kandy8 from 'src/assets/img/tour/days9/day5/kandy8.jpg';
+
+import days9nuwaraeliya1 from 'src/assets/img/tour/days9/day6/nuwara-eliya1.jpg';
+import days9nuwaraeliya2 from 'src/assets/img/tour/days9/day6/nuwara-eliya2.jpg';
+import days9nuwaraeliya3 from 'src/assets/img/tour/days9/day6/nuwara-eliya7.jpg';
+import days9nuwaraeliya4 from 'src/assets/img/tour/days9/day6/nuwara-eliya4.jpg';
+import days9nuwaraeliya5 from 'src/assets/img/tour/days9/day6/nuwara-eliya5.jpg';
+import days9nuwaraeliya6 from 'src/assets/img/tour/days9/day6/nuwara-eliya6.jpg';
+
+import days9ella1 from 'src/assets/img/tour/days9/day7/ella1.jpg';
+import days9ella2 from 'src/assets/img/tour/days9/day7/ella2.jpg';
+import days9ella3 from 'src/assets/img/tour/days9/day7/ella3.jpg';
+import days9ella4 from 'src/assets/img/tour/days9/day7/ella4.jpg';
+import days9ella5 from 'src/assets/img/tour/days9/day7/ella5.jpg';
+import days9ella6 from 'src/assets/img/tour/days9/day7/ella6.jpg';
+
+import days9yala1 from 'src/assets/img/tour/days9/day8/yala1.jpg';
+import days9yala2 from 'src/assets/img/tour/days9/day8/yala2.jpg';
+import days9yala3 from 'src/assets/img/tour/days9/day8/yala3.jpg';
+import days9yala4 from 'src/assets/img/tour/days9/day8/yala4.jpg';
+import days9yala5 from 'src/assets/img/tour/days9/day8/yala5.jpg';
+import days9yala6 from 'src/assets/img/tour/days9/day8/yala6.jpg';
+
+import days9galle1 from 'src/assets/img/tour/days9/day9/galle1.jpg';
+import days9galle2 from 'src/assets/img/tour/days9/day9/galle2.jpg';
+import days9galle3 from 'src/assets/img/tour/days9/day9/galle3.jpg';
+import days9galle4 from 'src/assets/img/tour/days9/day9/galle4.jpg';
+import days9galle5 from 'src/assets/img/tour/days9/day9/galle5.jpg';
+import days9galle6 from 'src/assets/img/tour/days9/day9/galle6.jpg';
 
 //  12 Days
 import days12Card from 'src/assets/img/tour/days12/daytour8.jpg';
 import days12Bg from 'src/assets/img/tour/days12/bg3.jpg';
 import days12Hero from 'src/assets/img/tour/days12/hero.jpg';
 
+import days9negombo1 from 'src/assets/img/tour/days12/day1/negombo1.jpg';
+import days9negombo2 from 'src/assets/img/tour/days12/day1/negombo2.jpg';
+import days9negombo3 from 'src/assets/img/tour/days12/day1/negombo3.jpg';
+import days9negombo4 from 'src/assets/img/tour/days12/day1/negombo4.jpg';
+import days9negombo5 from 'src/assets/img/tour/days12/day1/negombo5.jpg';
+import days9negombo6 from 'src/assets/img/tour/days12/day1/negombo6.jpg';
+
+import days12wilpattu1 from 'src/assets/img/tour/days12/day2/wilpattu1.jpg';
+import days12wilpattu2 from 'src/assets/img/tour/days12/day2/wilpattu2.jpg';
+import days12wilpattu3 from 'src/assets/img/tour/days12/day2/wilpattu3.jpg';
+import days12wilpattu4 from 'src/assets/img/tour/days12/day2/wilpattu4.jpg';
+import days12wilpattu5 from 'src/assets/img/tour/days12/day2/wilpattu5.jpg';
+import days12wilpattu6 from 'src/assets/img/tour/days12/day2/wilpattu6.jpg';
+
+import days12Anuradhapura1 from 'src/assets/img/tour/days12/day3/Anuradhapura1.jpg';
+import days12Anuradhapura2 from 'src/assets/img/tour/days12/day3/Anuradhapura2.jpg';
+import days12Anuradhapura3 from 'src/assets/img/tour/days12/day3/Anuradhapura3.jpg';
+import days12Anuradhapura4 from 'src/assets/img/tour/days12/day3/Anuradhapura4.jpg';
+import days12Anuradhapura5 from 'src/assets/img/tour/days12/day3/Anuradhapura5.jpg';
+import days12Anuradhapura6 from 'src/assets/img/tour/days12/day3/Anuradhapura6.jpg';
+
+import days12nilaveli1 from 'src/assets/img/tour/days12/day4/nilaveli1.jpg';
+import days12nilaveli2 from 'src/assets/img/tour/days12/day4/nilaveli2.jpg';
+import days12nilaveli3 from 'src/assets/img/tour/days12/day4/nilaveli3.jpg';
+import days12nilaveli4 from 'src/assets/img/tour/days12/day4/nilaveli4.jpg';
+import days12nilaveli7 from 'src/assets/img/tour/days12/day4/nilaveli7.jpg';
+import days12nilaveli8 from 'src/assets/img/tour/days12/day4/nilaveli8.jpg';
+
+import days12nilaveli10 from 'src/assets/img/tour/days12/day5/nilaveli10.jpg';
+import days12nilaveli11 from 'src/assets/img/tour/days12/day5/nilaveli11.jpg';
+import days12nilaveli12 from 'src/assets/img/tour/days12/day5/nilaveli12.jpg';
+import days12nilaveli15 from 'src/assets/img/tour/days12/day5/nilaveli5.jpg';
+import days12nilaveli6 from 'src/assets/img/tour/days12/day5/nilaveli6.jpg';
+import days12nilaveli9 from 'src/assets/img/tour/days12/day5/nilaveli9.jpg';
+
+import days12pasikudah1 from 'src/assets/img/tour/days12/day6/pasikudah-1.jpg';
+import days12pasikudah2 from 'src/assets/img/tour/days12/day6/pasikudah-2.jpg';
+import days12pasikudah3 from 'src/assets/img/tour/days12/day6/pasikudah-3.jpg';
+import days12pasikudah4 from 'src/assets/img/tour/days12/day6/pasikudah-4.jpg';
+import days12pasikudah5 from 'src/assets/img/tour/days12/day6/pasikudah-5.jpg';
+import days12pasikudah6 from 'src/assets/img/tour/days12/day6/pasikudah-6.jpg';
+
+import days12pasikudah10 from 'src/assets/img/tour/days12/day7/pasikudah-10.jpg';
+import days12pasikudah11 from 'src/assets/img/tour/days12/day7/pasikudah-11.jpg';
+import days12pasikudah12 from 'src/assets/img/tour/days12/day7/pasikudah-12.jpg';
+import days12pasikudah7 from 'src/assets/img/tour/days12/day7/pasikudah-7.jpg';
+import days12pasikudah8 from 'src/assets/img/tour/days12/day7/pasikudah-8.jpg';
+import days12pasikudah9 from 'src/assets/img/tour/days12/day7/pasikudah-9.jpg';
+
+import days12polonnaruwa1 from 'src/assets/img/tour/days12/day8/polonnaruwa-1.jpg';
+import days12polonnaruwa2 from 'src/assets/img/tour/days12/day8/polonnaruwa-2.jpg';
+import days12polonnaruwa3 from 'src/assets/img/tour/days12/day8/polonnaruwa-3.jpg';
+import days12polonnaruwa4 from 'src/assets/img/tour/days12/day8/polonnaruwa-4.jpg';
+import days12polonnaruwa5 from 'src/assets/img/tour/days12/day8/polonnaruwa-5.JPG';
+import days12polonnaruwa6 from 'src/assets/img/tour/days12/day8/polonnaruwa-6.jpg';
+
+import days12sigiriya1 from 'src/assets/img/tour/days12/day9/sigiriya1.jpg';
+import days12sigiriya2 from 'src/assets/img/tour/days12/day9/sigiriya2.jpg';
+import days12sigiriya3 from 'src/assets/img/tour/days12/day9/sigiriya3.jpg';
+import days12sigiriya4 from 'src/assets/img/tour/days12/day9/sigiriya4.jpg';
+import days12sigiriya5 from 'src/assets/img/tour/days12/day9/sigiriya5.jpg';
+import days12sigiriya7 from 'src/assets/img/tour/days12/day9/sigiriya7.jpg';
+
+import days12kandy1 from 'src/assets/img/tour/days12/day10/kandy1.jpg';
+import days12kandy2 from 'src/assets/img/tour/days12/day10/kandy2.jpg';
+import days12kandy3 from 'src/assets/img/tour/days12/day10/kandy3.jpg';
+import days12kandy4 from 'src/assets/img/tour/days12/day10/kandy4.jpg';
+import days12kandy5 from 'src/assets/img/tour/days12/day10/kandy5.jpg';
+import days12kandy6 from 'src/assets/img/tour/days12/day10/kandy6.jpg';
+
+import days12nuwaraeliya10 from 'src/assets/img/tour/days12/day11/nuwara-eliya10.jpg';
+import days12nuwaraeliya2 from 'src/assets/img/tour/days12/day11/nuwara-eliya2.jpg';
+import days12nuwaraeliya5 from 'src/assets/img/tour/days12/day11/nuwara-eliya5.jpg';
+import days12nuwaraeliya6 from 'src/assets/img/tour/days12/day11/nuwara-eliya6.jpg';
+import days12nuwaraeliya7 from 'src/assets/img/tour/days12/day11/nuwara-eliya7.jpg';
+import days12nuwaraeliya9 from 'src/assets/img/tour/days12/day11/nuwara-eliya9.jpg';
+
+import days12colombo1 from 'src/assets/img/tour/days12/day12/colombo1.jpg';
+import days12colombo2 from 'src/assets/img/tour/days12/day12/colombo2.jpg';
+import days12colombo3 from 'src/assets/img/tour/days12/day12/colombo3.jpg';
+import days12colombo4 from 'src/assets/img/tour/days12/day12/colombo4.jpg';
+import days12colombo5 from 'src/assets/img/tour/days12/day12/colombo5.jpg';
+import days12colombo6 from 'src/assets/img/tour/days12/day12/colombo6.jpg';
+
 //  15 Days
 import days15Card from 'src/assets/img/tour/days15/daytour9.jpg';
 import days15Bg from 'src/assets/img/tour/days15/ellaBg.jpg';
 import days15Hero from 'src/assets/img/tour/days15/Elladesti.jpg';
+
+import days15negombo1 from 'src/assets/img/tour/days15/day1/negombo1.jpg';
+import days15negombo2 from 'src/assets/img/tour/days15/day1/negombo2.jpg';
+import days15negombo3 from 'src/assets/img/tour/days15/day1/negombo3.jpg';
+import days15negombo4 from 'src/assets/img/tour/days15/day1/negombo4.jpg';
+import days15negombo5 from 'src/assets/img/tour/days15/day1/negombo5.jpg';
+import days15negombo6 from 'src/assets/img/tour/days15/day1/negombo5.jpg';
+
+import days15wilpattu1 from 'src/assets/img/tour/days15/day2/wilpattu1.jpg';
+import days15wilpattu2 from 'src/assets/img/tour/days15/day2/wilpattu2.jpg';
+import days15wilpattu3 from 'src/assets/img/tour/days15/day2/wilpattu3.jpg';
+import days15wilpattu4 from 'src/assets/img/tour/days15/day2/wilpattu4.jpg';
+import days15wilpattu5 from 'src/assets/img/tour/days15/day2/wilpattu5.jpg';
+import days15wilpattu6 from 'src/assets/img/tour/days15/day2/wilpattu6.jpg';
+
+import days15Anuradhapura1 from 'src/assets/img/tour/days15/day3/Anuradhapura1.jpg';
+import days15Anuradhapura2 from 'src/assets/img/tour/days15/day3/Anuradhapura2.jpg';
+import days15Anuradhapura3 from 'src/assets/img/tour/days15/day3/Anuradhapura3.jpg';
+import days15Anuradhapura4 from 'src/assets/img/tour/days15/day3/Anuradhapura4.jpg';
+import days15Anuradhapura5 from 'src/assets/img/tour/days15/day3/Anuradhapura5.jpg';
+import days15Anuradhapura6 from 'src/assets/img/tour/days15/day3/Anuradhapura6.jpg';
+
+import days15nilaveli1 from 'src/assets/img/tour/days15/day4/nilaveli1.jpg';
+import days15nilaveli2 from 'src/assets/img/tour/days15/day4/nilaveli2.jpg';
+import days15nilaveli3 from 'src/assets/img/tour/days15/day4/nilaveli3.jpg';
+import days15nilaveli4 from 'src/assets/img/tour/days15/day4/nilaveli4.jpg';
+import days15nilaveli7 from 'src/assets/img/tour/days15/day4/nilaveli7.jpg';
+import days15nilaveli8 from 'src/assets/img/tour/days15/day4/nilaveli8.jpg';
+
+import days15nilaveli10 from 'src/assets/img/tour/days15/day5/nilaveli10.jpg';
+import days15nilaveli11 from 'src/assets/img/tour/days15/day5/nilaveli11.jpg';
+import days15nilaveli12 from 'src/assets/img/tour/days15/day5/nilaveli12.jpg';
+import days15nilaveli5 from 'src/assets/img/tour/days15/day5/nilaveli5.jpg';
+import days15nilaveli6 from 'src/assets/img/tour/days15/day5/nilaveli6.jpg';
+import days15nilaveli9 from 'src/assets/img/tour/days15/day5/nilaveli9.jpg';
+
+import days15Trincomalee1 from 'src/assets/img/tour/days15/day6/Trincomalee-1.jpg';
+import days15Trincomalee2 from 'src/assets/img/tour/days15/day6/Trincomalee-2.jpg';
+import days15Trincomalee3 from 'src/assets/img/tour/days15/day6/Trincomalee-3.jpg';
+import days15Trincomalee4 from 'src/assets/img/tour/days15/day6/Trincomalee-4.jpg';
+import days15Trincomalee5 from 'src/assets/img/tour/days15/day6/Trincomalee-5.jpg';
+import days15Trincomalee6 from 'src/assets/img/tour/days15/day6/Trincomalee-6.jpg';
+
+import days15polonnaruwa1 from 'src/assets/img/tour/days15/day7/polonnaruwa-1.jpg';
+import days15polonnaruwa2 from 'src/assets/img/tour/days15/day7/polonnaruwa-2.jpg';
+import days15polonnaruwa3 from 'src/assets/img/tour/days15/day7/polonnaruwa-3.jpg';
+import days15polonnaruwa4 from 'src/assets/img/tour/days15/day7/polonnaruwa-4.jpg';
+import days15polonnaruwa5 from 'src/assets/img/tour/days15/day7/polonnaruwa-5.JPG';
+import days15polonnaruwa6 from 'src/assets/img/tour/days15/day7/polonnaruwa-6.jpg';
+
+import days15sigiriya1 from 'src/assets/img/tour/days15/day8/sigiriya1.jpg';
+import days15sigiriya2 from 'src/assets/img/tour/days15/day8/sigiriya1.jpg';
+import days15sigiriya3 from 'src/assets/img/tour/days15/day8/sigiriya1.jpg';
+import days15sigiriya4 from 'src/assets/img/tour/days15/day8/sigiriya1.jpg';
+import days15sigiriya5 from 'src/assets/img/tour/days15/day8/sigiriya1.jpg';
+import days15sigiriya7 from 'src/assets/img/tour/days15/day8/sigiriya7.jpg';
+
+import days15kandy1 from 'src/assets/img/tour/days15/day9/kandy1.jpg';
+import days15kandy2 from 'src/assets/img/tour/days15/day9/kandy2.jpg';
+import days15kandy3 from 'src/assets/img/tour/days15/day9/kandy3.jpg';
+import days15kandy4 from 'src/assets/img/tour/days15/day9/kandy4.jpg';
+import days15kandy5 from 'src/assets/img/tour/days15/day9/kandy5.jpg';
+import days15kandy6 from 'src/assets/img/tour/days15/day9/kandy6.jpg';
+
+import days15nuwaraeliya10 from 'src/assets/img/tour/days15/day10/nuwara-eliya10.jpg';
+import days15nuwaraeliya2 from 'src/assets/img/tour/days15/day10/nuwara-eliya2.jpg';
+import days15nuwaraeliya5 from 'src/assets/img/tour/days15/day10/nuwara-eliya5.jpg';
+import days15nuwaraeliya6 from 'src/assets/img/tour/days15/day10/nuwara-eliya6.jpg';
+import days15nuwaraeliya7 from 'src/assets/img/tour/days15/day10/nuwara-eliya7.jpg';
+import days15nuwaraeliya9 from 'src/assets/img/tour/days15/day10/nuwara-eliya9.jpg';
+
+import days15ella1 from 'src/assets/img/tour/days15/day11/ella1.jpg';
+import days15ella2 from 'src/assets/img/tour/days15/day11/ella2.jpg';
+import days15ella5 from 'src/assets/img/tour/days15/day11/ella5.jpg';
+import days15ella9 from 'src/assets/img/tour/days15/day11/ella9.jpg';
+import days15nuwaraeliya15 from 'src/assets/img/tour/days15/day11/nuwara-eliya15.jpg';
+import days15nuwaraeliya16 from 'src/assets/img/tour/days15/day11/nuwara-eliya16.jpg';
+
+import days15ella10 from 'src/assets/img/tour/days15/day12/ella10.jpg';
+import days15ella2x from 'src/assets/img/tour/days15/day12/ella2.jpg';
+import days15ella3 from 'src/assets/img/tour/days15/day12/ella3.jpg';
+import days15ella6 from 'src/assets/img/tour/days15/day12/ella6.jpg';
+import days15ella7 from 'src/assets/img/tour/days15/day12/ella7.jpg';
+import days15nuwaraeliya1 from 'src/assets/img/tour/days15/day12/nuwara-eliya1.jpg';
+
+import days15ella5x from 'src/assets/img/tour/days15/day13/ella5.jpg';
+import days15galle8 from 'src/assets/img/tour/days15/day13/galle8.jpg';
+import days15galle9 from 'src/assets/img/tour/days15/day13/galle9.jpg';
+import days15udawalawa2 from 'src/assets/img/tour/days15/day13/udawalawa2.jpg';
+import days15udawalawa3 from 'src/assets/img/tour/days15/day13/udawalawa3.jpg';
+import days15udawalawa4 from 'src/assets/img/tour/days15/day13/udawalawa4.jpg';
+
+import days15galle1 from 'src/assets/img/tour/days15/day14/galle1.jpg';
+import days15galle2 from 'src/assets/img/tour/days15/day14/galle2.jpg';
+import days15galle3 from 'src/assets/img/tour/days15/day14/galle3.jpg';
+import days15galle4 from 'src/assets/img/tour/days15/day14/galle4.jpg';
+import days15galle5 from 'src/assets/img/tour/days15/day14/galle5.jpg';
+import days15galle6 from 'src/assets/img/tour/days15/day14/galle6.jpg';
+
+import days15galle10 from 'src/assets/img/tour/days15/day15/galle10.jpg';
+import days15galle11 from 'src/assets/img/tour/days15/day15/galle11.jpg';
+import days15galle12 from 'src/assets/img/tour/days15/day15/galle12.jpg';
+import days15galle5x from 'src/assets/img/tour/days15/day15/galle5.jpg';
+import days15galle7 from 'src/assets/img/tour/days15/day15/galle7.jpg';
+import days15hikkaduwa3 from 'src/assets/img/tour/days15/day15/hikkaduwa3.jpg';
 
 // 13 Days
 import days13Card from 'src/assets/img/tour/days13/daytour10.jpg';
 import days13Bg from 'src/assets/img/tour/days13/bg.jpg';
 import days13Hero from 'src/assets/img/tour/days13/hero.jpg';
 
+import days13sigiriya10 from 'src/assets/img/tour/days13/day1/sigiriya10.jpg';
+import days13sigiriya11 from 'src/assets/img/tour/days13/day1/sigiriya11.jpg';
+import days13sigiriya6 from 'src/assets/img/tour/days13/day1/sigiriya6.jpg';
+import days13sigiriya7 from 'src/assets/img/tour/days13/day1/sigiriya7.jpg';
+import days13sigiriya8 from 'src/assets/img/tour/days13/day1/sigiriya8.jpg';
+import days13sigiriya9 from 'src/assets/img/tour/days13/day1/sigiriya9.jpg';
+
+import days13sigiriya1 from 'src/assets/img/tour/days13/day2/sigiriya1.jpg';
+import days13sigiriya12 from 'src/assets/img/tour/days13/day2/sigiriya12.jpg';
+import days13sigiriya2 from 'src/assets/img/tour/days13/day2/sigiriya2.jpg';
+import days13sigiriya3 from 'src/assets/img/tour/days13/day2/sigiriya3.jpg';
+import days13sigiriya4 from 'src/assets/img/tour/days13/day2/sigiriya4.jpg';
+import days13sigiriya5 from 'src/assets/img/tour/days13/day2/sigiriya5.jpg';
+
+import days13kandy1 from 'src/assets/img/tour/days13/day3/kandy1.jpg';
+import days13kandy2 from 'src/assets/img/tour/days13/day3/kandy2.jpg';
+import days13kandy3 from 'src/assets/img/tour/days13/day3/kandy3.jpg';
+import days13kandy4 from 'src/assets/img/tour/days13/day3/kandy4.jpg';
+import days13kandy5 from 'src/assets/img/tour/days13/day3/kandy5.jpg';
+import days13kandy6 from 'src/assets/img/tour/days13/day3/kandy6.jpg';
+
+import days13kandy10 from 'src/assets/img/tour/days13/day4/kandy10.jpg';
+import days13kandy11 from 'src/assets/img/tour/days13/day4/kandy11.jpg';
+import days13kandy12 from 'src/assets/img/tour/days13/day4/kandy12.jpg';
+import days13kandy7 from 'src/assets/img/tour/days13/day4/kandy7.jpg';
+import days13kandy9 from 'src/assets/img/tour/days13/day4/kandy9.jpg';
+import days13kandy8 from 'src/assets/img/tour/days13/day4/kandy8.jpg';
+
+import days13nuwaraeliya1 from 'src/assets/img/tour/days13/day5/nuwara-eliya1.jpg';
+import days13nuwaraeliya2 from 'src/assets/img/tour/days13/day5/nuwara-eliya2.jpg';
+import days13nuwaraeliya3 from 'src/assets/img/tour/days13/day5/nuwara-eliya3.jpg';
+import days13nuwaraeliya4 from 'src/assets/img/tour/days13/day5/nuwara-eliya4.jpg';
+import days13nuwaraeliya5 from 'src/assets/img/tour/days13/day5/nuwara-eliya5.jpg';
+import days13nuwaraeliya6 from 'src/assets/img/tour/days13/day5/nuwara-eliya6.jpg';
+
+import days13nuwaraeliya10 from 'src/assets/img/tour/days13/day6/nuwara-eliya10.jpg';
+import days13nuwaraeliya11 from 'src/assets/img/tour/days13/day6/nuwara-eliya11.jpg';
+import days13nuwaraeliya12 from 'src/assets/img/tour/days13/day6/nuwara-eliya12.jpg';
+import days13nuwaraeliya18 from 'src/assets/img/tour/days13/day6/nuwara-eliya18.jpg';
+import days13nuwaraeliya8 from 'src/assets/img/tour/days13/day6/nuwara-eliya8.jpg';
+import days13nuwaraeliya9 from 'src/assets/img/tour/days13/day6/nuwara-eliya9.jpg';
+
+import days13ella10 from 'src/assets/img/tour/days13/day7/ella10.jpg';
+import days13ella11 from 'src/assets/img/tour/days13/day7/ella11.jpg';
+import days13ella12 from 'src/assets/img/tour/days13/day7/ella12.jpg';
+import days13ella7 from 'src/assets/img/tour/days13/day7/ella7.jpg';
+import days13ella8 from 'src/assets/img/tour/days13/day7/ella8.jpg';
+import days13ella9 from 'src/assets/img/tour/days13/day7/ella9.jpg';
+
+import days13ella1 from 'src/assets/img/tour/days13/day8/ella1.jpg';
+import days13ella2 from 'src/assets/img/tour/days13/day8/ella2.jpg';
+import days13ella3 from 'src/assets/img/tour/days13/day8/ella3.jpg';
+import days13ella4 from 'src/assets/img/tour/days13/day8/ella4.jpg';
+import days13ella5 from 'src/assets/img/tour/days13/day8/ella5.jpg';
+import days13ella6 from 'src/assets/img/tour/days13/day8/ella6.jpg';
+
+import days13yala1 from 'src/assets/img/tour/days13/day9/yala1.jpg';
+import days13yala2 from 'src/assets/img/tour/days13/day9/yala2.jpg';
+import days13yala3 from 'src/assets/img/tour/days13/day9/yala3.jpg';
+import days13yala4 from 'src/assets/img/tour/days13/day9/yala4.jpg';
+import days13yala5 from 'src/assets/img/tour/days13/day9/yala5.jpg';
+import days13yala6 from 'src/assets/img/tour/days13/day9/yala6.jpg';
+
+import days13mirissa1 from 'src/assets/img/tour/days13/day10/mirissa1.jpg';
+import days13mirissa2 from 'src/assets/img/tour/days13/day10/mirissa2.jpg';
+import days13mirissa3 from 'src/assets/img/tour/days13/day10/mirissa3.jpg';
+import days13mirissa4 from 'src/assets/img/tour/days13/day10/mirissa4.jpg';
+import days13mirissa5 from 'src/assets/img/tour/days13/day10/mirissa5.jpg';
+import days13mirissa6 from 'src/assets/img/tour/days13/day10/mirissa6.jpg';
+
+import days13galle3 from 'src/assets/img/tour/days13/day11/galle3.jpg';
+import days13galle4 from 'src/assets/img/tour/days13/day11/galle4.jpg';
+import days13galle5 from 'src/assets/img/tour/days13/day11/galle5.jpg';
+import days13nilaveli10 from 'src/assets/img/tour/days13/day11/nilaveli10.jpg';
+import days13nilaveli11 from 'src/assets/img/tour/days13/day11/nilaveli11.jpg';
+import days13nilaveli12 from 'src/assets/img/tour/days13/day11/nilaveli12.jpg';
+
+import days13galle1 from 'src/assets/img/tour/days13/day1213/galle1.jpg';
+import days13galle10 from 'src/assets/img/tour/days13/day1213/galle10.jpg';
+import days13galle11 from 'src/assets/img/tour/days13/day1213/galle11.jpg';
+import days13galle2 from 'src/assets/img/tour/days13/day1213/galle2.jpg';
+import days13galle7 from 'src/assets/img/tour/days13/day1213/galle7.jpg';
+import days13galle8 from 'src/assets/img/tour/days13/day1213/galle8.jpg';
+
+import days13hikkaduwa1 from 'src/assets/img/tour/days13/day14/hikkaduwa1.jpg';
+import days13hikkaduwa2 from 'src/assets/img/tour/days13/day14/hikkaduwa2.jpg';
+import days13hikkaduwa3 from 'src/assets/img/tour/days13/day14/hikkaduwa3.jpg';
+import days13hikkaduwa4 from 'src/assets/img/tour/days13/day14/hikkaduwa4.jpg';
+import days13hikkaduwa5 from 'src/assets/img/tour/days13/day14/hikkaduwa5.jpg';
+import days13hikkaduwa6 from 'src/assets/img/tour/days13/day14/hikkaduwa6.jpg';
+
+import days13colombo1 from 'src/assets/img/tour/days13/day15/colombo1.jpg';
+import days13colombo2 from 'src/assets/img/tour/days13/day15/colombo2.jpg';
+import days13colombo3 from 'src/assets/img/tour/days13/day15/colombo3.jpg';
+import days13colombo4 from 'src/assets/img/tour/days13/day15/colombo4.jpg';
+import days13colombo5 from 'src/assets/img/tour/days13/day15/colombo5.jpg';
+import days13colombo6 from 'src/assets/img/tour/days13/day15/colombo6.jpg';
+
 // 15 Luxury Days
 import daysLuxuryCard from 'src/assets/img/tour/daysLuxury/daytour11.jpg';
 import daysLuxuryBg from 'src/assets/img/tour/daysLuxury/bg1.jpg';
 import daysLuxuryHero from 'src/assets/img/tour/daysLuxury/hero.jpg';
+
+import daysLuxurynegombo1 from 'src/assets/img/tour/daysLuxury/day1/negombo1.jpg';
+import daysLuxurynegombo2 from 'src/assets/img/tour/daysLuxury/day1/negombo2.jpg';
+import daysLuxurynegombo3 from 'src/assets/img/tour/daysLuxury/day1/negombo3.jpg';
+import daysLuxurynegombo4 from 'src/assets/img/tour/daysLuxury/day1/negombo4.jpg';
+import daysLuxurynegombo5 from 'src/assets/img/tour/daysLuxury/day1/negombo5.jpg';
+import daysLuxurynegombo6 from 'src/assets/img/tour/daysLuxury/day1/negombo6.jpg';
+
+import daysLuxurynegombo1 from 'src/assets/img/tour/daysLuxury/day2/sigiriya10.jpg';
+import daysLuxurynegombo2 from 'src/assets/img/tour/daysLuxury/day2/sigiriya10.jpg';
+import daysLuxurynegombo3 from 'src/assets/img/tour/daysLuxury/day2/sigiriya10.jpg';
+import daysLuxurynegombo4 from 'src/assets/img/tour/daysLuxury/day2/sigiriya10.jpg';
+import daysLuxurynegombo5 from 'src/assets/img/tour/daysLuxury/day2/sigiriya10.jpg';
+import daysLuxurynegombo6 from 'src/assets/img/tour/daysLuxury/day2/sigiriya10.jpg';
+
+
+
 
 export const tourPackages = [
   {
@@ -221,7 +791,14 @@ export const tourPackages = [
           'Visit Peradeniya Botanical Garden',
           'Herbal Spices Garden Mawanella',
         ],
-        images: [],
+        images: [
+          days4kandy10,
+          days4kandy11,
+          days4kandy12,
+          days4kandy4x,
+          days4kandy8,
+          days4kandy6x,
+        ],
       },
       {
         title: 'Day 03 - Bentota',
@@ -239,7 +816,14 @@ export const tourPackages = [
           'Visit Aluthgama Kande viharaya Ancient temple',
           'Visit a sea turtle’s conservation center',
         ],
-        images: [],
+        images: [
+          days4bentota1,
+          days4bentota2,
+          days4bentota3,
+          days4bentota4,
+          days4bentota5,
+          days4bentota6,
+        ],
       },
       {
         title: 'Day 04 - Transfer to the Colombo city',
@@ -254,7 +838,14 @@ export const tourPackages = [
           'Later proceed with a Colombo Shopping Tour',
           'Transfer to the airport',
         ],
-        images: [],
+        images: [
+          days4colombo1,
+          days4colombo2,
+          days4colombo3,
+          days4colombo4,
+          days4colombo5,
+          days4colomb6,
+        ],
       },
     ],
   },
@@ -299,7 +890,14 @@ export const tourPackages = [
           'Ayurveda herbal body massage',
           'Over night stay in sigiriya area',
         ],
-        images: [],
+        images: [
+          days5sigiriya10,
+          days5sigiriya5,
+          days5sigiriya6,
+          days5sigiriya7,
+          days5sigiriya8,
+          days5sigiriya9,
+        ],
       },
       {
         title: 'Day 02 - Sigiriya',
@@ -316,7 +914,14 @@ export const tourPackages = [
           'Minneriya National parck',
           'Visit a Wood carving place',
         ],
-        images: [],
+        images: [
+          days5sigiriya1,
+          days5sigiriya11,
+          days5sigiriya12,
+          days5sigiriya2,
+          days5sigiriya4,
+          days5sigiriya9x,
+        ],
       },
       {
         title: 'Day 03 - Kandy',
@@ -335,7 +940,14 @@ export const tourPackages = [
           'Visit Kandy tooth relic temple',
           'Cultural Dance show',
         ],
-        images: [],
+        images: [
+          days5kandy1,
+          days5kandy2,
+          days5kandy3,
+          days5kandy4,
+          days5kandy5,
+          days5kandy6,
+        ],
       },
       {
         title: 'Day 04 - Transfer to Bentota',
@@ -349,7 +961,14 @@ export const tourPackages = [
           'Visit Peradeniya Botanical Garden',
           'Transfer to Bentota Beach area',
         ],
-        images: [],
+        images: [
+          days5kandy10,
+          days5kandy11,
+          days5kandy12,
+          days5kandy4x,
+          days5kandy8,
+          days5kandy9,
+        ],
       },
       {
         title: 'Day 05 - Bentota',
@@ -365,7 +984,14 @@ export const tourPackages = [
           'Water sports on Bentota River',
           'Airport transfer',
         ],
-        images: [],
+        images: [
+          days5bentota1,
+          days5bentota2,
+          days5bentota3,
+          days5bentota4,
+          days5bentota5,
+          days5bentota6,
+        ],
       },
     ],
   },
@@ -417,7 +1043,14 @@ export const tourPackages = [
           'Visit Kandy Tooth relic Temple',
           'Ayurveda herbal body massage',
         ],
-        images: [],
+        images: [
+          days6kandy1,
+          days6kandy2,
+          days6kandy3,
+          days6kandy4,
+          days6kandy5,
+          days6kandy6,
+        ],
       },
       {
         title: 'Day 02 - Nuwara Eliya city',
@@ -432,7 +1065,14 @@ export const tourPackages = [
           'Visit a Tea Plantation and Tea factory',
           'Visit Ramboda water fall',
         ],
-        images: [],
+        images: [
+          days6nuwaraeliya14,
+          days6nuwaraeliya15,
+          days6nuwaraeliya3,
+          days6nuwaraeliya4,
+          days6nuwaraeliya5,
+          days6nuwaraeliya6,
+        ],
       },
       {
         title: 'Day 03 - Transfer to Thissamaharamaya Viva Ella',
@@ -446,7 +1086,14 @@ export const tourPackages = [
           `Climb Little Adam's peak or Nine arch bridge`,
           'Visit Rawana water fall',
         ],
-        images: [],
+        images: [
+          days6nuwaraeliya10,
+          days6nuwaraeliya11,
+          days6nuwaraeliya17,
+          days6nuwaraeliya2,
+          days6nuwaraeliya7,
+          days6nuwaraeliya8,
+        ],
       },
       {
         title: 'Day 04 - Yala National park',
@@ -464,7 +1111,14 @@ export const tourPackages = [
           'Bentota beach',
           'Evening enjoy the sun set and relax at the beach',
         ],
-        images: [],
+        images: [
+          days6galle1,
+          days6galle3,
+          days6yala1,
+          days6yala2,
+          days6yala3,
+          days6yala4,
+        ],
       },
       {
         title: 'Day 05 - Bentota',
@@ -478,7 +1132,14 @@ export const tourPackages = [
           'Visit the Turtles Hatchery in Kosgoda',
           'Relax on beach',
         ],
-        images: [],
+        images: [
+          days6bentota1,
+          days6bentota2,
+          days6bentota3,
+          days6bentota4,
+          days6bentota5,
+          days6bentota6,
+        ],
       },
       {
         title: 'Day 06 - Airport Transfer via Colombo',
@@ -491,7 +1152,14 @@ export const tourPackages = [
           'Shopping at colombo',
           'Airpot Transfer',
         ],
-        images: [],
+        images: [
+          days6colombo1,
+          days6colombo2,
+          days6colombo3,
+          days6colombo4,
+          days6colombo5,
+          days6colombo6,
+        ],
       },
     ],
   },
@@ -542,7 +1210,14 @@ export const tourPackages = [
           'Ayurveda herbal body massage',
           'Over night stay in sigiriya area',
         ],
-        images: [],
+        images: [
+          days7sigiriya10,
+          days7sigiriya11,
+          days7sigiriya12,
+          days7sigiriya6,
+          days7sigiriya7,
+          days7sigiriya8,
+        ],
       },
       {
         title: 'Day 02 - Sigiriya',
@@ -559,7 +1234,14 @@ export const tourPackages = [
           'Minneriya National parck',
           'Visit a Wood carving place',
         ],
-        images: [],
+        images: [
+          days7sigiriya1,
+          days7sigiriya2,
+          days7sigiriya3,
+          days7sigiriya4,
+          days7sigiriya5,
+          days7sigiriya9,
+        ],
       },
       {
         title: 'Day 03 - Kandy',
@@ -578,7 +1260,14 @@ export const tourPackages = [
           'Visit Kandy tooth relic temple',
           'Cultural Dance show',
         ],
-        images: [],
+        images: [
+          days7kandy1,
+          days7kandy2,
+          days7kandy3,
+          days7kandy6,
+          days7kandy7,
+          days7kandynuwaraeliya1,
+        ],
       },
       {
         title: 'Day 04 - Transfer to Nuwara Eliya',
@@ -594,7 +1283,14 @@ export const tourPackages = [
           'Visit a Tea Plantation and Tea factory',
           'Visit Ramboda water fall',
         ],
-        images: [],
+        images: [
+          days7kandy4,
+          days7kandy8,
+          days7kandy9,
+          days7kandynuwaraeliya2,
+          days7kandynuwaraeliya5,
+          days7kandynuwaraeliya6,
+        ],
       },
       {
         title: 'Day 05 - Udawalawa National Park',
@@ -614,7 +1310,14 @@ export const tourPackages = [
           'En route, visit Rawana water fall',
           'Udawalawa National park safari',
         ],
-        images: [],
+        images: [
+          days7nuwaraeliya10,
+          days7nuwaraeliya14,
+          days7nuwaraeliya2x,
+          days7udawalawa3,
+          days7udawalawa4,
+          days7udawalawa5,
+        ],
       },
       {
         title: 'Day 06 - Transfer to Bentota',
@@ -627,7 +1330,14 @@ export const tourPackages = [
           'Visit a Sea turtle Conservation center',
           'Stay leisurely at beach',
         ],
-        images: [],
+        images: [
+          days7galle1,
+          days7galle2,
+          days7galle3,
+          days7galle5,
+          days7galle6,
+          days7galle8,
+        ],
       },
       {
         title: 'Day 07 - Bentota',
@@ -638,7 +1348,14 @@ export const tourPackages = [
         
         After activities you will transfer to the Airport`,
         activities: ['Visit Madu River Boat safari', 'Airport transfer'],
-        images: [],
+        images: [
+          days7bentota1,
+          days7bentota2,
+          days7bentota3,
+          days7bentota4,
+          days7bentota5,
+          days7bentota6,
+        ],
       },
     ],
   },
@@ -692,7 +1409,14 @@ export const tourPackages = [
           'Ayurveda herbal body massage',
           'Kandy cultural dance',
         ],
-        images: [],
+        images: [
+          days8colombo1,
+          days8colombo2,
+          days8kandy5,
+          days8kandy10,
+          days8sigiriya7,
+          days8kandy7,
+        ],
       },
       {
         title: 'Day 02 - Kandy',
@@ -710,7 +1434,14 @@ export const tourPackages = [
           'Visit peradeniya Botanical garden',
           'Kandy city tour (Upper lake drive, Gem & Bathik shopping, Oak Ray wood carvings)',
         ],
-        images: [],
+        images: [
+          days8kandy1,
+          days8kandy11,
+          days8kandy12,
+          days8kandy2,
+          days8kandy6,
+          days8kandy7x,
+        ],
       },
       {
         title: 'Day 03 - Nuwara Eliya',
@@ -726,7 +1457,14 @@ export const tourPackages = [
           'Take Nuwara Eliya city Tour (Strawberry farm visit, boat ride can be arranged)',
           'Overnight Stay at Little England',
         ],
-        images: [],
+        images: [
+          days8nuwaraeliya1,
+          days8nuwaraeliya2,
+          days8nuwaraeliya3,
+          days8nuwaraeliya4,
+          days8nuwaraeliya5,
+          days8nuwaraeliya6,
+        ],
       },
       {
         title: 'Day 04 - Nuwara Eliya',
@@ -738,7 +1476,14 @@ export const tourPackages = [
           'Visit World famous Horton Plains National park',
           'Train journey from Nanu oya to Ella',
         ],
-        images: [],
+        images: [
+          days8nuwaraeliya10,
+          days8nuwaraeliya12,
+          days8nuwaraeliya13,
+          days8nuwaraeliya14,
+          days8nuwaraeliya7,
+          days8nuwaraeliya9,
+        ],
       },
       {
         title: 'Day 05 - Ella City',
@@ -750,7 +1495,14 @@ export const tourPackages = [
           'Ella gap',
           'Visit Nine arch bridge',
         ],
-        images: [],
+        images: [
+          days8ella10,
+          days8ella11,
+          days8ella6,
+          days8ella7,
+          days8ella8,
+          days8ella9,
+        ],
       },
       {
         title: 'Day 06 - Transfer to Galle viva Udawalawa area',
@@ -762,20 +1514,41 @@ export const tourPackages = [
           'Safari at Udawalawa National park',
           'Transfer to galle city',
         ],
-        images: [],
+        images: [
+          days8galle3,
+          days8udawalawa2,
+          days8udawalawa3,
+          days8udawalawa4,
+          days8udawalawa5,
+          days8udawalawa6,
+        ],
       },
       {
         title: 'Day 07 - Galle',
         description: `As your final activity in your tour, in morning hours you can visit the Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is the criterion number four for such recognition
         After lunch from a nice restaurant in Dutch fort, again you will transfer to your beach hotel. Then you can stay leisurely on sandy beach as your wish.  `,
         activities: ['Visit Galle Dutch fort', 'Beach stay'],
-        images: [],
+        images: [
+          days8galle1,
+          days8galle4,
+          days8galle5,
+          days8galle6,
+          days8galle7,
+          days8galle8,
+        ],
       },
       {
         title: 'Day 08 - Airport transfer',
         description: `According to your Flight time, you will transfer to the Bandaranayake international Airport, the journey will take 3 hours and it’s about 150 km, but we can go through southern express way.`,
         activities: ['Good bye to your guide and sri lanka'],
-        images: [],
+        images: [
+          days8colombo1x,
+          days8colombo2x,
+          days8colombo3,
+          days8colombo4,
+          days8colombo5,
+          days8colombo8,
+        ],
       },
     ],
   },
@@ -835,7 +1608,14 @@ export const tourPackages = [
           'Visit Wilpattu National park',
           'Check-in to the Hotel & Relax',
         ],
-        images: [],
+        images: [
+          days9wilpattu1,
+          days9wilpattu2,
+          days9wilpattu3,
+          days9wilpattu4,
+          days9wilpattu5,
+          days9wilpattu6,
+        ],
       },
       {
         title: 'Day 02 - Anuradhapura',
@@ -847,7 +1627,14 @@ export const tourPackages = [
           'Visit Anuradhapura ancient capital',
           'Lunch at simple traditional restaurant',
         ],
-        images: [],
+        images: [
+          days9Anuradhapura1,
+          days9Anuradhapura2,
+          days9Anuradhapura3,
+          days9Anuradhapura4,
+          days9Anuradhapura5,
+          days9Anuradhapura6,
+        ],
       },
       {
         title: 'Day 03 - Habarana',
@@ -868,7 +1655,14 @@ export const tourPackages = [
           'Visit Ritigala ancient Buddhist monastery',
           'Safari at Minneriya National park',
         ],
-        images: [],
+        images: [
+          days9Ritigala11,
+          days9Ritigala12,
+          days9Ritigala13,
+          days9sigiriya9,
+          days9udawalawa3,
+          days9udawalawa4,
+        ],
       },
       {
         title: 'Day 04 - Sigiriya',
@@ -883,7 +1677,14 @@ export const tourPackages = [
           'Village tour',
           'Hearable body massage',
         ],
-        images: [],
+        images: [
+          days9sigiriya1,
+          days9sigiriya10,
+          days9sigiriya12,
+          days9sigiriya2,
+          days9sigiriya3,
+          days9sigiriya7,
+        ],
       },
       {
         title: 'Day 05 - Kandy',
@@ -904,7 +1705,14 @@ export const tourPackages = [
           'Kandy cultural Dance show',
           'Visit Kandy tooth relic temple',
         ],
-        images: [],
+        images: [
+          days9kandy1,
+          days9kandy11,
+          days9kandy2,
+          days9kandy3,
+          days9kandy7,
+          days9kandy8,
+        ],
       },
       {
         title: 'Day 06 -Nuwara Eliya',
@@ -921,7 +1729,14 @@ export const tourPackages = [
           'Visit Ramboda water fall',
           'Visit Tea plantations and Tea factory',
         ],
-        images: [],
+        images: [
+          days9nuwaraeliya1,
+          days9nuwaraeliya2,
+          days9nuwaraeliya3,
+          days9nuwaraeliya4,
+          days9nuwaraeliya5,
+          days9nuwaraeliya6,
+        ],
       },
       {
         title: 'Day 07 - Transfer to Thissamaharamaya',
@@ -935,7 +1750,14 @@ export const tourPackages = [
           'City tour in Nuwara Eliya city',
           'Train journey from Nanuoya to Ella',
         ],
-        images: [],
+        images: [
+          days9ella1,
+          days9ella2,
+          days9ella3,
+          days9ella4,
+          days9ella5,
+          days9ella6,
+        ],
       },
       {
         title: 'Day 08 - Yala safari and Transfer to Galle',
@@ -945,23 +1767,28 @@ export const tourPackages = [
         After safari, you can checkout from your hotel and you will transfer to Galle beach area
         Overnight you will stay at Galle`,
         activities: ['Safari at Yala national park', 'Transfer to Galle'],
-        images: [],
+        images: [
+          days9yala1,
+          days9yala2,
+          days9yala3,
+          days9yala4,
+          days9yala5,
+          days9yala6,
+        ],
       },
-      {
-        title: 'Day 08 - Yala safari and Transfer to Galle',
-        description: `Early morning around 5.00 clock you have to leave from your hotel to start the safari at Yala national park, hotel will prepared your breakfast as take a way. Views lanka team will arrange a well experienced safari jeep driver and 4 X4 jeep for the safari.
-        Yala National Park is the most visited and second largest national park in Sri Lanka, bordering the Indian Ocean. The park consists of five blocks, The park covers 979 square kilometres. Yala was designated as a wildlife sanctuary in 1900, and, along with Wilpattu was one of the first two national parks in Sri Lanka, having been designated in 1938. The park is best known for its variety of wild animals. It is important for the conservation of Sri Lankan elephants, Sri Lankan leopards and aquatic birds.
-        There are six national parks and three wildlife sanctuaries in the vicinity of Yala. Among the largest is Lunugamvehera National Park. The park is situated in the dry semi-arid climatic region and rain is received mainly during the northeast monsoon. Yala hosts a variety of ecosystems ranging from moist monsoon forests to freshwater and marine wetlands. It is one of the 70 Important Bird Areas (IBAs) in Sri Lanka. Yala harbours 215 bird species including six endemic species of Sri Lanka. The number of mammals that has been recorded from the park is 44, and it has one of the highest leopard densities in the world.
-        After safari, you can checkout from your hotel and you will transfer to Galle beach area
-        Overnight you will stay at Galle`,
-        activities: ['Safari at Yala national park', 'Transfer to Galle'],
-        images: [],
-      },
+
       {
         title: 'Day 09 - Galle Beach stay and Transfer to the Airport',
         description: `According to the departure flight time, this day activity will arrange, If your flight time at late evening, you can stay leisurely at beach area. Finally you will transfer to the airport.   `,
         activities: ['Beach stay', 'Transfer to the Airport'],
-        images: [],
+        images: [
+          days9galle1,
+          days9galle2,
+          days9galle3,
+          days9galle4,
+          days9galle5,
+          days9galle6,
+        ],
       },
     ],
   },
@@ -1018,7 +1845,14 @@ export const tourPackages = [
           'City tour in Negombo city',
           'Overnight Stay at the Hotel',
         ],
-        images: [],
+        images: [
+          days9negombo1,
+          days9negombo2,
+          days9negombo3,
+          days9negombo4,
+          days9negombo5,
+          days9negombo6,
+        ],
       },
       {
         title: 'Day 02 - Transfer to Anuradhapura viva Wilpattu',
@@ -1034,7 +1868,14 @@ export const tourPackages = [
           'Safari at Wilpattu National park',
           'Lunch at simple traditional restaurant',
         ],
-        images: [],
+        images: [
+          days12wilpattu1,
+          days12wilpattu2,
+          days12wilpattu3,
+          days12wilpattu4,
+          days12wilpattu5,
+          days12wilpattu6,
+        ],
       },
       {
         title: 'Day 03 - Anuradhapura',
@@ -1046,7 +1887,14 @@ export const tourPackages = [
           'Visit Anuradhapura ancient capital',
           'Lunch at simple traditional restaurant',
         ],
-        images: [],
+        images: [
+          days12Anuradhapura1,
+          days12Anuradhapura2,
+          days12Anuradhapura3,
+          days12Anuradhapura4,
+          days12Anuradhapura5,
+          days12Anuradhapura6,
+        ],
       },
       {
         title: 'Day 04 - Trincomalee / Nilaweli Beach',
@@ -1058,7 +1906,14 @@ export const tourPackages = [
           'Transfer to Nilawelibeac',
           'En route visit velgam vehera',
         ],
-        images: [],
+        images: [
+          days12nilaveli1,
+          days12nilaveli2,
+          days12nilaveli3,
+          days12nilaveli4,
+          days12nilaveli7,
+          days12nilaveli8,
+        ],
       },
       {
         title: 'Day 05 - Trincomalee / Nilaweli Beach',
@@ -1070,7 +1925,14 @@ export const tourPackages = [
           'Stay leisurely on Nilaweli beach',
           'Overnight Stay at the Hotel',
         ],
-        images: [],
+        images: [
+          days12nilaveli10,
+          days12nilaveli11,
+          days12nilaveli12,
+          days12nilaveli15,
+          days12nilaveli6,
+          days12nilaveli9,
+        ],
       },
       {
         title: 'Day 06 - Pasikuda Beach',
@@ -1078,13 +1940,27 @@ export const tourPackages = [
         Pasikuda, meaning “green-algae-bay” is situated in Eastern seaboard of Sri Lanka between Kalkuda and the Indian Ocean, approximately 35 kilometers from Batticaloa Town. The turquoise blue waters of the bay attracts local and foreign tourist to this wide sandy place under the hot tropical sun to surf, swim or just frolic in the water. Many other activities are available from kite surfing, boogie boarding to surfing and sailing across in a canoe.
         In evening hours you can stay leisurely at pasikuda beach`,
         activities: ['Stay leisurely on Pasikuda beach'],
-        images: [],
+        images: [
+          days12pasikudah1,
+          days12pasikudah2,
+          days12pasikudah3,
+          days12pasikudah4,
+          days12pasikudah5,
+          days12pasikudah6,
+        ],
       },
       {
         title: 'Day 07 - Pasikuda Beach',
         description: `Wow, today is a full of beach day, you can enjoy with this Wonderful beach & silent beach....stunning view too. You can have safest sea bath since its really like a pond...no waives at all and you can go apprx..1-2 km in sea without any fear, enjoy your beach holiday`,
         activities: ['Stay leisurely on Pasikuda beach'],
-        images: [],
+        images: [
+          days12pasikudah10,
+          days12pasikudah11,
+          days12pasikudah12,
+          days12pasikudah7,
+          days12pasikudah8,
+          days12pasikudah9,
+        ],
       },
       {
         title: 'Day 08 - Polonnaruwa',
@@ -1092,7 +1968,14 @@ export const tourPackages = [
         This city is the second most ancient of Sri Lanka’s Kingdoms while it was declared as the capital after defeating “Chola Invaders” in 1070. King Parakramabahu’s reign bought a new dawn to the island while far more superior irrigation systems than Anuradhapura were used for paddy cultivation. The ancient city boasts of many archaeological relics and monuments and is one of the best planned sites in the country. The city is also populated by ‘toque macaques’ which are a species of monkeys and has been used as the back drop of the nature documentary “Monkey Kingdom”. Some of the well-known attractions of this stately city include the Statue of King Parakramabahu, the Polonnaruwa Vatadage, the Rankoth Vehera, the Gal Viharaya and its statues, the Sathmahal Prasada etc.
         Overnight you will stay at Habarana`,
         activities: ['Visit Polonnarura ancent city'],
-        images: [],
+        images: [
+          days12polonnaruwa1,
+          days12polonnaruwa2,
+          days12polonnaruwa3,
+          days12polonnaruwa4,
+          days12polonnaruwa5,
+          days12polonnaruwa6,
+        ],
       },
       {
         title: 'Day 09 -Sigiriya',
@@ -1106,7 +1989,14 @@ export const tourPackages = [
           'Village tour',
           'Herbal boy massage',
         ],
-        images: [],
+        images: [
+          days12sigiriya1,
+          days12sigiriya2,
+          days12sigiriya3,
+          days12sigiriya4,
+          days12sigiriya5,
+          days12sigiriya7,
+        ],
       },
       {
         title: 'Day 10 - Kandy',
@@ -1128,7 +2018,14 @@ export const tourPackages = [
           'Kandy cultural dance show',
           'Visit Kandy tooth relic temple',
         ],
-        images: [],
+        images: [
+          days12kandy1,
+          days12kandy2,
+          days12kandy3,
+          days12kandy4,
+          days12kandy5,
+          days12kandy6,
+        ],
       },
       {
         title: 'Day 11 - Nuwara Eliya',
@@ -1144,7 +2041,14 @@ export const tourPackages = [
           'Ramboda Water fall',
           'Visit a Tea plantation and Tea factory',
         ],
-        images: [],
+        images: [
+          days12nuwaraeliya10,
+          days12nuwaraeliya2,
+          days12nuwaraeliya5,
+          days12nuwaraeliya6,
+          days12nuwaraeliya7,
+          days12nuwaraeliya9,
+        ],
       },
       {
         title: 'Day 12 - Colombo city',
@@ -1155,7 +2059,14 @@ export const tourPackages = [
           'White water rafting on Kalani river at Kitulgala',
           'Later proceed with a Colombo Shopping and City Tour',
         ],
-        images: [],
+        images: [
+          days12colombo1,
+          days12colombo2,
+          days12colombo3,
+          days12colombo4,
+          days12colombo5,
+          days12colombo6,
+        ],
       },
     ],
   },
@@ -1207,7 +2118,14 @@ export const tourPackages = [
           'Arrival to Sri Lanka (Bandaranaike International Airport) in Katunayaka and Proceed to Negombo City',
           'City tour in Negombo city',
         ],
-        images: [],
+        images: [
+          days15negombo1,
+          days15negombo2,
+          days15negombo3,
+          days15negombo4,
+          days15negombo5,
+          days15negombo6,
+        ],
       },
       {
         title: 'Day 02 - Anuradhapura Viva wilpattu',
@@ -1223,7 +2141,14 @@ export const tourPackages = [
           'Safari at Wilpattu National park',
           'Lunch at simple traditional restaurant',
         ],
-        images: [],
+        images: [
+          days15wilpattu1,
+          days15wilpattu2,
+          days15wilpattu3,
+          days15wilpattu4,
+          days15wilpattu5,
+          days15wilpattu6,
+        ],
       },
       {
         title: 'Day 03 - Anuradhapura',
@@ -1235,7 +2160,14 @@ export const tourPackages = [
           'Visit Anuradhapura ancient capital',
           'Lunch at simple traditional restaurant',
         ],
-        images: [],
+        images: [
+          days15Anuradhapura1,
+          days15Anuradhapura2,
+          days15Anuradhapura3,
+          days15Anuradhapura4,
+          days15Anuradhapura5,
+          days15Anuradhapura6,
+        ],
       },
       {
         title: 'Day 04 - Trincomalee',
@@ -1247,7 +2179,14 @@ export const tourPackages = [
           'Transfer to Nilaweli beach',
           'En route visit velgam vehera',
         ],
-        images: [],
+        images: [
+          days15nilaveli1,
+          days15nilaveli2,
+          days15nilaveli3,
+          days15nilaveli4,
+          days15nilaveli7,
+          days15nilaveli8,
+        ],
       },
       {
         title: 'Day 05 - Trincomalee',
@@ -1258,14 +2197,28 @@ export const tourPackages = [
           'Visit Pigeon Island National Park',
           'Stay leisurely on Nilaweli beach',
         ],
-        images: [],
+        images: [
+          days15nilaveli10,
+          days15nilaveli11,
+          days15nilaveli12,
+          days15nilaveli5,
+          days15nilaveli6,
+          days15nilaveli9,
+        ],
       },
       {
         title: 'Day 06 - Trincomalee',
         description: `Today, according to your preference, we will do a city tour in Trincomalee city. With his city tour, You can visit Trinco Dutch fort, Gokanna temple with wonderful panoramic view of trinco city. Grate Vishnu temple, and Trincomalee habour. With this tour, you will notice what are the cultural differences in between Tamil and Sinhala communities.
         In evening hours you can stay on the beach leisurely and overnight you will stay at you beach hotel`,
         activities: ['City tour at Tincomalee', 'Beach stay'],
-        images: [],
+        images: [
+          days15Trincomalee1,
+          days15Trincomalee2,
+          days15Trincomalee3,
+          days15Trincomalee4,
+          days15Trincomalee5,
+          days15Trincomalee6,
+        ],
       },
       {
         title: 'Day 07 - Polonnaruwa',
@@ -1273,7 +2226,14 @@ export const tourPackages = [
         This city is the second most ancient of Sri Lanka’s Kingdoms while it was declared as the capital after defeating “Chola Invaders” in 1070. King Parakramabahu’s reign bought a new dawn to the island while far more superior irrigation systems than Anuradhapura were used for paddy cultivation. The ancient city boasts of many archaeological relics and monuments and is one of the best planned sites in the country. The city is also populated by ‘toque macaques’ which are a species of monkeys and has been used as the back drop of the nature documentary “Monkey Kingdom”. Some of the well-known attractions of this stately city include the Statue of King Parakramabahu, the Polonnaruwa Vatadage, the Rankoth Vehera, the Gal Viharaya and its statues, the Sathmahal Prasada etc.
         Overnight you will stay at Habarana`,
         activities: ['Visit Polonnarura ancent city'],
-        images: [],
+        images: [
+          days15polonnaruwa1,
+          days15polonnaruwa2,
+          days15polonnaruwa3,
+          days15polonnaruwa4,
+          days15polonnaruwa5,
+          days15polonnaruwa6,
+        ],
       },
       {
         title: 'Day 08 - Habarana',
@@ -1287,7 +2247,14 @@ export const tourPackages = [
           'Village tour',
           'Herbal boy massage',
         ],
-        images: [],
+        images: [
+          days15sigiriya1,
+          days15sigiriya2,
+          days15sigiriya3,
+          days15sigiriya4,
+          days15sigiriya5,
+          days15sigiriya7,
+        ],
       },
       {
         title: 'Day 09 - Kandy',
@@ -1309,7 +2276,14 @@ export const tourPackages = [
           'Kandy cultural dance show',
           'Visit Kandy tooth relic temple',
         ],
-        images: [],
+        images: [
+          days15kandy1,
+          days15kandy2,
+          days15kandy3,
+          days15kandy4,
+          days15kandy5,
+          days15kandy6,
+        ],
       },
       {
         title: 'Day 10 - NuwaraEliya',
@@ -1325,7 +2299,14 @@ export const tourPackages = [
           'Ramboda Water fall',
           'Visit a Tea plantation and Tea factory',
         ],
-        images: [],
+        images: [
+          days15nuwaraeliya10,
+          days15nuwaraeliya2,
+          days15nuwaraeliya5,
+          days15nuwaraeliya6,
+          days15nuwaraeliya7,
+          days15nuwaraeliya9,
+        ],
       },
       {
         title: 'Day 11 - Ella',
@@ -1337,7 +2318,14 @@ export const tourPackages = [
           'Visit World famous Horton Plains National park',
           'Train journey from Nanu oya to Ella',
         ],
-        images: [],
+        images: [
+          days15ella1,
+          days15ella2,
+          days15ella5,
+          days15ella9,
+          days15nuwaraeliya15,
+          days15nuwaraeliya16,
+        ],
       },
       {
         title: 'Day 12 - Ella',
@@ -1349,7 +2337,14 @@ export const tourPackages = [
           'Ella gap',
           'Visit Nine arch bridge',
         ],
-        images: [],
+        images: [
+          days15ella10,
+          days15ella2x,
+          days15ella3,
+          days15ella6,
+          days15ella7,
+          days15nuwaraeliya1,
+        ],
       },
       {
         title: 'Day 13 -Galle',
@@ -1361,20 +2356,41 @@ export const tourPackages = [
           'Safari at Udawalawa National park',
           'Transfer to galle city',
         ],
-        images: [],
+        images: [
+          days15ella5x,
+          days15galle8,
+          days15galle9,
+          days15udawalawa2,
+          days15udawalawa3,
+          days15udawalawa4,
+        ],
       },
       {
         title: 'Day 14 - Galle',
         description: `As your final activity in your tour, in morning hours you can visit the Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is the criterion number four for such recognition
         After lunch from a nice restaurant in Dutch fort, again you will transfer to your beach hotel. Then you can stay leisurely on sandy beach as your wish.  `,
         activities: ['Visit Galle Dutch fort', 'Beach stay'],
-        images: [],
+        images: [
+          days15galle1,
+          days15galle2,
+          days15galle3,
+          days15galle4,
+          days15galle5,
+          days15galle6,
+        ],
       },
       {
         title: 'Day 15 - Airport Transfer',
         description: `According to your Flight time, you will transfer to the Bandaranayake international Airport, the journey will take 3 hours and it’s about 150 km, but we can go through southern express way.`,
         activities: ['Say good bye to your guide and sri lanka'],
-        images: [],
+        images: [
+          days15galle10,
+          days15galle11,
+          days15galle12,
+          days15galle5x,
+          days15galle7,
+          days15hikkaduwa3,
+        ],
       },
     ],
   },
@@ -1437,7 +2453,14 @@ export const tourPackages = [
           'Ayurveda herbal body massage',
           'Over night stay in sigiriya area',
         ],
-        images: [],
+        images: [
+          days13sigiriya10,
+          days13sigiriya11,
+          days13sigiriya6,
+          days13sigiriya7,
+          days13sigiriya8,
+          days13sigiriya9,
+        ],
       },
       {
         title: 'Day 02 - Sigiriya',
@@ -1454,7 +2477,14 @@ export const tourPackages = [
           'Minneriya National parck',
           'Visit a Wood carving place',
         ],
-        images: [],
+        images: [
+          days13sigiriya1,
+          days13sigiriya12,
+          days13sigiriya2,
+          days13sigiriya3,
+          days13sigiriya4,
+          days13sigiriya5,
+        ],
       },
       {
         title: 'Day 03 - Kandy',
@@ -1470,7 +2500,14 @@ export const tourPackages = [
           'Herbal spices  garden',
           'Cultural Dance show',
         ],
-        images: [],
+        images: [
+          days13kandy1,
+          days13kandy2,
+          days13kandy3,
+          days13kandy4,
+          days13kandy5,
+          days13kandy6,
+        ],
       },
       {
         title: 'Day 04 - Kandy',
@@ -1488,7 +2525,14 @@ export const tourPackages = [
           'Visit Royal Botanical garden in Peradeniya',
           'Visit Gem museum and wood carving place',
         ],
-        images: [],
+        images: [
+          days13kandy10,
+          days13kandy11,
+          days13kandy12,
+          days13kandy7,
+          days13kandy9,
+          days13kandy8,
+        ],
       },
       {
         title: 'Day 05 - Nuwara Eliya City',
@@ -1502,7 +2546,14 @@ export const tourPackages = [
           'Ramboda waterfall',
           'City tour in Nuwara Eliya',
         ],
-        images: [],
+        images: [
+          days13nuwaraeliya1,
+          days13nuwaraeliya2,
+          days13nuwaraeliya3,
+          days13nuwaraeliya4,
+          days13nuwaraeliya5,
+          days13nuwaraeliya6,
+        ],
       },
       {
         title: 'Day 06 - Nuwara Eliya City',
@@ -1511,7 +2562,14 @@ export const tourPackages = [
         Around this beautiful area, there are many activities for you. To visit Lover’s leap waterfall, Haggala flower garden, Seetha amman temple, play golf, horse ride, Water sports in Gregory lake, Dinner at boat restaurant, etc. So if you prefer to do any activity of these, please inform to us. we will arrange everything for you.
         Overnight stay at Nuwara Eliya    `,
         activities: ['Visit Horton plain National park'],
-        images: [],
+        images: [
+          days13nuwaraeliya10,
+          days13nuwaraeliya11,
+          days13nuwaraeliya12,
+          days13nuwaraeliya18,
+          days13nuwaraeliya8,
+          days13nuwaraeliya9,
+        ],
       },
       {
         title: 'Day 07 - Ella City',
@@ -1522,7 +2580,14 @@ export const tourPackages = [
           'World famous train journey from Nanuoya railway station to Ella station',
           'Lunch at famous restaurant in Ella town',
         ],
-        images: [],
+        images: [
+          days13ella10,
+          days13ella11,
+          days13ella12,
+          days13ella7,
+          days13ella8,
+          days13ella9,
+        ],
       },
       {
         title: 'Day 08 - Ella City',
@@ -1536,7 +2601,14 @@ export const tourPackages = [
           'Climb little Adam’s peak mountain and take some nice photos with panoramic view',
           'Visit Nine arch bridge',
         ],
-        images: [],
+        images: [
+          days13ella1,
+          days13ella2,
+          days13ella3,
+          days13ella4,
+          days13ella5,
+          days13ella6,
+        ],
       },
       {
         title: 'Day 09 - Yala National park',
@@ -1549,7 +2621,14 @@ export const tourPackages = [
           'Visit the second largest national park in Sri Lanka',
           'Transfer to Mirissa',
         ],
-        images: [],
+        images: [
+          days13yala1,
+          days13yala2,
+          days13yala3,
+          days13yala4,
+          days13yala5,
+          days13yala6,
+        ],
       },
       {
         title: 'Day 10 - Mirissa',
@@ -1565,7 +2644,14 @@ export const tourPackages = [
           'Enjoy whale watching on deep sea area',
           'Enjoy night life at Mirissa beach area',
         ],
-        images: [],
+        images: [
+          days13mirissa1,
+          days13mirissa2,
+          days13mirissa3,
+          days13mirissa4,
+          days13mirissa5,
+          days13mirissa6,
+        ],
       },
       {
         title: 'Day 11 Mirissa',
@@ -1575,7 +2661,14 @@ export const tourPackages = [
           'Relax at Mirissa beach area',
           'Any other activities according to client’s requirements',
         ],
-        images: [],
+        images: [
+          days13galle3,
+          days13galle4,
+          days13galle5,
+          days13nilaveli10,
+          days13nilaveli11,
+          days13nilaveli12,
+        ],
       },
       {
         title: 'Day 12 - 13 Galle',
@@ -1584,7 +2677,14 @@ export const tourPackages = [
         During the visit you can get your lunch from famous restaurant in Galle fort , and after lunch you can enjoy with secret jungle beach, Swim, lay down on white sandy beach and sun bathing.
         Overnight you will stay at galle beach area  `,
         activities: ['Visit Galle Dutch fort', 'Swim at jungle beach'],
-        images: [],
+        images: [
+          days13galle1,
+          days13galle10,
+          days13galle11,
+          days13galle2,
+          days13galle7,
+          days13galle8,
+        ],
       },
       {
         title: 'Day 14 - Hikkaduwa',
@@ -1600,13 +2700,27 @@ export const tourPackages = [
           'Enjoy with sea foods',
           'Stay leisurely at beach',
         ],
-        images: [],
+        images: [
+          days13hikkaduwa1,
+          days13hikkaduwa2,
+          days13hikkaduwa3,
+          days13hikkaduwa4,
+          days13hikkaduwa5,
+          days13hikkaduwa6,
+        ],
       },
       {
         title: 'Day 15 - Hikkaduwa',
         description: `On the last day of your honeymoon tour in Sri Lanka, you can stay leisurely at hikkaduwa beach for the final leg of the journey. Immerse yourselves in a completely different experience of the island, from a vibrant nightlife to shopping and leisure activities and a plethora of romantic dining establishments to enjoy. A candle dinner in one of the fine dining restaurants or simply watch your final island sunset on your honeymoon from a swanky rooftop bar. Thank you for visiting Sri Lanka and we hope you had a memorable honeymoon.`,
         activities: ['Stay leisurely at beach', 'Airpor transfer'],
-        images: [],
+        images: [
+          days13colombo1,
+          days13colombo2,
+          days13colombo3,
+          days13colombo4,
+          days13colombo5,
+          days13colombo6,
+        ],
       },
     ],
   },
@@ -1664,7 +2778,12 @@ export const tourPackages = [
           'City tour in Negombo',
           'Lagoon boat ride',
         ],
-        images: [],
+        images: [daysLuxurynegombo1,
+          daysLuxurynegombo2,
+          daysLuxurynegombo3,
+          daysLuxurynegombo4,
+          daysLuxurynegombo5,
+          daysLuxurynegombo6],
       },
       {
         title: 'Day 02 - Sigiriya',
