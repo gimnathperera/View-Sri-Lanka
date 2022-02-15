@@ -1,22 +1,66 @@
+// 03 Days
 import days3Card from 'src/assets/img/tour/days3/card.jpg';
+import days3Bg from 'src/assets/img/tour/days3/bg.jpg';
+import days3Hero from 'src/assets/img/tour/days3/hero.jpg';
+
+// 04 Days
 import days4Card from 'src/assets/img/tour/days4/daytour2.jpg';
+import days4Bg from 'src/assets/img/tour/days4/Home10.jpg';
+import days4Hero from 'src/assets/img/tour/days4/hero.jpg';
+
+// 05 Days
 import days5Card from 'src/assets/img/tour/days5/daytour3.jpg';
+import days5Bg from 'src/assets/img/tour/days5/bg.jpg';
+import days5Hero from 'src/assets/img/tour/days5/hero.jpg';
+
+// 06 Days
 import days6Card from 'src/assets/img/tour/days6/daytour4.jpg';
+import days6Bg from 'src/assets/img/tour/days6/bg.jpg';
+import days6Hero from 'src/assets/img/tour/days6/galle5.jpg';
+
+// 07 Days
 import days7Card from 'src/assets/img/tour/days7/daytour5.jpg';
+import days7Bg from 'src/assets/img/tour/days7/bg.jpg';
+import days7Hero from 'src/assets/img/tour/days7/hero.jpg';
+
+// 08 Days
 import days8Card from 'src/assets/img/tour/days8/daytour6.jpg';
+import days8Bg from 'src/assets/img/tour/days8/bg.jpg';
+import days8Hero from 'src/assets/img/tour/days8/hero.jpg';
+
+// 09 Days
 import days9Card from 'src/assets/img/tour/days9/daytour7.jpg';
+import days9Bg from 'src/assets/img/tour/days9/bg.jpg';
+import days9Hero from 'src/assets/img/tour/days9/hero.jpg';
+
+//  12 Days
 import days12Card from 'src/assets/img/tour/days12/daytour8.jpg';
-import days13Card from 'src/assets/img/tour/days13/daytour10.jpg';
+import days12Bg from 'src/assets/img/tour/days12/bg3.jpg';
+import days12Hero from 'src/assets/img/tour/days12/hero.jpg';
+
+//  15 Days
 import days15Card from 'src/assets/img/tour/days15/daytour9.jpg';
+import days15Bg from 'src/assets/img/tour/days15/ellaBg.jpg';
+import days15Hero from 'src/assets/img/tour/days15/Elladesti.jpg';
+
+// 13 Days
+import days13Card from 'src/assets/img/tour/days13/daytour10.jpg';
+import days13Bg from 'src/assets/img/tour/days13/bg.jpg';
+import days13Hero from 'src/assets/img/tour/days13/hero.jpg';
+
+// 15 Luxury Days
 import daysLuxuryCard from 'src/assets/img/tour/daysLuxury/daytour11.jpg';
+import daysLuxuryBg from 'src/assets/img/tour/daysLuxury/bg1.jpg';
+import daysLuxuryHero from 'src/assets/img/tour/daysLuxury/hero.jpg';
 
 export const tourPackages = [
   {
     id: 1,
     title: 'View Sri Lanka In 03 Days',
     cardImage: days3Card,
-    backgroundImage: '',
-    heroImage: '',
+    backgroundImage: days3Bg,
+    heroText: '03 Days Sri Lanka Tour Package',
+    heroImage: days3Hero,
     rating: 4.2,
     country: 'Sri Lanka',
     description: `Views Lanka Tours offering this three days tour package will cover mainly Kandy and Colombo cities. First night you can stay at Kandy and second night at Colombo. Kandy is a world heritage city declared by UNESCO in 1988. The Buddhist influence could be seen everywhere. It was the last stronghold of sri Lankan kings.
@@ -42,7 +86,7 @@ export const tourPackages = [
           'Visit the Temple of the Tooth relic',
           'Take a city tour (Upper lake drive)',
         ],
-        images: [],
+        images: [days3Card, days3Card, days3Card],
       },
       {
         title: 'Day 02 - Transfer to Colombo city',
@@ -57,7 +101,7 @@ export const tourPackages = [
           'Herbal Spices Garden Mawanella',
           'Enjoy at a Night club and karoke place (optional)',
         ],
-        images: [],
+        images: [days3Card, days3Card, days3Card],
       },
       {
         title: 'Day 03 - Colombo city',
@@ -66,16 +110,17 @@ export const tourPackages = [
         With this city tour, you can do shopping and take your lunch at a famous modern restaurant.
         Later you will transfer to the airport`,
         activities: ['Colombo city tour & Shopping', 'Airport transfer'],
-        images: [],
+        images: [days3Card, days3Card, days3Card],
       },
     ],
   },
   {
     id: 2,
     title: 'View Sri Lanka In 04 Days',
+    heroText: '04 Days Sri Lanka Tour Package',
     cardImage: days4Card,
-    backgroundImage: '',
-    heroImage: '',
+    backgroundImage: days4Bg,
+    heroImage: days4Hero,
     rating: 4.2,
     country: 'Sri Lanka',
     description: `Views Lanka Tours trying with this four day tour package to give a experience about our culture and nature of hill country side and to give a opetunatay to be relax with Sri Lankan southern beach. People who traveling with short holidays may need to get some knowledge about our history and culture, they should visit definitely Kandy city. Kandy is like a main door for the hill country side. It was our last kingdom before acquire the country by British. Finally they can be relax and enjoy with world famous beautiful south beach side. We always ready to amend this itinerary according to your preference, so don’t hesitate to contact us and customize this tour plan.`,
@@ -160,9 +205,10 @@ export const tourPackages = [
   {
     id: 3,
     title: 'View Sri Lanka In 05 Days',
+    heroText: '05 Days Sri Lanka Tour Package',
     cardImage: days5Card,
-    backgroundImage: '',
-    heroImage: '',
+    backgroundImage: days5Bg,
+    heroImage: days5Hero,
     rating: 4.2,
     country: 'Sri Lanka',
     description: `Views Lanka team, trying to satisfy our clients who traveling with short holiday also, but when we make a tour plan for them, we determine to give a good knowledge about Sri Lankan culture and history, social values and ethics. Also tour plan should be fulfil their targets and it should be comfortable for therm. After their tour, they should be relax and knowledgeable about Sri lanka. So when we make short itineraries, we have to be very careful because we should give a chance to view the country and to be relax.
@@ -270,9 +316,10 @@ export const tourPackages = [
   {
     id: 4,
     title: 'View Sri Lanka In 06 Days',
+    heroText: '06 Days Sri Lanka Tour Package',
     cardImage: days6Card,
-    backgroundImage: '',
-    heroImage: '',
+    backgroundImage: days6Bg,
+    heroImage: days6Hero,
     rating: 4.2,
     country: 'Sri Lanka',
     description: `With this six days tour package, Views Lanka team has tried to give more opportunities for our clients to feel the nature and wild life. Through our main cultural city kandy, you will fly through hill country. With this itinerary you can attend to a safari in most famous Yala National park. Finally you can stay leisurely on beautiful Bentota beach. When we consider about this tour plan, it’s better for some clients who don’t like to visit Cultural sites much and more prefer to feel the nature.
@@ -395,9 +442,10 @@ export const tourPackages = [
   {
     id: 5,
     title: 'View Sri Lanka In 07 Days',
+    heroText: '07 Days Sri Lanka Tour Package',
     cardImage: days7Card,
-    backgroundImage: '',
-    heroImage: '',
+    backgroundImage: days7Bg,
+    heroImage: days7Hero,
     rating: 4.2,
     country: 'Sri Lanka',
     description: `When you plan to spend a holiday in a beautiful paradise, it should be more comfortable and relax. However when you finish your holiday, you could be reach good knowledge about the destination and you should be feel more relax and happy. Views Lanka's 7 days tour package gives you enough traveling to fill your soul full of great memories and leave you wanting more of Sri Lanka’s best offerings with this itinerary.
@@ -541,9 +589,10 @@ export const tourPackages = [
   {
     id: 6,
     title: 'View Sri Lanka In 08 Days',
+    heroText: '08 Days Sri Lanka Tour Package',
     cardImage: days8Card,
-    backgroundImage: '',
-    heroImage: '',
+    backgroundImage: days8Bg,
+    heroImage: days8Hero,
     rating: 4.2,
     country: 'Sri Lanka',
     description: `Clients who love to live with nature, and clients who don’t like to visit cultural sites much, we have aimed here.  With this itinerary we have tried to give more opportunities to feel the nature. Throughout this plan, we have arranged every activities with nature, so definitely when you finish your holiday, you would collect unforgettable life experiences. Every time we ready to customized these itineraries according to your preferences. So if you need to change something, please contact us.`,
@@ -677,9 +726,10 @@ export const tourPackages = [
   {
     id: 7,
     title: 'View Sri Lanka In 09 Days',
+    heroText: '09 Days Sri Lanka Tour Package',
     cardImage: days9Card,
-    backgroundImage: '',
-    heroImage: '',
+    backgroundImage: days9Bg,
+    heroImage: days9Hero,
     rating: 4.2,
     country: 'Sri Lanka',
     description: `When you visit Sri Lanka, Definitely, you may need to be relax and to be collect more joyful memories. And your holiday budget should be affordable and comfortable. So that’s why, we have make this tour plan to reach your goals. With this itinerary you can visit the Sri Lankan cultural triangle including Anuradhapura and Polonnaruwa, Sigiriya, Dambulla, Kandy. Not only that, You can visit Three Safaris in Wilpattu, Minneriya and Yala National parks. And also you can spend your holiday in Nuwara Eliya hill area with cool climate, and finally you can stay leisurely in Long sandy beach at Unawatuna Galle area. `,
@@ -862,9 +912,10 @@ export const tourPackages = [
   {
     id: 8,
     title: 'View Sri Lanka In 12 Days',
+    heroText: '12 Days Sri Lanka Tour Package',
     cardImage: days12Card,
-    backgroundImage: '',
-    heroImage: '',
+    backgroundImage: days12Bg,
+    heroImage: days12Hero,
     rating: 4.2,
     country: 'Sri Lanka',
     description: `With this 12 days itinerary, Views Lanka tour team has tried to gives the best of the best in Sri lanka. Covering 10 locations, you’ll stay in luxury travel accommodation and venture into some of the best corners of Sri Lanka with this 12 days itinerary. Here we have given more opportunities to spend your holiday with beautiful east coastal beaches.  If you need to add another safari at Minneriya National park, we can arrange it for you. Finally you will visit our main commercial city Colombo also before you fly back.  `,
@@ -1055,9 +1106,10 @@ export const tourPackages = [
   {
     id: 9,
     title: 'View Sri Lanka In 15 Days',
+    heroText: '15 Days Sri Lanka Tour Package',
     cardImage: days15Card,
-    backgroundImage: '',
-    heroImage: '',
+    backgroundImage: days15Bg,
+    heroImage: days15Hero,
     rating: 4.2,
     country: 'Sri Lanka',
     description: `Around two weeks, with this Tour plan, you can touch many areas of this beautiful paradise. Even East coast also. Not only that, it’s including two safaris, and many Cultural and traditional activities.
@@ -1273,9 +1325,10 @@ export const tourPackages = [
   {
     id: 10,
     title: 'Sri Lanka Honeymoon Tour',
+    heroText: '13 Days Honeymoon Sri Lanka Tour Package',
     cardImage: days13Card,
-    backgroundImage: '',
-    heroImage: '',
+    backgroundImage: days13Bg,
+    heroImage: days13Hero,
     rating: 4.2,
     country: 'Sri Lanka',
     description: `Every lover prefer to make their Honeymoon as a most romantic and comfortable one and they will like to spend their honeymoon in a beautiful paradise, to fulfil this requirement, Views lanka tour team has created lot of activities to give best opportunities for newly married couples, to make their most unforgettable life experience as joyful oneand you can make lot of romantic beautiful photos. with our honeymoon tours in Sri Lanka. Create memories of love as you spend your honeymoon on the stunning Pearl of the Indian Ocean.`,
@@ -1504,9 +1557,10 @@ export const tourPackages = [
   {
     id: 11,
     title: '15 Days Sri Lanka Luxury Tour',
+    heroText: '15 Days Luxury Sri Lanka Tour Package',
     cardImage: daysLuxuryCard,
-    backgroundImage: '',
-    heroImage: '',
+    backgroundImage: daysLuxuryBg,
+    heroImage: daysLuxuryHero,
     rating: 4.2,
     country: 'Sri Lanka',
     description: `Views Lanka tour team has planned here to provide a luxury and comfortable tour package for you, According to your preference, we will arrange luxury hotels or villas with beautiful views. Until you drop at departure terminal of the airport, you will feel more relax and high quality facilities. When you go around the country with a luxury vehicle, our team will arrange lot of comfortable activities, according to your preference. We will provide chill water bottles, snacks, Wi-Fi, for the whole journey, even inside the vehicle. This Itinerary has included grate safaris. Traditional Ayurveda treatments, Boat safaris, shopping tours. So we have ensured your holiday definitely will be a more relax and comfortable one. You can enjoy your holidays without any inconvenience, and you will collect unforgettable life experience and lot of remarkable memories.        `,

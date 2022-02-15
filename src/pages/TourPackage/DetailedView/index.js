@@ -3,28 +3,26 @@ import { useParams } from 'react-router-dom';
 import _ from 'lodash';
 
 import Hero from 'src/components/common/Hero';
-import Content from 'src/pages/Destination/DetailedView/Content';
-import { places } from 'src/data/destinations';
+import Content from 'src/pages/TourPackage/DetailedView/Content';
+import { tourPackages } from 'src/data/tourpackages';
 
 const DetailedView = () => {
-  const [place, setPlace] = useState(null);
+  const [tour, setTour] = useState(null);
   const { id } = useParams();
 
   useEffect(() => {
-    getPlaceById();
+    getTourById();
   }, []);
 
-  const getPlaceById = () => {
-    setPlace(_.find(places, { id: Number(id) }));
+  const getTourById = () => {
+    setTour(_.find(tourPackages, { id: Number(id) }));
   };
 
   const heroList = [
     {
-      header: place?.city,
-      subHeader: place?.country,
-      description:
-        'Sri Lanka’s bustling commercial capital Colombo is the country’s busy business hub.',
-      image: place?.heroImage,
+      header: tour?.heroText,
+      description: tour?.title,
+      image: tour?.heroImage,
     },
   ];
 
@@ -32,11 +30,11 @@ const DetailedView = () => {
     <div
       class={`bg-no-repeat bg-cover bg-fixed`}
       style={{
-        backgroundImage: `url(${place?.backgroundImage})`,
+        backgroundImage: `url(${tour?.backgroundImage})`,
       }}
     >
       <Hero heroList={heroList} />
-      <Content data={place} />
+      <Content data={tour} />
     </div>
   );
 };
