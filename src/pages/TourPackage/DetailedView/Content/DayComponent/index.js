@@ -19,8 +19,8 @@ const DayComponent = ({ day }) => {
       </section>
       <section class='relative pt-4 pb-4 bg-white min-w-screen animation-fade animation-delay flex justify-center'>
         <div class='grid grid-cols-4 gap-8 mt-10 sm:grid-cols-8 lg:grid-cols-12 sm:px-8 xl:px-0 lg:w-5/6 xl:w-1/3'>
-          {tourPackages?.map((tour, index) => (
-            <PlaceCard data={tour} key={index} />
+          {day?.images?.map((image, index) => (
+            <PlaceCard image={image} key={index} />
           ))}
         </div>
       </section>

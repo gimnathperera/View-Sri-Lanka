@@ -3,10 +3,38 @@ import days3Card from 'src/assets/img/tour/days3/card.jpg';
 import days3Bg from 'src/assets/img/tour/days3/bg.jpg';
 import days3Hero from 'src/assets/img/tour/days3/hero.jpg';
 
+import days3kandy1 from 'src/assets/img/tour/days3/day1/kandy1.jpg';
+import days3kandy2 from 'src/assets/img/tour/days3/day1/kandy2.jpg';
+import days3kandy3 from 'src/assets/img/tour/days3/day1/kandy3.jpg';
+import days3kandy4 from 'src/assets/img/tour/days3/day1/kandy4.jpg';
+import days3kandy5 from 'src/assets/img/tour/days3/day1/kandy5.jpg';
+import days3kandy6 from 'src/assets/img/tour/days3/day1/kandy6.jpg';
+
+import days3kandy10 from 'src/assets/img/tour/days3/day2/kandy10.jpg';
+import days3kandy11 from 'src/assets/img/tour/days3/day2/kandy11.jpg';
+import days3kandy12 from 'src/assets/img/tour/days3/day2/kandy12.jpg';
+import days3kandy4x from 'src/assets/img/tour/days3/day2/kandy4.jpg';
+import days3kandy8 from 'src/assets/img/tour/days3/day2/kandy8.jpg';
+import days3kandy9 from 'src/assets/img/tour/days3/day2/kandy9.jpg';
+
+import days3colombo1 from 'src/assets/img/tour/days3/day3/colombo1.jpg';
+import days3colombo2 from 'src/assets/img/tour/days3/day3/colombo2.jpg';
+import days3colombo3 from 'src/assets/img/tour/days3/day3/colombo3.jpg';
+import days3colombo4 from 'src/assets/img/tour/days3/day3/colombo4.jpg';
+import days3colombo5 from 'src/assets/img/tour/days3/day3/colombo5.jpg';
+import days3colombo6 from 'src/assets/img/tour/days3/day3/colombo6.jpg';
+
 // 04 Days
 import days4Card from 'src/assets/img/tour/days4/daytour2.jpg';
 import days4Bg from 'src/assets/img/tour/days4/Home10.jpg';
 import days4Hero from 'src/assets/img/tour/days4/hero.jpg';
+
+import days4kandy1 from 'src/assets/img/tour/days4/day1/kandy1.jpg';
+import days4kandy2 from 'src/assets/img/tour/days4/day1/kandy2.jpg';
+import days4kandy3 from 'src/assets/img/tour/days4/day1/kandy3.jpg';
+import days4kandy4 from 'src/assets/img/tour/days4/day1/kandy4.jpg';
+import days4kandy5 from 'src/assets/img/tour/days4/day1/kandy5.jpg';
+import days4kandy6 from 'src/assets/img/tour/days4/day1/kandy6.jpg';
 
 // 05 Days
 import days5Card from 'src/assets/img/tour/days5/daytour3.jpg';
@@ -86,7 +114,14 @@ export const tourPackages = [
           'Visit the Temple of the Tooth relic',
           'Take a city tour (Upper lake drive)',
         ],
-        images: [days3Card, days3Card, days3Card],
+        images: [
+          days3kandy1,
+          days3kandy2,
+          days3kandy3,
+          days3kandy4,
+          days3kandy5,
+          days3kandy6,
+        ],
       },
       {
         title: 'Day 02 - Transfer to Colombo city',
@@ -101,7 +136,14 @@ export const tourPackages = [
           'Herbal Spices Garden Mawanella',
           'Enjoy at a Night club and karoke place (optional)',
         ],
-        images: [days3Card, days3Card, days3Card],
+        images: [
+          days3kandy10,
+          days3kandy11,
+          days3kandy12,
+          days3kandy4x,
+          days3kandy8,
+          days3kandy9,
+        ],
       },
       {
         title: 'Day 03 - Colombo city',
@@ -110,7 +152,14 @@ export const tourPackages = [
         With this city tour, you can do shopping and take your lunch at a famous modern restaurant.
         Later you will transfer to the airport`,
         activities: ['Colombo city tour & Shopping', 'Airport transfer'],
-        images: [days3Card, days3Card, days3Card],
+        images: [
+          days3colombo1,
+          days3colombo2,
+          days3colombo3,
+          days3colombo4,
+          days3colombo5,
+          days3colombo6,
+        ],
       },
     ],
   },
@@ -151,7 +200,14 @@ export const tourPackages = [
           'Visit the Temple of the Tooth relic',
           'Take a city tour (Upper lake drive)',
         ],
-        images: [],
+        images: [
+          days4kandy1,
+          days4kandy2,
+          days4kandy3,
+          days4kandy4,
+          days4kandy5,
+          days4kandy6,
+        ],
       },
       {
         title: 'Day 02 - Transfer to Bentota Beach side',
