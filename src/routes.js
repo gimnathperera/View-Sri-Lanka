@@ -11,6 +11,7 @@ import DestinationDetailedView from 'src/pages/Destination/DetailedView';
 import Transport from 'src/pages/Transport';
 import TourPackage from 'src/pages/TourPackage';
 import TourDetailedView from 'src/pages/TourPackage/DetailedView';
+import SpecialPackage from 'src/pages/SpecialPackage';
 
 const RouteLayout = () => {
   const routes = useRoutes([
@@ -31,6 +32,8 @@ const RouteLayout = () => {
         { path: '/transport', element: <Transport /> },
         { path: '/tours', element: <TourPackage /> },
         { path: '/tours/:id', element: <TourDetailedView /> },
+        { path: '/special-packages', element: <SpecialPackage /> },
+
       ],
     },
   ]);
