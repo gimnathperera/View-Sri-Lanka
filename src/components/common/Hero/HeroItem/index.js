@@ -9,9 +9,11 @@ const HeroComponent = ({ data }) => {
               <span class='block'>{header}</span>
               {subHeader && <span class='block text-white'>{subHeader}</span>}
             </h1>
-            <p class='mx-auto text-base text-white sm:max-w-md lg:text-xl md:max-w-3xl'>
-              {description}
-            </p>
+            {description && (
+              <p class='mx-auto text-base text-white sm:max-w-md lg:text-xl md:max-w-3xl'>
+                {description}
+              </p>
+            )}
             <div class='relative flex flex-col sm:flex-row sm:space-x-4'>
               <a
                 href='#_'

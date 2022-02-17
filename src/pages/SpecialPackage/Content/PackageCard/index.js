@@ -1,12 +1,12 @@
 import { Link } from 'react-router-dom';
 
 const PackageCard = ({ data }) => {
-  const { title, country, cardImage, rating, id } = data;
+  const { title, cardImage, rating, id } = data;
 
   return (
     <div class='relative flex flex-col items-center justify-between col-span-4 space-y-4 overflow-hidden sm:rounded-xl rounded-xl'>
       <Link
-        to={`/tours/${id}`}
+        to={`/special-packages/${id}`}
         class='relative block overflow-hidden bg-center bg-no-repeat bg-cover w-full  rounded-xl hover:scale-110 transition duration-300 ease-in-out'
         style={{
           backgroundImage: `url(${cardImage})`,
@@ -27,7 +27,7 @@ const PackageCard = ({ data }) => {
         <div class='relative p-8 pt-40 text-white bg-black bg-opacity-40 hover:bg-opacity-20'>
           <h5 class='text-2xl font-bold'>{title}</h5>
 
-          <p class='text-sm'>{country}</p>
+          <p class='text-sm'>Sri Lanka</p>
         </div>
       </Link>
     </div>

@@ -3,11 +3,11 @@ import { useParams } from 'react-router-dom';
 import _ from 'lodash';
 
 import Hero from 'src/components/common/Hero';
-import Content from 'src/pages/TourPackage/DetailedView/Content';
-import { tourPackages } from 'src/data/tourpackages';
+import Content from 'src/pages/SpecialPackage/DetailedView/Content';
+import { speicalpackages } from 'src/data/speicalpackages';
 
 const DetailedView = () => {
-  const [tour, setTour] = useState(null);
+  const [pack, setPack] = useState(null);
   const { id } = useParams();
 
   useEffect(() => {
@@ -15,14 +15,13 @@ const DetailedView = () => {
   }, []);
 
   const getTourById = () => {
-    setTour(_.find(tourPackages, { id: Number(id) }));
+    setPack(_.find(speicalpackages, { id: Number(id) }));
   };
 
   const heroList = [
     {
-      header: tour?.heroText,
-      description: tour?.title,
-      image: tour?.heroImage,
+      header: pack?.title,
+      image: pack?.heroImage,
     },
   ];
 
@@ -30,11 +29,11 @@ const DetailedView = () => {
     <div
       class={`bg-no-repeat bg-cover bg-fixed`}
       style={{
-        backgroundImage: `url(${tour?.backgroundImage})`,
+        backgroundImage: `url(${pack?.backgroundImage})`,
       }}
     >
       <Hero heroList={heroList} />
-      <Content data={tour} />
+      <Content data={pack} />
     </div>
   );
 };
