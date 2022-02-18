@@ -1,13 +1,52 @@
+import { useState } from 'react';
+import { MobileView } from 'react-device-detect';
+
 import logo from 'src/assets/img/logo.jpg';
 import { places } from 'src/data/destinations';
+import ModalComponent from 'src/components/common/Modal';
 
 const Header = () => {
+  const [isOpen, setIsOpen] = useState(false);
+
+  const handleModalClose = () => {
+    setIsOpen(false);
+  };
+
+  const onModalOpen = () => {
+    setIsOpen(true);
+  };
+
+  const ConfirmComponent = () => {
+    return (
+      <ul class='menu bg-base-100 menu-compact lg:menu-normal w-56 p-2 rounded-box'>
+        <li>
+          <a href='/'>Home</a>
+        </li>
+        <li>
+          <a href='/destinations'>Destinations</a>
+        </li>
+        <li>
+          <a href='/faq'>FAQ</a>
+        </li>
+        <li>
+          <a href='/about-us'>About</a>
+        </li>
+        <li>
+          <a href='#'> Blog</a>
+        </li>
+        <li>
+          <a href='/contact-us'>Contact</a>
+        </li>
+      </ul>
+    );
+  };
+
   return (
-    <div class='navbar shadow-lg bg-white text-black-content sticky top-0 z-50'>
+    <div class='navbar shadow-lg bg-white text-black-content sticky top-0 z-50 lg:px-60 md:px-60'>
       <div class='flex-1 px-2 mx-2'>
-        <div class='bg-indigo-300'>
-          <img class='object-cover w-48' src={logo} />
-        </div>
+        <a class='bg-indigo-300 cursor-pointer' href='/'>
+          <img class='object-cover w-36' src={logo} />
+        </a>
       </div>
       <div class='flex-none hidden px-2 mx-2 lg:flex'>
         <div class='flex items-stretch'>
@@ -50,23 +89,31 @@ const Header = () => {
           </a>
         </div>
       </div>
-      {/* <div class='flex-none'>
-        <button class='btn btn-square btn-ghost'>
-          <svg
-            xmlns='http://www.w3.org/2000/svg'
-            fill='none'
-            viewBox='0 0 24 24'
-            class='inline-block w-6 h-6 stroke-current'
-          >
-            <path
-              stroke-linecap='round'
-              stroke-linejoin='round'
-              stroke-width='2'
-              d='M4 6h16M4 12h16M4 18h16'
-            ></path>
-          </svg>
-        </button>
-      </div> */}
+      <MobileView>
+        <div class='flex-none'>
+          <button class='btn btn-square btn-ghost' onClick={onModalOpen}>
+            <svg
+              xmlns='http://www.w3.org/2000/svg'
+              fill='none'
+              viewBox='0 0 24 24'
+              class='inline-block w-6 h-6 stroke-current'
+            >
+              <path
+                stroke-linecap='round'
+                stroke-linejoin='round'
+                stroke-width='2'
+                d='M4 6h16M4 12h16M4 18h16'
+              ></path>
+            </svg>
+          </button>
+        </div>
+      </MobileView>
+      <ModalComponent
+        isOpen={isOpen}
+        modalContent={<ConfirmComponent />}
+        handleClose={handleModalClose}
+        showCloseIcon={false}
+      />
     </div>
   );
 };
