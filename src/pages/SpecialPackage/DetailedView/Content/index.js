@@ -15,7 +15,7 @@ const Content = ({ data }) => {
             </p>
           </div>
         </div>
-        <div class='container px-8 mx-auto sm:px-12 xl:px-5 lg:w-5/6 xl:w-2/3'>
+        <div class='container  mx-auto sm:px-8 xl:px-32 lg:w-5/6 xl:w-2/3'>
           <h6 class='mt-1 text-2xl font-bold text-left text-gray-800 sm:mx-6 sm:text-2xl md:text-2xl lg:text-2xl pl-16  sm:mx-0'>
             Expectations of this itinerary ?
           </h6>
@@ -25,7 +25,7 @@ const Content = ({ data }) => {
             </p>
           </div>
         </div>
-        <div class='container px-8 mx-auto sm:px-12 xl:px-5 lg:w-5/6 xl:w-2/3'>
+        <div class='container px-8 mx-auto sm:px-8 xl:px-32 lg:w-5/6 xl:w-2/3'>
           <h6 class='mt-1 text-2xl font-bold text-left text-gray-800 sm:mx-6 sm:text-2xl md:text-2xl lg:text-2xl pl-16  sm:mx-0'>
             Location Covered
           </h6>

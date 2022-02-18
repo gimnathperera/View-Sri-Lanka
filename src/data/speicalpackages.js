@@ -1,22 +1,52 @@
 import clasicCard from 'src/assets/img/special/Preference14.jpg';
+import clasicBg from 'src/assets/img/special/sigiriyatour.jpg';
+import clasicHero from 'src/assets/img/special/sigiriyaHero.jpg';
+
 import bestCard from 'src/assets/img/special/Preference12.jpg';
+import bestBg from 'src/assets/img/special/ellaBg.jpg';
+import bestHero from 'src/assets/img/special/nuwaraeliyaHero.jpg';
+
 import historyCard from 'src/assets/img/special/Preference11.jpg';
+import historyBg from 'src/assets/img/special/HISTORYANDCULTURETOUR.jpg';
+import historyHero from 'src/assets/img/special/polonnaruwadestination.jpg';
+
 import archiCard from 'src/assets/img/special/Preference10.jpg';
+import archiHero from 'src/assets/img/special/NORTHEASTDISCOVERYTOUR.jpg';
+import archiBg from 'src/assets/img/special/ARCHITECTURETOUR.jpg';
+
 import beachCard from 'src/assets/img/special/daytour11.jpg';
+import beachBg from 'src/assets/img/special/bg.jpg';
+import beachHero from 'src/assets/img/special/galle5.jpg';
+
 import wilderCard from 'src/assets/img/special/Preference8.jpg';
+import wilderHero from 'src/assets/img/special/yala6.jpg';
+import wilderBg from 'src/assets/img/special/yalaHero.jpg';
+
 import natureCard from 'src/assets/img/special/Preference66.jpg';
+import natureHero from 'src/assets/img/special/Home2.jpg';
+import natureBg from 'src/assets/img/special/home_banner_04.jpg';
+
 import northCard from 'src/assets/img/special/Preference55.jpg';
+import northHero from 'src/assets/img/special/NORTHEASTDISCOVERYTOUR.jpg';
+import northBg from 'src/assets/img/special/jaffnabg.jpg';
+
 import luxuryCard from 'src/assets/img/special/Preference4.jpg';
+import luxuryBg from 'src/assets/img/special/lux.jpg';
+import luxuryHero from 'src/assets/img/special/luxHero.jpg';
+
 import ravanaCard from 'src/assets/img/special/Preference33.jpg';
+import ravanaBg from 'src/assets/img/special/Ravana.jpg';
+
 import birdCard from 'src/assets/img/special/Preference2.jpg';
+import birdHero from 'src/assets/img/special/viewbirds.jpg';
 
 export const speicalpackages = [
   {
     id: 1,
     title: 'Clasic Sri Lanka Tour',
     cardImage: clasicCard,
-    backgroundImage: clasicCard,
-    heroImage: clasicCard,
+    backgroundImage: clasicBg,
+    heroImage: clasicHero,
     heroText: 'Clasic Sri Lanka Tour',
     description: `This is the most popular tour plan to view sri lanka. Thousands of visitors prefer to visit this beautiful land with this type of itinerary. They can feel the nature, wildlife, climate changes, sri Lankan culture, values. Finally, they can stay leisurely on beach area, to be relaxed.`,
     expectations: `Sri lanka is the only one country in this world, which has written history. So with this tour plan we have tried to give a very good idea about our culture and tradition, after visit cultural sites, they can improve the knowledge abut traditional technologies and remarkable constrictions and creations. With this itinerary, we have added many activities, to feel the nature. Two safaris with sri Lankan largest and second largest national parks, not only that, it’s including river safari at Madu river also.
@@ -152,8 +182,8 @@ export const speicalpackages = [
     id: 2,
     title: 'Best Of Sri Lanka Tour',
     cardImage: bestCard,
-    backgroundImage: bestCard,
-    heroImage: bestCard,
+    backgroundImage: bestBg,
+    heroImage: bestHero,
     heroText: 'Best Of Sri Lanka Tour',
     description: `With this Itinerary, your wonder tour partner, Views lanka tour team has tried to give a opportunity to visit most attractive places in this beautiful land, you can be relax and get a good knowledge about our history, culture, and nature. If you have more holidays, we can arrange extra sites and activities, according  to your preference.  `,
     expectations: `To get a good knowledge about Sri Lankan history and architecture designs, we have arranged many cultural sites and activities. To be relax, you can visit and stay leisurely on East cost and south cost. To feel the nature, We have arrange, two safaris, and you can visit cool hill area also. When come these everything together, it would be the best tour plan in sri lanka.`,
@@ -290,8 +320,8 @@ export const speicalpackages = [
     id: 3,
     title: 'History And Culture Tour',
     cardImage: historyCard,
-    backgroundImage: historyCard,
-    heroImage: historyCard,
+    backgroundImage: historyBg,
+    heroImage: historyHero,
     heroText: 'History And Culture Tour',
     description: `Views Lanka tour team has arrange this  cultural tour to  take you through amazing engineering and architectural splendors, ancient ruins of royal palaces, temples and archeological discoveries dating back to the 2rd century BC. We will make sure that you ill get a good knowledge bout Sri Lankan culture and tradition. Not only that with this itinerary, you can visit Two National parks and two different beaches in this wonderful island.`,
     expectations: `We have target to give a remarkable experience and good knowledge for visitors with a special interest in exploring the unique cultural aspects of Sri Lanka and have a desire to learn about the documented history of more than 2500 years. You will experience authentic Sri Lankan culture, dwellings and food. Visit and learn about some of the most celebrated historic cities and monuments, some dating back to more than 2500 years. You need not be an archeologist or a historian to enjoy this tour.`,
@@ -438,8 +468,8 @@ export const speicalpackages = [
     id: 4,
     title: 'Architecture Tour',
     cardImage: archiCard,
-    backgroundImage: archiCard,
-    heroImage: archiCard,
+    backgroundImage: archiBg,
+    heroImage: archiHero,
     heroText: 'Architecture Tour',
     description: `Early Sri Lankan peoples were every clever for architecture buildings, They have built huge water reservoirs, Island wide irrigations system, cannels, and water dams. Not only that they have built world highest bricks stupas and palaces with many facilities. Even in first, second centuries, they had technologies to work with rocks and granites. So lot of creations where long lasting and many monuments we can see still with good conditions. People who interesting and doing experiments about world olden architecture designs, Sri lanka is a one of best place for them.
     Not only ancient designs, Sri lanka has many world famous iconic modern architectural designs with famous Sri Lankan architect Geoffrey Bawa and many famous architects. Because of this advantage, many clients who interesting with this field and an architecture enthusiast, students of architecture or junior architecture students always prefer to travel in sri lanka with this itinerary. So we would like to invite to you, take a walk through the works of our ancient royal architects and modern architects.`,
@@ -575,8 +605,8 @@ export const speicalpackages = [
     id: 5,
     title: 'Sun And Fun On Beaches',
     cardImage: beachCard,
-    backgroundImage: beachCard,
-    heroImage: beachCard,
+    backgroundImage: beachBg,
+    heroImage: beachHero,
     heroText: 'Sun And Fun On Beaches',
     description: `To get an experience about difference beaches in Sri lanka and to stay leisurely on those beautiful beaches. Then they will make their vacation as an unforgettable life experience. With this tour package, we have given opportunities to visit two national parks and famous cultural site at Anuradhapura also, and then it will be a perfect tour package. Even travel around the island with all nice beaches, we have tried to minimize traveling time from a place to another place. So this tour plane will be most comfortable and happiest plan to visit most beautiful beach areas all around the Sri lanka.   `,
     expectations: `With this tour package, we have made an effort, to give a opportunities, to visit and feel most of beautiful beach areas in Sri Lanka. Some clients, they prefer to stay with beautiful beaches and to do some activities around beach areas, that’s why we have designed this tour plan to fulfil their requirements and make their dreams come true.`,
@@ -703,8 +733,8 @@ export const speicalpackages = [
     id: 6,
     title: 'Nature & Wilderness Tour',
     cardImage: wilderCard,
-    backgroundImage: wilderCard,
-    heroImage: wilderCard,
+    backgroundImage: wilderBg,
+    heroImage: wilderHero,
     heroText: 'Nature & Wilderness Tour',
     description: `Sri Lanka offers the wildlife enthusiast many choices of adventure. From elephant or leopard safaris, and camping in the wilderness, to taking a tour of our National Parks and Sanctuaries to enjoying a bike ride or hot air balloon ride through an ever-changing terrain. Sri Lanka is a land of such varying geography that blesses it with a bio-diversity that can take you from a rain forest to a hot arid open terrain within hours. We also specialize in a variety of adventure tours from walking, to cycling tours to water sports which is a popular activity in Sri Lanka. You can enjoy swimming, snorkeling, scuba diving, surfing, kite surfing or you can take a boat out to sea for a whale watching and dolphin watching tour which has become the most popular activity in Sri Lanka.`,
     expectations: `For the nature lover looking for an experience that will de-stress and rejuvenate or for the eco traveler keen to uphold a sustainable way of travel and for the more adventurous types who want to experience an adrenalin rush by being one with the wilderness. This is a best selling tour that offers each traveler a different experience depending on who you are and how you want to enjoy the natural splendor of Sri Lanka.`,
@@ -861,8 +891,8 @@ export const speicalpackages = [
     id: 7,
     title: 'Feel the Nature',
     cardImage: natureCard,
-    backgroundImage: natureCard,
-    heroImage: natureCard,
+    backgroundImage: natureHero,
+    heroImage: natureBg,
     heroText: 'Feel the Nature',
     description: `Strictly for nature lovers, this tour offers a rare opportunity to live with nature and the priceless experience of a lifetime. Sleep in rustic wattle & daub or wooden huts, tree houses and beach cabanas. Lie in bed listening to the trumpeting of wild elephants, the chorus of cicadas and wake up to bird calls early morning. Nature will be a part of your life as you feast on authentic Sri Lankan village food and true local hospitality. This tour also covers highbolds such as the Sigiriya Rock Fortress and the Temple of the Sacred Tooth Relic in Kandy, and also includes white water rafting, an elephant back ride and a game drive in the Udawalawe National Park
                   `,
@@ -945,8 +975,8 @@ export const speicalpackages = [
     id: 8,
     title: 'View North And East',
     cardImage: northCard,
-    backgroundImage: northCard,
-    heroImage: northCard,
+    backgroundImage: northBg,
+    heroImage: northHero,
     heroText: 'View North And East',
     description: `Discover the ruggedly beautiful, architecturally and archeologically unique North of Sri Lanka in this all in one tour. Your first stop is Jaffna, famous for its open landscapes, great cuisine and religious and architectural landmarks. This previously war torn region is now transformed and needs more than a day to explore and appreciate. Soak in the sights and sounds of Jaffna before taking off to the pristine beaches of Trincomalee for some fun activities or just plain R&R. This tour will also allow you to experience some of the grandest cultural sites in Anuradhapura, Sigiriya and visit unique destinations in Kandy. We’ve also thrown in a wildlife tour at Minneriya National Park.
                   `,
@@ -1075,11 +1105,11 @@ export const speicalpackages = [
   },
   {
     id: 9,
-    title: 'Tour Wwith Luxury',
+    title: 'Tour With Luxury',
     cardImage: luxuryCard,
-    backgroundImage: luxuryCard,
-    heroImage: luxuryCard,
-    heroText: 'Tour Wwith Luxury',
+    backgroundImage: luxuryBg,
+    heroImage: luxuryHero,
+    heroText: 'Tour With Luxury',
     description: `Experience tropical luxury at its best as Sri Lanka is home to a collection of luxury boutique hotels on the coast, the hills and in the city. Stunning architecture, home comforts, exquisite cuisine put these privately run hotels on par with global standards and offer various styles and luxury to meet your needs and budget.As the name suggests, this tour offers a truly luxurious experience in Sri Lanka formally known as Ceylon, during the British colonial period. Whilst enjoying the luxuries of the HOTELS AND the tasty cuisines, you will also get to experience the main highbolds Sri Lanka has to offer to its visitors. The cultural heritage of Sigiriya, Dambulla and Kandy, tea covered hill country, elephants in Pinnawela and the beautiful beaches in the south west cost will ensure a truly memorable holiday. This tour can always be changed to best fit your requirements.
                   `,
     expectations: `For the nature lover looking for an experience that will de-stress and rejuvenate or for the eco traveler keen to uphold a sustainable way of travel and for the more adventurous types who want to experience an adrenalin rush by being one with the wilderness. This is a best selling tour that offers each traveler a different experience depending on who you are and how you want to enjoy the natural splendor of Sri Lanka.`,
@@ -1160,7 +1190,7 @@ export const speicalpackages = [
     title: 'Legend Of Ravana',
     cardImage: ravanaCard,
     backgroundImage: ravanaCard,
-    heroImage: ravanaCard,
+    heroImage: ravanaBg,
     heroText: 'Legend Of Ravana',
     description: `Emperor Ravana lived nearly 5000 years ago in Sri Lanka. He was a descendant of ‘Surya Wansha’ of ‘Hela Yakka’ tribe (ancient Sinhala tribe). King Ravana was one of the best fighters in Angampora, the traditional martial arts of ancient Sinhale.
                   He was a great Scholar in Ayurvedic medicine. He was the person who invented “Arka Shastra”. The book “Arka Prakshaya” reveals this truth to the present world. As his willing to research in Ayurvedic medicine he wrote several books revealing the cures for many diseases. In one book he wrote “Eating beef cause to infect ninety eight new diseases to human beings”. The book “Kumara Tantraya” which reveals the treatments for infant diseases was written by him accepting the request of his pregnant queen Mandodari.
@@ -1322,8 +1352,8 @@ export const speicalpackages = [
     id: 11,
     title: 'View Birds',
     cardImage: birdCard,
-    backgroundImage: birdCard,
-    heroImage: birdCard,
+    backgroundImage: wilderHero,
+    heroImage: birdHero,
     heroText: 'View Birds',
     description: `Sri Lanka is a remarkable country for birds. Although it is small in land size, it has a wide range of climate and habitat and about 459 species of birds. Out of these, 216 are resident and these include the most important 34 species that are recognized as endemic to the country. A further 219 species have been recorded as migrants to the country and 24 species are resident and migrant. Majority of these migrate to Sri Lanka during the northern winter and present from August/September to April/May.
                   In Sri lanka, birds are surprisingly tame whether they are in a national park or in an urban setting. Many bird photographers remark on how easy it is to take pictures of the birds. Even birds that is familiar worldwide. Such as many waders, present better photographic opportunities in sri lanka than they do in other parts of the world.  also, remarkably new species continue to be discovered.`,

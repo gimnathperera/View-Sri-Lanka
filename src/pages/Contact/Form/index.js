@@ -57,7 +57,7 @@ const ContactForm = () => {
                 <div class='w-full'>
                   <h4 class='font-bold text-dark text-xl mb-1'>Our Location</h4>
                   <p class='text-base text-body-color'>
-                    99 S.t Jomblo Park Pekanbaru 28292. Indonesia
+                  No. 276/E, Polhena road, Walpola, Ragama, Sri Lanka
                   </p>
                 </div>
               </div>
@@ -92,7 +92,7 @@ const ContactForm = () => {
                 </div>
                 <div class='w-full'>
                   <h4 class='font-bold text-dark text-xl mb-1'>Phone Number</h4>
-                  <p class='text-base text-body-color'>(+62)81 414 257 9980</p>
+                  <p class='text-base text-body-color'>+94 7 66 45 66 33</p>
                 </div>
               </div>
               <div class='flex mb-8 max-w-[370px] w-full'>
@@ -126,7 +126,7 @@ const ContactForm = () => {
                   <h4 class='font-bold text-dark text-xl mb-1'>
                     Email Address
                   </h4>
-                  <p class='text-base text-body-color'>info@yourdomain.com</p>
+                  <p class='text-base text-body-color'>viewslankalours@gmail.com</p>
                 </div>
               </div>
             </div>
