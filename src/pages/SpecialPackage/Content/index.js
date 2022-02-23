@@ -2,6 +2,9 @@ import BookingAction from 'src/components/common/BookingAction';
 import { speicalpackages } from 'src/data/speicalpackages';
 
 import PackageCard from 'src/pages/SpecialPackage/Content/PackageCard';
+import CustomTourCard from 'src/components/common/CustomTourCard';
+
+import days3Card from 'src/assets/img/tour/days3/card.jpg';
 
 const Content = () => {
   return (
@@ -19,6 +22,7 @@ const Content = () => {
             {speicalpackages?.map((pack, index) => (
               <PackageCard data={pack} key={index} />
             ))}
+            <CustomTourCard image={days3Card} special={true} />
           </div>
         </div>
       </section>

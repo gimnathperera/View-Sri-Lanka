@@ -13,6 +13,7 @@ import TourPackage from 'src/pages/TourPackage';
 import TourDetailedView from 'src/pages/TourPackage/DetailedView';
 import SpecialPackage from 'src/pages/SpecialPackage';
 import SpecialPackageDetailedView from 'src/pages/SpecialPackage/DetailedView';
+import CustomTour from 'src/pages/CustomTour';
 
 const RouteLayout = () => {
   const routes = useRoutes([
@@ -34,9 +35,11 @@ const RouteLayout = () => {
         { path: '/tours', element: <TourPackage /> },
         { path: '/tours/:id', element: <TourDetailedView /> },
         { path: '/special-packages', element: <SpecialPackage /> },
-        { path: '/special-packages/:id', element: <SpecialPackageDetailedView /> },
-
-
+        {
+          path: '/special-packages/:id',
+          element: <SpecialPackageDetailedView />,
+        },
+        { path: '/tours/custom', element: <CustomTour /> },
       ],
     },
   ]);

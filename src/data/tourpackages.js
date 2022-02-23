@@ -648,7 +648,6 @@ import dayssigiriya7 from 'src/assets/img/tour/daysLuxury/day2/sigiriya7.jpg';
 import dayssigiriya8 from 'src/assets/img/tour/daysLuxury/day2/sigiriya8.jpg';
 import dayssigiriya9 from 'src/assets/img/tour/daysLuxury/day2/sigiriya9.jpg';
 
-
 import dayssigiriya1 from 'src/assets/img/tour/daysLuxury/day3/sigiriya1.jpg';
 import dayssigiriya12 from 'src/assets/img/tour/daysLuxury/day3/sigiriya12.jpg';
 import dayssigiriya2 from 'src/assets/img/tour/daysLuxury/day3/sigiriya2.jpg';
@@ -739,9 +738,6 @@ import dayscolombo3 from 'src/assets/img/tour/daysLuxury/day15/colombo3.jpg';
 import dayscolombo4 from 'src/assets/img/tour/daysLuxury/day15/colombo4.jpg';
 import dayscolombo5 from 'src/assets/img/tour/daysLuxury/day15/colombo5.jpg';
 import dayscolombo6 from 'src/assets/img/tour/daysLuxury/day15/colombo6.jpg';
-
-
-
 
 export const tourPackages = [
   {
@@ -2870,12 +2866,14 @@ export const tourPackages = [
           'City tour in Negombo',
           'Lagoon boat ride',
         ],
-        images: [daysLuxurynegombo1,
+        images: [
+          daysLuxurynegombo1,
           daysLuxurynegombo2,
           daysLuxurynegombo3,
           daysLuxurynegombo4,
           daysLuxurynegombo5,
-          daysLuxurynegombo6],
+          daysLuxurynegombo6,
+        ],
       },
       {
         title: 'Day 02 - Sigiriya',
@@ -2885,12 +2883,14 @@ export const tourPackages = [
         
         Overnight you will stay in sigiriya`,
         activities: ['Transfer to Negombo', 'Visit Dambulla rock cave temple'],
-        images: [dayssigiriya10,
+        images: [
+          dayssigiriya10,
           dayssigiriya11,
           dayssigiriya6,
           dayssigiriya7,
           dayssigiriya8,
-          dayssigiriya9],
+          dayssigiriya9,
+        ],
       },
       {
         title: 'Day 03 - Sigiriya',
@@ -2909,12 +2909,14 @@ export const tourPackages = [
           'Safari at Minneriya National park',
           'Herble body massage',
         ],
-        images: [dayssigiriya1,
+        images: [
+          dayssigiriya1,
           dayssigiriya12,
           dayssigiriya2,
           dayssigiriya3,
           dayssigiriya4,
-          dayssigiriya5],
+          dayssigiriya5,
+        ],
       },
       {
         title: 'Day 04 - Kandy',
@@ -2930,12 +2932,14 @@ export const tourPackages = [
           'Visit Matale spice garden',
           'Kandy cultural Dance show',
         ],
-        images: [dayskandy1,
+        images: [
+          dayskandy1,
           dayskandy2,
           dayskandy3,
           dayskandy4,
           dayskandy5,
-          dayskandy6],
+          dayskandy6,
+        ],
       },
       {
         title: 'Day 05 - Kandy City',
@@ -2953,13 +2957,14 @@ export const tourPackages = [
           'City tour at Kandy',
           'Visit Royal Botanical garden',
         ],
-        images: [dayskandy10,
+        images: [
+          dayskandy10,
           dayskandy11,
           dayskandy12,
           dayskandy7,
           dayskandy8,
           dayskandy9,
-          ],
+        ],
       },
       {
         title: 'Day 06 - Nuwara Eliya City',
@@ -2973,12 +2978,14 @@ export const tourPackages = [
           'Walk through a tea plantation',
           'Tea factory visit',
         ],
-        images: [daysnuwaraeliya1,
+        images: [
+          daysnuwaraeliya1,
           daysnuwaraeliya2,
           daysnuwaraeliya3,
           daysnuwaraeliya4,
           daysnuwaraeliya5,
-          daysnuwaraeliya6],
+          daysnuwaraeliya6,
+        ],
       },
       {
         title: 'Day 07 - Nuwara Eliya',
@@ -2990,12 +2997,14 @@ export const tourPackages = [
           'Visit Horton plains National park',
           'City tour at Nuwara Eliya',
         ],
-        images: [daysnuwaraeliya10,
+        images: [
+          daysnuwaraeliya10,
           daysnuwaraeliya11,
           daysnuwaraeliya16,
           daysnuwaraeliya7,
           daysnuwaraeliya8,
-          daysnuwaraeliya9],
+          daysnuwaraeliya9,
+        ],
       },
       {
         title: 'Day 08 - Ella',
@@ -3006,12 +3015,14 @@ export const tourPackages = [
           'Train journey from Nanuoya to Ella',
           'Sights seen at Ella',
         ],
-        images: [daysella1,
+        images: [
+          daysella1,
           daysella2,
           daysella3,
           daysella4,
           daysella5,
-          daysella6],
+          daysella6,
+        ],
       },
       {
         title: 'Day 09 - Ella',
@@ -3022,12 +3033,14 @@ export const tourPackages = [
         
         Overnight you will stay at Thissmaharamaya`,
         activities: ['Climb Little Adams peak', 'Visit Nine arch bridge'],
-        images: [daysella10,
+        images: [
+          daysella10,
           daysella11,
           daysella12,
           daysella7,
           daysella8,
-          daysella9],
+          daysella9,
+        ],
       },
       {
         title: 'Day 10 - Yala National park',
@@ -3040,13 +3053,14 @@ export const tourPackages = [
           'Safari at Yala National park',
           'Transfer to mirissa beach area',
         ],
-        images: [daysyala1,
+        images: [
+          daysyala1,
           daysyala2,
           daysyala3,
           daysyala4,
           daysyala5,
-          daysyala6
-          ],
+          daysyala6,
+        ],
       },
       {
         title: 'Day 11 - Mirissa',
@@ -3059,12 +3073,14 @@ export const tourPackages = [
         
         After the event you can stay leisurely at Mirissa beach and overnight you will stay Mirissa beach area.`,
         activities: ['Whale watching'],
-        images: [daysmirissa1,
+        images: [
+          daysmirissa1,
           daysmirissa2,
           daysmirissa3,
           daysmirissa4,
           daysmirissa5,
-          daysmirissa6],
+          daysmirissa6,
+        ],
       },
       {
         title: 'Day 12 - Galle',
@@ -3073,12 +3089,14 @@ export const tourPackages = [
         During the visit you can get your lunch from famous restaurant in Galle fort , and after lunch you can enjoy with secret jungle beach, Swim, lay down on white sandy beach and sun bathing. 
         Overnight you will stay at galle beach area `,
         activities: ['Visit Galle Dutch fort', 'Enjoy at Jungle beach'],
-        images: [daysgalle1,
+        images: [
+          daysgalle1,
           daysgalle2,
           daysgalle3,
           daysgalle4,
           daysgalle5,
-          daysgalle6],
+          daysgalle6,
+        ],
       },
       {
         title: 'Day 13 - Hikkaduwa',
@@ -3090,12 +3108,14 @@ export const tourPackages = [
         Until transfer to the airport, you can do anything as you wish, Views lanka tour team will provide a scooty type motor bike to visit everywhere freely. 
         Overnight you will stay at Hikkaduwa beach`,
         activities: ['Snorkelling and diving'],
-        images: [dayshikkaduwa1,
+        images: [
+          dayshikkaduwa1,
           dayshikkaduwa2,
           dayshikkaduwa3,
           dayshikkaduwa4,
           dayshikkaduwa5,
-          dayshikkaduwa6],
+          dayshikkaduwa6,
+        ],
       },
       {
         title: 'Day 14 - Bentota',
@@ -3108,12 +3128,14 @@ export const tourPackages = [
           'Madu rever boat safari',
           'Visit sea turtle conservation center',
         ],
-        images: [daysBentota1,
+        images: [
+          daysBentota1,
           daysBentota2,
           daysBentota3,
           daysBentota4,
           daysBentota5,
-          daysBentota6],
+          daysBentota6,
+        ],
       },
       {
         title: 'Day 15 - Airport Transfer from Bentota',
@@ -3125,12 +3147,14 @@ export const tourPackages = [
           'After the breakfast at the hotel, proceed to AirPort through colombo',
           'Good bye from Views Lanka Travels',
         ],
-        images: [dayscolombo1,
+        images: [
+          dayscolombo1,
           dayscolombo2,
           dayscolombo3,
           dayscolombo4,
           dayscolombo5,
-          dayscolombo6],
+          dayscolombo6,
+        ],
       },
     ],
   },

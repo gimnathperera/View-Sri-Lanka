@@ -1,7 +1,11 @@
+import { Link } from 'react-router-dom';
+
 import BookingAction from 'src/components/common/BookingAction';
 import { tourPackages } from 'src/data/tourpackages';
-
 import TourCard from 'src/pages/TourPackage/Content/TourCard';
+import CustomTourCard from 'src/components/common/CustomTourCard';
+
+import days3Card from 'src/assets/img/tour/days3/card.jpg';
 
 const Content = () => {
   return (
@@ -19,6 +23,7 @@ const Content = () => {
             {tourPackages?.map((tour, index) => (
               <TourCard data={tour} key={index} />
             ))}
+            <CustomTourCard image={days3Card} special={false} />
           </div>
         </div>
       </section>
