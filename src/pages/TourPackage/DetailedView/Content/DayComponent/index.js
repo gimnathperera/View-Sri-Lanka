@@ -5,7 +5,10 @@ const DayComponent = ({ day }) => {
   return (
     <div>
       <section class='relative pt-16 pb-4 bg-white min-w-screen animation-fade animation-delay'>
-        <div class='container px-0 px-8 mx-auto sm:px-12 xl:px-5'>
+        <div
+          class='container px-0 px-8 mx-auto sm:px-12 xl:px-5'
+          data-aos='fade-up'
+        >
           <h3 class='mt-1 text-2xl font-bold text-left text-gray-800 sm:mx-6 sm:text-4xl md:text-4xl lg:text-4xl sm:text-center sm:mx-0'>
             {day?.title}
           </h3>
@@ -25,7 +28,11 @@ const DayComponent = ({ day }) => {
         </div>
       </section>
       <section class='relative pt-4 pb-8 bg-white min-w-screen animation-fade animation-delay'>
-        <div class='container px-0 lg:pl-80 mx-auto'>
+        <div
+          class='container px-0 lg:pl-80 mx-auto'
+          data-aos='fade-up'
+          data-aos-anchor-placement='top-bottom'
+        >
           <h6 class='mt-1 text-2xl font-bold text-left text-gray-800 sm:mx-6 sm:text-2xl md:text-2xl lg:text-2xl  sm:mx-0'>
             Activities
           </h6>

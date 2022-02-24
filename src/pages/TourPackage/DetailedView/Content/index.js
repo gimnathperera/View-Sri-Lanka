@@ -9,7 +9,10 @@ const Content = ({ data }) => {
           <h3 class='mt-1 text-2xl font-bold text-left text-gray-800 sm:mx-6 sm:text-3xl md:text-4xl lg:text-5xl sm:text-center sm:mx-0 text-center'>
             {data?.heroText}
           </h3>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white rounded-lg sm:px-8 md:px-12 sm:py-8  lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white rounded-lg sm:px-8 md:px-12 sm:py-8  lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <p class='mt-2 text-base text-gray-600 sm:text-lg md:text-normal text-justify'>
               {data?.description}
             </p>
@@ -17,7 +20,7 @@ const Content = ({ data }) => {
         </div>
       </section>
       <section class='relative py-4 bg-white min-w-screen animation-fade animation-delay'>
-        <div class='container px-0 lg:pl-80 mx-auto'>
+        <div class='container px-0 lg:pl-80 mx-auto' data-aos='fade-up'>
           <h6 class='mt-1 text-2xl font-bold text-left text-gray-800 sm:mx-6 sm:text-2xl md:text-2xl lg:text-2xl  sm:mx-0'>
             Activities Covered
           </h6>
@@ -43,7 +46,7 @@ const Content = ({ data }) => {
         </div>
       </section>
       <section class='relative pt-4 pb-8 bg-white min-w-screen animation-fade animation-delay'>
-        <div class='container px-0 lg:pl-80 mx-auto'>
+        <div class='container px-0 lg:pl-80 mx-auto' data-aos='fade-up'>
           <h6 class='mt-1 text-2xl font-bold text-left text-gray-800 sm:mx-6 sm:text-2xl md:text-2xl lg:text-2xl  sm:mx-0'>
             Locations Covered
           </h6>

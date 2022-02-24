@@ -23,7 +23,10 @@ const Offers = () => {
           </div>
         </div>
         <div class='grid gap-10 md:grid-cols-3'>
-          <div class='flex flex-col m-4 overflow-hidden rounded hover:shadow-white shadow-md hover:shadow-lg backdrop-blur-2xl cursor-pointer hover:backdrop-blur-3xl'>
+          <div
+            class='flex flex-col m-4 overflow-hidden rounded hover:shadow-white shadow-md hover:shadow-lg backdrop-blur-2xl cursor-pointer hover:backdrop-blur-3xl'
+            data-aos='flip-right'
+          >
             <img
               class='object-cover w-full h-56 sm:h-48 hover:scale-110 transition duration-300 ease-in-out'
               src={daytour20}
@@ -63,7 +66,10 @@ const Offers = () => {
             </div>
           </div>
 
-          <div class='flex flex-col m-4 overflow-hidden rounded hover:shadow-[#f5d0fe] shadow-md hover:shadow-lg backdrop-blur-2xl cursor-pointer'>
+          <div
+            class='flex flex-col m-4 overflow-hidden rounded hover:shadow-[#f5d0fe] shadow-md hover:shadow-lg backdrop-blur-2xl cursor-pointer'
+            data-aos='flip-right'
+          >
             <img
               class='object-cover w-full h-56 sm:h-48 hover:scale-110 transition duration-300 ease-in-out'
               src={daytour22}
@@ -102,7 +108,10 @@ const Offers = () => {
             </div>
           </div>
 
-          <div class='flex flex-col m-4 overflow-hidden rounded  hover:shadow-[#fda4af] shadow-md hover:shadow-lg backdrop-blur-2xl cursor-pointer'>
+          <div
+            class='flex flex-col m-4 overflow-hidden rounded  hover:shadow-[#fda4af] shadow-md hover:shadow-lg backdrop-blur-2xl cursor-pointer'
+            data-aos='flip-right'
+          >
             <img
               class='object-cover w-full h-56 sm:h-48 hover:scale-110 transition duration-300 ease-in-out'
               src={whale}
@@ -141,7 +150,10 @@ const Offers = () => {
             </div>
           </div>
 
-          <div class='flex flex-col m-4 overflow-hidden rounded hover:shadow-[#2dd4bf] shadow-md hover:shadow-lg backdrop-blur-2xl cursor-pointer'>
+          <div
+            class='flex flex-col m-4 overflow-hidden rounded hover:shadow-[#2dd4bf] shadow-md hover:shadow-lg backdrop-blur-2xl cursor-pointer'
+            data-aos='flip-right'
+          >
             <img
               class='object-cover w-full h-56 sm:h-48 hover:scale-110 transition duration-300 ease-in-out'
               src={Bentota1}
@@ -180,7 +192,10 @@ const Offers = () => {
             </div>
           </div>
 
-          <div class='flex flex-col m-4 overflow-hidden rounded hover:shadow-[#38bdf8] shadow-md hover:shadow-lg backdrop-blur-2xl cursor-pointer'>
+          <div
+            class='flex flex-col m-4 overflow-hidden rounded hover:shadow-[#38bdf8] shadow-md hover:shadow-lg backdrop-blur-2xl cursor-pointer'
+            data-aos='flip-right'
+          >
             <img
               class='object-cover w-full h-56 sm:h-48 hover:scale-110 transition duration-300 ease-in-out'
               src={sigiriya7}
@@ -219,7 +234,10 @@ const Offers = () => {
             </div>
           </div>
 
-          <div class='flex flex-col m-4 overflow-hidden rounded hover:shadow-[#fde047] shadow-md hover:shadow-lg backdrop-blur-2xl cursor-pointer'>
+          <div
+            class='flex flex-col m-4 overflow-hidden rounded hover:shadow-[#fde047] shadow-md hover:shadow-lg backdrop-blur-2xl cursor-pointer'
+            data-aos='flip-right'
+          >
             <img
               class='object-cover w-full h-56 sm:h-48 hover:scale-110 transition duration-300 ease-in-out'
               src={hikkaduwa1}

@@ -9,8 +9,14 @@ const Content = ({ data }) => {
           <h3 class='mt-1 text-2xl font-bold text-left text-gray-800 sm:mx-6 sm:text-3xl md:text-4xl lg:text-5xl sm:text-center sm:mx-0'>
             About {data?.city}
           </h3>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white rounded-lg sm:px-8 md:px-12 sm:py-8  lg:w-5/6 xl:w-2/3'>
-            <p class='mt-2 text-base text-gray-600 sm:text-lg md:text-normal'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white rounded-lg sm:px-8 md:px-12 sm:py-8  lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
+            <p
+              class='mt-2 text-base text-gray-600 sm:text-lg md:text-normal text-justify'
+              data-aos='fade-up'
+            >
               {data?.description}
             </p>
           </div>

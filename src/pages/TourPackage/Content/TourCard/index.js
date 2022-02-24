@@ -4,7 +4,10 @@ const TourCard = ({ data }) => {
   const { title, country, cardImage, rating, id } = data;
 
   return (
-    <div class='relative flex flex-col items-center justify-between col-span-4 space-y-4 overflow-hidden sm:rounded-xl rounded-xl'>
+    <div
+      class='relative flex flex-col items-center justify-between col-span-4 space-y-4 overflow-hidden sm:rounded-xl rounded-xl'
+      data-aos='flip-right'
+    >
       <Link
         to={`/tours/${id}`}
         class='relative block overflow-hidden bg-center bg-no-repeat bg-cover w-full  rounded-xl hover:scale-110 transition duration-300 ease-in-out'

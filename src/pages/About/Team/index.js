@@ -16,7 +16,10 @@ const Team = () => {
         </h1>
       </div>
       <div class='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-6'>
-        <div class='w-full rounded-lg p-12 flex flex-col justify-center items-center  backdrop-blur-2xl hover:shadow-[#f5d0fe] shadow-md hover:shadow-lg'>
+        <div
+          class='w-full rounded-lg p-12 flex flex-col justify-center items-center  backdrop-blur-2xl hover:shadow-[#f5d0fe] shadow-md hover:shadow-lg'
+          data-aos='flip-down'
+        >
           <div class='mb-8'>
             <img
               class='object-center object-cover rounded-full h-36 w-36'
@@ -31,7 +34,10 @@ const Team = () => {
             <p class='text-base text-gray-400 font-normal'>Managing Director</p>
           </div>
         </div>
-        <div class='w-full rounded-lg p-12 flex flex-col justify-center items-center backdrop-blur-2xl hover:shadow-[#f5d0fe] shadow-md hover:shadow-lg'>
+        <div
+          class='w-full rounded-lg p-12 flex flex-col justify-center items-center backdrop-blur-2xl hover:shadow-[#f5d0fe] shadow-md hover:shadow-lg'
+          data-aos='flip-down'
+        >
           <div class='mb-8'>
             <img
               class='object-center object-cover rounded-full h-36 w-36'
@@ -46,7 +52,10 @@ const Team = () => {
             </p>
           </div>
         </div>
-        <div class='w-full rounded-lg p-12 flex flex-col justify-center items-center backdrop-blur-2xl hover:shadow-[#f5d0fe] shadow-md hover:shadow-lg'>
+        <div
+          class='w-full rounded-lg p-12 flex flex-col justify-center items-center backdrop-blur-2xl hover:shadow-[#f5d0fe] shadow-md hover:shadow-lg'
+          data-aos='flip-down'
+        >
           <div class='mb-8'>
             <img
               class='object-center object-cover rounded-full h-36 w-36'
@@ -63,7 +72,10 @@ const Team = () => {
             </p>
           </div>
         </div>
-        <div class='w-full rounded-lg p-12 flex flex-col justify-center items-center backdrop-blur-2xl hover:shadow-[#f5d0fe] shadow-md hover:shadow-lg'>
+        <div
+          class='w-full rounded-lg p-12 flex flex-col justify-center items-center backdrop-blur-2xl hover:shadow-[#f5d0fe] shadow-md hover:shadow-lg'
+          data-aos='flip-down'
+        >
           <div class='mb-8'>
             <img
               class='object-center object-cover rounded-full h-36 w-36'
@@ -78,7 +90,10 @@ const Team = () => {
             <p class='text-base text-gray-400 font-normal'>Marketing Manager</p>
           </div>
         </div>
-        <div class='w-full rounded-lg p-12 flex flex-col justify-center items-center backdrop-blur-2xl hover:shadow-[#f5d0fe] shadow-md hover:shadow-lg'>
+        <div
+          class='w-full rounded-lg p-12 flex flex-col justify-center items-center backdrop-blur-2xl hover:shadow-[#f5d0fe] shadow-md hover:shadow-lg'
+          data-aos='flip-down'
+        >
           <div class='mb-8'>
             <img
               class='object-center object-cover rounded-full h-36 w-36'
@@ -93,7 +108,10 @@ const Team = () => {
             <p class='text-base text-gray-400 font-normal'>Acount Executive</p>
           </div>
         </div>
-        <div class='w-full rounded-lg p-12 flex flex-col justify-center items-center backdrop-blur-2xl hover:shadow-[#f5d0fe] shadow-md hover:shadow-lg'>
+        <div
+          class='w-full rounded-lg p-12 flex flex-col justify-center items-center backdrop-blur-2xl hover:shadow-[#f5d0fe] shadow-md hover:shadow-lg'
+          data-aos='flip-down'
+        >
           <div class='mb-8'>
             <img
               class='object-center object-cover rounded-full h-36 w-36'

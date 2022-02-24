@@ -18,7 +18,7 @@ const ContactForm = () => {
     <section class='bg-white py-20 lg:py-[120px] overflow-hidden relative z-10 justify-center flex'>
       <div class='container'>
         <div class='flex flex-wrap lg:justify-between -mx-4'>
-          <div class='w-full lg:w-1/2 xl:w-6/12 px-4'>
+          <div class='w-full lg:w-1/2 xl:w-6/12 px-4' data-aos='fade-up'>
             <div class='max-w-[570px] mb-12 lg:mb-0'>
               <span class='block mb-4 text-base text-primary font-semibold'>
                 Contact Us
@@ -42,7 +42,7 @@ const ContactForm = () => {
                 eius tempor incididunt ut labore et dolore magna aliqua. Ut enim
                 adiqua minim veniam quis nostrud exercitation ullamco
               </p>
-              <div class='flex mb-8 max-w-[370px] w-full'>
+              <div class='flex mb-8 max-w-[370px] w-full' data-aos='fade-right'>
                 <div
                   class='
                      max-w-[60px]
@@ -76,7 +76,7 @@ const ContactForm = () => {
                   </p>
                 </div>
               </div>
-              <div class='flex mb-8 max-w-[370px] w-full'>
+              <div class='flex mb-8 max-w-[370px] w-full' data-aos='fade-right'>
                 <div
                   class='
                      max-w-[60px]
@@ -110,7 +110,7 @@ const ContactForm = () => {
                   <p class='text-base text-body-color'>+94 7 66 45 66 33</p>
                 </div>
               </div>
-              <div class='flex mb-8 max-w-[370px] w-full'>
+              <div class='flex mb-8 max-w-[370px] w-full' data-aos='fade-right'>
                 <div
                   class='
                      max-w-[60px]
@@ -163,6 +163,7 @@ const ContactForm = () => {
                     handleSubmit();
                   }}
                   class='w-full lg:w-1/2 xl:w-5/12 px-4'
+                  data-aos='fade-left'
                 >
                   <div class='bg-white relative rounded-lg p-8 sm:p-12 shadow-lg'>
                     <div class='mb-6'>

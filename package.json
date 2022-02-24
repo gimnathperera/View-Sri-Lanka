@@ -6,6 +6,7 @@
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
+    "aos": "^2.3.4",
     "daisyui": "^1.25.4",
     "formik": "^2.2.9",
     "lodash": "^4.17.21",

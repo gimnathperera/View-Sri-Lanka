@@ -8,7 +8,10 @@ const Services = () => {
     <section class='bg-white'>
       <div class='w-full px-5 py-6 mx-auto space-y-5 sm:py-8 md:py-12 sm:space-y-8 md:space-y-16 max-w-7xl'>
         <div class='flex flex-col items-center sm:px-5 md:flex-row'>
-          <div class='w-full md:w-1/2 overflow-hidden rounded-lg'>
+          <div
+            class='w-full md:w-1/2 overflow-hidden rounded-lg'
+            data-aos='zoom-in'
+          >
             <a
               href='#_'
               class='block rounded-lg hover:shadow-[#4ade80] shadow-md hover:shadow-lg'
@@ -24,7 +27,10 @@ const Services = () => {
             </a>
           </div>
           <div class='flex flex-col items-start justify-center w-full h-full py-6 mb-6 md:mb-0 md:w-1/2'>
-            <div class='flex flex-col items-start justify-center h-full space-y-3 transform md:pl-10 lg:pl-16 md:space-y-5'>
+            <div
+              class='flex flex-col items-start justify-center h-full space-y-3 transform md:pl-10 lg:pl-16 md:space-y-5'
+              data-aos='zoom-in'
+            >
               <div class='bg-pink-500 flex items-center pl-2 pr-3 py-1.5 leading-none rounded-full text-xs font-medium uppercase text-white inline-block'>
                 <svg
                   class='w-3.5 h-3.5 mr-1'
@@ -45,7 +51,10 @@ const Services = () => {
         </div>
 
         <div class='flex grid h-full grid-cols-12 gap-[1.5rem] sm:gap-10 pb-10 mt-8 sm:mt-16 cursor-pointer'>
-          <div class='relative flex flex-col items-start justify-end h-full col-span-12 overflow-hidden rounded-xl group md:col-span-6 xl:col-span-4'>
+          <div
+            class='relative flex flex-col items-start justify-end h-full col-span-12 overflow-hidden rounded-xl group md:col-span-6 xl:col-span-4'
+            data-aos='flip-left'
+          >
             <a
               href='/transport'
               class='block w-full transition duration-300 ease-in-out transform bg-center bg-cover h-96 hover:scale-110'
@@ -68,7 +77,10 @@ const Services = () => {
               </p>
             </div>
           </div>
-          <div class='relative flex flex-col items-start justify-end h-full col-span-12 overflow-hidden rounded-xl group sm:col-span-12 xl:col-span-4 cursor-pointer'>
+          <div
+            class='relative flex flex-col items-start justify-end h-full col-span-12 overflow-hidden rounded-xl group sm:col-span-12 xl:col-span-4 cursor-pointer'
+            data-aos='flip-left'
+          >
             <a
               href='/tours'
               class='block w-full transition duration-300 ease-in-out transform bg-center bg-cover h-96 hover:scale-110'
@@ -91,7 +103,10 @@ const Services = () => {
               </p>
             </div>
           </div>
-          <div class='relative flex flex-col items-start justify-end h-full col-span-12 overflow-hidden rounded-xl group sm:col-span-12 xl:col-span-4 cursor-pointer'>
+          <div
+            class='relative flex flex-col items-start justify-end h-full col-span-12 overflow-hidden rounded-xl group sm:col-span-12 xl:col-span-4 cursor-pointer'
+            data-aos='flip-left'
+          >
             <a
               href='/special-packages'
               class='block w-full transition duration-300 ease-in-out transform bg-center bg-cover h-96 hover:scale-110'

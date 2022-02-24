@@ -2,7 +2,10 @@ const Testimonial = () => {
   return (
     <section class='flex items-center justify-center py-20 min-w-screen'>
       <div class='px-16'>
-        <div class='container flex flex-col items-start mx-auto lg:items-center  backdrop-blur-2xl p-10'>
+        <div
+          class='container flex flex-col items-start mx-auto lg:items-center  backdrop-blur-2xl p-10'
+          data-aos='fade-up'
+        >
           <p class='relative flex items-start justify-start w-full text-lg font-bold tracking-wider text-[#E5E7EB] uppercase lg:justify-center lg:items-center'>
             Don't just take our word for it
           </p>

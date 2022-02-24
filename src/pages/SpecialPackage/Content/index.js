@@ -10,7 +10,7 @@ const Content = () => {
   return (
     <>
       <section class='py-20 bg-white'>
-        <div class='container max-w-6xl mx-auto'>
+        <div class='container max-w-6xl mx-auto' data-aos='fade-up'>
           <h2 class='text-5xl font-bold tracking-tight text-center'>
             Views Lanka Special Tour packages
           </h2>

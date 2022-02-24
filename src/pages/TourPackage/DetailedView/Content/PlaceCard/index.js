@@ -2,7 +2,11 @@ import { Link } from 'react-router-dom';
 
 const PlaceCard = ({ image }) => {
   return (
-    <div class='relative flex flex-col items-center justify-between col-span-4 space-y-4 overflow-hidden sm:rounded-xl rounded-xl mask mask-hexagon'>
+    <div
+      class='relative flex flex-col items-center justify-between col-span-4 space-y-4 overflow-hidden sm:rounded-xl rounded-xl mask mask-hexagon'
+      data-aos='fade-up'
+      data-aos-anchor-placement='top-bottom'
+    >
       <Link
         to={`#`}
         class='relative block overflow-hidden bg-center bg-no-repeat bg-cover w-full  rounded-xl hover:scale-110 transition duration-300 ease-in-out'

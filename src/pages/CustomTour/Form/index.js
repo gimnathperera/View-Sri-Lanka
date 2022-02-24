@@ -3,7 +3,12 @@ import { Formik } from 'formik';
 
 import { customTourSchema } from 'src/common';
 import { speicalpackages } from 'src/data/speicalpackages';
-import { countries, childrenPackages, adultPackages } from 'src/data/common';
+import {
+  countries,
+  childrenPackages,
+  adultPackages,
+  durations,
+} from 'src/data/common';
 import flowImg from 'src/assets/img/about/flow7.jpeg';
 const initialFormValues = {
   fullName: '',
@@ -31,7 +36,7 @@ const ContactForm = () => {
     <section class='bg-white py-20 lg:py-[120px] overflow-hidden relative z-10 justify-center flex'>
       <div class='container'>
         <div class='flex flex-wrap lg:justify-between -mx-4'>
-          <div class='w-full lg:w-1/2 xl:w-6/12 px-4'>
+          <div class='w-full lg:w-1/2 xl:w-6/12 px-4' data-aos='fade-right'>
             <div class='max-w-[570px] mb-12 lg:mb-0'>
               <span class='block mb-4 text-base text-primary font-semibold'>
                 Customize a trip
@@ -77,6 +82,7 @@ const ContactForm = () => {
                     handleSubmit();
                   }}
                   class='w-full lg:w-1/2 xl:w-5/12 px-4'
+                  data-aos='fade-left'
                 >
                   <div class='bg-white relative rounded-lg p-8 sm:p-12 shadow-lg'>
                     <div class='mb-6'>
@@ -343,6 +349,11 @@ const ContactForm = () => {
                         onChange={handleChange}
                       >
                         <option value=''>Tour Duration</option>
+                        {durations.map((_package, index) => (
+                          <option value={_package} key={index}>
+                            {_package}
+                          </option>
+                        ))}
                       </select>
                       {touched.tourDuration && errors.tourDuration && (
                         <span class='flex items-center font-medium tracking-wide text-red-500 text-xs mt-1 ml-1'>

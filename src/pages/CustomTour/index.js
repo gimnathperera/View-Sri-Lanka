@@ -2,7 +2,7 @@ import Hero from 'src/components/common/Hero';
 import BookingAction from 'src/components/common/BookingAction';
 import Form from 'src/pages/CustomTour/Form';
 
-import bgImage from 'src/assets/img/contact/tel1.jpg';
+import bgImage from 'src/assets/img/customTour/bg.png';
 import laptop from 'src/assets/img/contact/tel2.jpg';
 
 const heroList = [

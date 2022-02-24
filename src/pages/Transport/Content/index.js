@@ -9,7 +9,10 @@ const Content = () => {
           Bandaranaike International Airport Colombo and City Taxi Transfers Sri
           Lanka
         </p>
-        <div class='w-full px-6 py-6 mx-auto mt-10 bg-white rounded-lg sm:px-8 md:px-12 sm:py-8  lg:w-5/6 xl:w-2/3'>
+        <div
+          class='w-full px-6 py-6 mx-auto mt-10 bg-white rounded-lg sm:px-8 md:px-12 sm:py-8  lg:w-5/6 xl:w-2/3'
+          data-aos='fade-up'
+        >
           <p class='mt-2 text-base text-gray-600 sm:text-lg md:text-normal text-justify'>
             We offer city and airport transfers in Sri Lanka from the Colombo
             International Airport to any location in the island. These airport

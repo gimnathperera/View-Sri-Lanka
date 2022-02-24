@@ -20,3 +20,11 @@ body {
   position: relative;
   overflow-y: auto;
 }
+
+select {
+  color: #9CA3AF;
+}
+
+option:not(:first-of-type) {
+  color: black;
+}

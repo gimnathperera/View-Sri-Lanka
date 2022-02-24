@@ -6,7 +6,10 @@ const Questions = () => {
           <h3 class='mt-1 text-2xl font-bold text-left text-gray-800 sm:mx-6 sm:text-3xl md:text-4xl lg:text-5xl sm:text-center sm:mx-0'>
             Visas & Customs Formalities
           </h3>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               How much will I be charged for the ETA?
             </h3>
@@ -17,7 +20,10 @@ const Questions = () => {
               those from all other countries, it will cost US $30.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Am I required to get an ETA?
             </h3>
@@ -27,7 +33,10 @@ const Questions = () => {
               an ETA to visit Sri Lanka.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               What is an Electronic Travel Authorization (ETA) ?
             </h3>
@@ -39,7 +48,10 @@ const Questions = () => {
               photographs are required to obtain ETA.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Do I need a visa to arrive in Sri Lanka?
             </h3>
@@ -56,7 +68,10 @@ const Questions = () => {
           <h3 class='mt-1 text-2xl font-bold text-left text-gray-800 sm:mx-6 sm:text-3xl md:text-4xl lg:text-5xl sm:text-center sm:mx-0'>
             Language & Communication
           </h3>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Can I access the Internet for free?
             </h3>
@@ -68,7 +83,10 @@ const Questions = () => {
               free WiFi facilities to guests.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               How do I dial out / within the country?
             </h3>
@@ -80,7 +98,10 @@ const Questions = () => {
               do without the area codes.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Can I buy a local mobile connection while holidaying?
             </h3>
@@ -92,7 +113,10 @@ const Questions = () => {
               arrival lobby where you can buy a connection for Rs. 1500/=
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               What is the country code and how do I dial in?
             </h3>
@@ -103,7 +127,10 @@ const Questions = () => {
               Mobitel number, for example it should go like ++9471XXXXXXX.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               What mobile technology is supported in Sri Lanka?
             </h3>
@@ -114,7 +141,10 @@ const Questions = () => {
               selected spots in major towns.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Which Language(s) will people understand / communicate?
             </h3>
@@ -133,7 +163,10 @@ const Questions = () => {
           <h3 class='mt-1 text-2xl font-bold text-left text-gray-800 sm:mx-6 sm:text-3xl md:text-4xl lg:text-5xl sm:text-center sm:mx-0'>
             Health & Safety
           </h3>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               How to keep away mosquitoes?
             </h3>
@@ -146,7 +179,10 @@ const Questions = () => {
               etc.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               What health issues must I be concerned with?
             </h3>
@@ -158,7 +194,10 @@ const Questions = () => {
               vaccination for Yellow fever and Meningitis before the arrival.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Is it safe to travel to Sri Lanka?
             </h3>
@@ -170,7 +209,10 @@ const Questions = () => {
               security of our tourists.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               What safety precautions I should necessarily take when travelling?
             </h3>
@@ -189,7 +231,10 @@ const Questions = () => {
           <h3 class='mt-1 text-2xl font-bold text-left text-gray-800 sm:mx-6 sm:text-3xl md:text-4xl lg:text-5xl sm:text-center sm:mx-0'>
             Food & Lodging
           </h3>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               What type of accommodation can I expect?
             </h3>
@@ -201,7 +246,10 @@ const Questions = () => {
               tourist standard may not exist & facilities are relatively poor.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Can I smoke in public places?
             </h3>
@@ -211,7 +259,10 @@ const Questions = () => {
               such as restaurants and social clubs.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Is it true that liquor is not served on Full Moon days?
             </h3>
@@ -223,7 +274,10 @@ const Questions = () => {
               meat shops & entertainment centres remain closed on Poya days.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               What other precautions should I take when choosing drinks?
             </h3>
@@ -234,7 +288,10 @@ const Questions = () => {
               thermos flasks, which is safe to drink.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               How about beer & liquor?
             </h3>
@@ -246,7 +303,10 @@ const Questions = () => {
               cost almost the same as in most western countries.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               What about soft drinks & fruit juice?
             </h3>
@@ -258,7 +318,10 @@ const Questions = () => {
               clean and cheap natural drink you’ll find by the wayside.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               What sorts of drinks / beverages can I have?
             </h3>
@@ -269,7 +332,10 @@ const Questions = () => {
               you may get it while in Colombo but not elsewhere.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               What sort of food can I hope to have in an ‘Ayurveda Resort’?
             </h3>
@@ -279,7 +345,10 @@ const Questions = () => {
               be included.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Can I get ‘Halal’ food?
             </h3>
@@ -291,7 +360,10 @@ const Questions = () => {
               The best alternative seems to be seafood.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Can I get vegetarian food?
             </h3>
@@ -310,7 +382,10 @@ const Questions = () => {
           <h3 class='mt-1 text-2xl font-bold text-left text-gray-800 sm:mx-6 sm:text-3xl md:text-4xl lg:text-5xl sm:text-center sm:mx-0'>
             Money & Banking
           </h3>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               What are the business hours and days?
             </h3>
@@ -318,7 +393,10 @@ const Questions = () => {
               Insert the table
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Why don’t Sri Lankan banks have IBAN account numbers?
             </h3>
@@ -329,7 +407,10 @@ const Questions = () => {
               BBAN (Basic Bank Account Number).
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Are ATM machines available throughout the country and do they
               issue cash for my debit/ credit card?
@@ -342,7 +423,10 @@ const Questions = () => {
               out for the Maestro or Cirrus logo!
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Are credit card charges made in foreign currency?
             </h3>
@@ -352,7 +436,10 @@ const Questions = () => {
               exchange rate prevailing at the date of payment.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Are credit cards accepted everywhere?
             </h3>
@@ -364,7 +451,10 @@ const Questions = () => {
               international use) whenever possible.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Where can I re-exchange?
             </h3>
@@ -375,7 +465,10 @@ const Questions = () => {
               receipts).
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               What’re requirements for re-exchanging?
             </h3>
@@ -386,7 +479,10 @@ const Questions = () => {
               of the country.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               How much of money can I take out of the country?
             </h3>
@@ -397,7 +493,10 @@ const Questions = () => {
               total amount brought in, even if it’s less than US$ 15,000.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               How much of money can I bring into the country?
             </h3>
@@ -409,7 +508,10 @@ const Questions = () => {
               Customs.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               How about the bank fees for foreign currency exchange?
             </h3>
@@ -426,7 +528,10 @@ const Questions = () => {
           <h3 class='mt-1 text-2xl font-bold text-left text-gray-800 sm:mx-6 sm:text-3xl md:text-4xl lg:text-5xl sm:text-center sm:mx-0'>
             Clothes & Accessories
           </h3>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Can you recommend a rough pack-list?
             </h3>
@@ -436,7 +541,10 @@ const Questions = () => {
               including the temple etiquette.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               How should I be dressed if I visit a Buddhist or Hindu Temple?
             </h3>
@@ -448,7 +556,10 @@ const Questions = () => {
               color or lighter color, when you visit Buddhist temple.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Is there any particular dress code that I’m supposed to follow?
             </h3>
@@ -459,7 +570,10 @@ const Questions = () => {
               not in any beach / swimwear.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               What type of clothes should I pack?
             </h3>
@@ -477,7 +591,10 @@ const Questions = () => {
           <h3 class='mt-1 text-2xl font-bold text-left text-gray-800 sm:mx-6 sm:text-3xl md:text-4xl lg:text-5xl sm:text-center sm:mx-0'>
             Travelling & Photography
           </h3>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               When is the best time to travel?
             </h3>
@@ -487,7 +604,10 @@ const Questions = () => {
               the East Coast.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Are there other options to process my digital photos?
             </h3>
@@ -498,7 +618,10 @@ const Questions = () => {
               This is much cheaper and can keep your memory cards empty.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Can I process my digital photos in Sri Lanka?
             </h3>
@@ -510,7 +633,10 @@ const Questions = () => {
               for processing.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Are there any places I should avoid photographing for military
               reasons?
@@ -520,7 +646,10 @@ const Questions = () => {
               with the military. Don’t shoot with cameras around Colombo Fort.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Should I pay for taking photographs of people or places?
             </h3>
@@ -530,7 +659,10 @@ const Questions = () => {
               accompanying representatives will be able to guide you on this.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Are there any other special concerns I should be aware of?
             </h3>
@@ -543,7 +675,10 @@ const Questions = () => {
               people. Don’t photograph a monk without asking permission.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Can I photographs inside temples and monasteries?
             </h3>
@@ -555,7 +690,10 @@ const Questions = () => {
               damage them.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               What are the do’s and don’ts of local photography?
             </h3>
@@ -567,7 +705,10 @@ const Questions = () => {
               that the people receive copies.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               What if I travel out of season?
             </h3>
@@ -579,7 +720,10 @@ const Questions = () => {
               gets higher & higher.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               How about the rainy seasons?
             </h3>
@@ -590,7 +734,10 @@ const Questions = () => {
               ‘right’ season somewhere in the island.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               How about the Temperature?
             </h3>
@@ -615,7 +762,10 @@ const Questions = () => {
           <h3 class='mt-1 text-2xl font-bold text-left text-gray-800 sm:mx-6 sm:text-3xl md:text-4xl lg:text-5xl sm:text-center sm:mx-0'>
             Shopping & Entertainment
           </h3>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               How much should I tip?
             </h3>
@@ -627,7 +777,10 @@ const Questions = () => {
               satisfaction).
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Is tipping accepted?
             </h3>
@@ -637,7 +790,10 @@ const Questions = () => {
               showing your appreciation for services rendered.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               How about the nightlife in Sri Lanka?
             </h3>
@@ -649,7 +805,10 @@ const Questions = () => {
               night partying.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               What should I specially shop for?
             </h3>
@@ -668,7 +827,10 @@ const Questions = () => {
           <h3 class='mt-1 text-2xl font-bold text-left text-gray-800 sm:mx-6 sm:text-3xl md:text-4xl lg:text-5xl sm:text-center sm:mx-0'>
             Local Customs and Etiquette
           </h3>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               What are the dos and don’ts when mingling with locals?
             </h3>
@@ -679,7 +841,10 @@ const Questions = () => {
               sure your behavior doesn’t violate environmental responsibility.
             </p>
           </div>
-          <div class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'>
+          <div
+            class='w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3'
+            data-aos='fade-up'
+          >
             <h3 class='text-lg font-bold text-purple-500 sm:text-xl md:text-2xl'>
               Where can I discover more information about the country in
               general?
