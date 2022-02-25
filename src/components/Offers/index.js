@@ -1,7 +1,7 @@
 import Bentota1 from 'src/assets/img/home/Bentota1.jpg';
 import daytour20 from 'src/assets/img/home/daytour20.jpg';
 import daytour22 from 'src/assets/img/home/yala12.jpg';
-import whale from 'src/assets/img/home/whale.png';
+import whale from 'src/assets/img/home/whale.jpg';
 import sigiriya7 from 'src/assets/img/home/sigiriya7.jpg';
 import hikkaduwa1 from 'src/assets/img/home/hikkaduwa1.jpg';
 

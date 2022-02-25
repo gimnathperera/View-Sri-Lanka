@@ -9,7 +9,7 @@ import {
   adultPackages,
   durations,
 } from 'src/data/common';
-import flowImg from 'src/assets/img/about/flow7.jpeg';
+import flowImg from 'src/assets/img/about/flow7.jpg';
 const initialFormValues = {
   fullName: '',
   country: '',

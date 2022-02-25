@@ -1,6 +1,6 @@
 import daytour from 'src/assets/img/home/daytour6.jpg';
-import taxi from 'src/assets/img/home/taxie.png';
-import travel from 'src/assets/img/home/travel.png';
+import taxi from 'src/assets/img/home/taxie.jpg';
+import travel from 'src/assets/img/home/travel.jpg';
 import img_3 from 'src/assets/img/home/img_3.jpg';
 
 const Services = () => {

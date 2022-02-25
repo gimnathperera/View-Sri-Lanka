@@ -4,7 +4,7 @@ import p4 from 'src/assets/img/about/p4.jpg';
 import p6 from 'src/assets/img/about/p6.jpg';
 import flow5 from 'src/assets/img/about/flow5.jpg';
 import flow4 from 'src/assets/img/about/flow4.jpg';
-import flow7 from 'src/assets/img/about/flow7.jpeg';
+import flow7 from 'src/assets/img/about/flow7.jpg';
 import flow6 from 'src/assets/img/about/flow6.jpg';
 
 const Content = () => {
