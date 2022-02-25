@@ -1,6 +1,5 @@
 import { Outlet } from 'react-router-dom';
-import ScrollUpButton from 'react-scroll-up-button';
-
+import ScrollToTop from 'react-scroll-up';
 import Header from 'src/components/common/Header';
 import Footer from 'src/components/common/Footer';
 
@@ -10,7 +9,9 @@ const MainLayout = () => {
       <Header />
       <Outlet />
       <Footer />
-      <ScrollUpButton EasingType='linear' />
+      <ScrollToTop showUnder={160}>
+        <span>UP</span>
+      </ScrollToTop>
     </>
   );
 };
