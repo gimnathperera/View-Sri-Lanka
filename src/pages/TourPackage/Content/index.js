@@ -1,5 +1,3 @@
-import { Link } from 'react-router-dom';
-
 import BookingAction from 'src/components/common/BookingAction';
 import { tourPackages } from 'src/data/tourpackages';
 import TourCard from 'src/pages/TourPackage/Content/TourCard';
