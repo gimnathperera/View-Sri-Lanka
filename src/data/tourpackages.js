@@ -381,12 +381,12 @@ import days12pasikudah7 from 'src/assets/img/tour/days12/day7/pasikudah-7.jpg';
 import days12pasikudah8 from 'src/assets/img/tour/days12/day7/pasikudah-8.jpg';
 import days12pasikudah9 from 'src/assets/img/tour/days12/day7/pasikudah-9.jpg';
 
-import days12polonnaruwa1 from 'src/assets/img/tour/days12/day8/polonnaruwa-1.jpg';
-import days12polonnaruwa2 from 'src/assets/img/tour/days12/day8/polonnaruwa-2.jpg';
-import days12polonnaruwa3 from 'src/assets/img/tour/days12/day8/polonnaruwa-3.jpg';
-import days12polonnaruwa4 from 'src/assets/img/tour/days12/day8/polonnaruwa-4.jpg';
+import days12polonnaruwa1 from 'src/assets/img/tour/days12/day8/polonnaruwa1.jpg';
+import days12polonnaruwa2 from 'src/assets/img/tour/days12/day8/polonnaruwa2.jpg';
+import days12polonnaruwa3 from 'src/assets/img/tour/days12/day8/polonnaruwa3.jpg';
+import days12polonnaruwa4 from 'src/assets/img/tour/days12/day8/polonnaruwa4.jpg';
 import days12polonnaruwa5 from 'src/assets/img/tour/days12/day8/polonnaruwa5.jpg';
-import days12polonnaruwa6 from 'src/assets/img/tour/days12/day8/polonnaruwa-6.jpg';
+import days12polonnaruwa6 from 'src/assets/img/tour/days12/day8/polonnaruwa6.jpg';
 
 import days12sigiriya1 from 'src/assets/img/tour/days12/day9/sigiriya1.jpg';
 import days12sigiriya2 from 'src/assets/img/tour/days12/day9/sigiriya2.jpg';
@@ -463,12 +463,12 @@ import days15Trincomalee4 from 'src/assets/img/tour/days15/day6/Trincomalee-4.jp
 import days15Trincomalee5 from 'src/assets/img/tour/days15/day6/Trincomalee-5.jpg';
 import days15Trincomalee6 from 'src/assets/img/tour/days15/day6/Trincomalee-6.jpg';
 
-import days15polonnaruwa1 from 'src/assets/img/tour/days15/day7/polonnaruwa-1.jpg';
-import days15polonnaruwa2 from 'src/assets/img/tour/days15/day7/polonnaruwa-2.jpg';
-import days15polonnaruwa3 from 'src/assets/img/tour/days15/day7/polonnaruwa-3.jpg';
-import days15polonnaruwa4 from 'src/assets/img/tour/days15/day7/polonnaruwa-4.jpg';
-import days15polonnaruwa5 from 'src/assets/img/tour/days15/day7/polonnaruwa-5.jpg';
-import days15polonnaruwa6 from 'src/assets/img/tour/days15/day7/polonnaruwa-6.jpg';
+import days15polonnaruwa1 from 'src/assets/img/tour/days15/day7/polonnaruwa1.jpg';
+import days15polonnaruwa2 from 'src/assets/img/tour/days15/day7/polonnaruwa2.jpg';
+import days15polonnaruwa3 from 'src/assets/img/tour/days15/day7/polonnaruwa3.jpg';
+import days15polonnaruwa4 from 'src/assets/img/tour/days15/day7/polonnaruwa4.jpg';
+import days15polonnaruwa5 from 'src/assets/img/tour/days15/day7/polonnaruwa5.jpg';
+import days15polonnaruwa6 from 'src/assets/img/tour/days15/day7/polonnaruwa6.jpg';
 
 import days15sigiriya1 from 'src/assets/img/tour/days15/day8/sigiriya1.jpg';
 import days15sigiriya2 from 'src/assets/img/tour/days15/day8/sigiriya1.jpg';
