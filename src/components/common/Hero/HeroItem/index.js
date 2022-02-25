@@ -10,7 +10,7 @@ const HeroComponent = ({ data }) => {
               {subHeader && <span class='block text-white'>{subHeader}</span>}
             </h1>
             {description && (
-              <p class='mx-auto text-base text-white sm:max-w-md lg:text-xl md:max-w-3xl'>
+              <p class='mx-auto text-base text-white sm:max-w-md lg:text-xl md:max-w-3xl    cssanimation effect3d'>
                 {description}
               </p>
             )}
