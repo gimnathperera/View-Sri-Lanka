@@ -9,8 +9,8 @@ const MainLayout = () => {
       <Header />
       <Outlet />
       <Footer />
-      <ScrollToTop showUnder={160}>
-        <span>UP</span>
+      <ScrollToTop showUnder={160} style={{ zIndex: 1000 }}>
+        <img src='https://milosjanda.github.io/react-scroll-up/img/up_arrow_round.png' />
       </ScrollToTop>
     </>
   );
