@@ -385,7 +385,7 @@ import days12polonnaruwa1 from 'src/assets/img/tour/days12/day8/polonnaruwa-1.jp
 import days12polonnaruwa2 from 'src/assets/img/tour/days12/day8/polonnaruwa-2.jpg';
 import days12polonnaruwa3 from 'src/assets/img/tour/days12/day8/polonnaruwa-3.jpg';
 import days12polonnaruwa4 from 'src/assets/img/tour/days12/day8/polonnaruwa-4.jpg';
-import days12polonnaruwa5 from 'src/assets/img/tour/days12/day8/polonnaruwa-5.jpg';
+import days12polonnaruwa5 from 'src/assets/img/tour/days12/day8/polonnaruwa5.jpg';
 import days12polonnaruwa6 from 'src/assets/img/tour/days12/day8/polonnaruwa-6.jpg';
 
 import days12sigiriya1 from 'src/assets/img/tour/days12/day9/sigiriya1.jpg';
