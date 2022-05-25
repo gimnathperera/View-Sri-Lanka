@@ -1,6 +1,6 @@
 # Project Overview
 
-🚀 <b>View Sri Lanka</b> is a fully mobile responsive tourism guide web application for travellers all around the world who likes to visit Sri Lanka. The application contains following features;<br/>
+🚀 <b>View Sri Lanka</b> is a fully mobile responsive tourism guide web application for travelers all around the world who likes to visit Sri Lanka. The application contains following features;<br/>
 - View travel locations in Sri Lanka<br/>
 - Detailed view of a selected location<br/>
 - View Hotels near a selected travel location<br/>
