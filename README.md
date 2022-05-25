@@ -13,9 +13,8 @@
 
 🚀 Working demo - https://view-lanka-tours.netlify.app<br/>
 
-<img src="https://i.ibb.co/9GrYkt7/screencapture-view-lanka-tours-netlify-app-about-us-2022-05-25-07-54-06.png" width="45%"></img> 
 <img src="https://i.ibb.co/Vx2sLqv/screencapture-view-lanka-tours-netlify-app-2022-05-25-07-42-18.png" width="45%"></img> 
-
+<img src="https://i.ibb.co/9GrYkt7/screencapture-view-lanka-tours-netlify-app-about-us-2022-05-25-07-54-06.png" width="45%"></img> 
 <img src="https://i.ibb.co/wSBM55n/screencapture-view-lanka-tours-netlify-app-destinations-3-2022-05-25-07-49-44.png" width="45%"></img> 
 <img src="https://i.ibb.co/CB4CR5Z/screencapture-view-lanka-tours-netlify-app-destinations-2022-05-25-07-55-44.png" width="45%"></img> 
 <img src="https://i.ibb.co/vL0DGD8/screencapture-view-lanka-tours-netlify-app-contact-us-2022-05-25-07-55-25.png" width="45%"></img> 
